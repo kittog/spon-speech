@@ -3,8 +3,9 @@ import re
 from praatio import textgrid
 
 # file list
-path = "../TextGrid"
-gridFiles = glob.glob(path + "/*.TextGrid")
+path = "TextGrid-corpus/"
+gridFiles = glob.glob(path + "*.TextGrid")
+
 # soundFiles = glob.glob(path)
 
 for grid in gridFiles[:2]:
@@ -24,7 +25,7 @@ for grid in gridFiles[:2]:
             # didascalies
             cleanLabel = re.sub("(\[|\{)[^pause]\w*(\}|\])", "", label)
             # mmm
-            cleanLabel = re.sub("m*h+", "mm", cleanLabel)
+            cleanLabel = re.sub("(m+h+|a+h*|eu+h)", "euh", cleanLabel)
             # clitiques
             cleanLabel = re.sub("c['] ", "ce", cleanLabel)
             cleanLabel = re.sub("j['] ", "je", cleanLabel)
@@ -38,5 +39,5 @@ for grid in gridFiles[:2]:
         newTier = tier.new(entries=newEntries)
         newtg.addTier(newTier)
     # save new textgrid
-    newtg.save("../../clean-TextGrid/" + grid,
+    newtg.save("TextGrid-clean/" + grid[len(path):],
                 format="short_textgrid", includeBlankSpaces=True)
