@@ -36,37 +36,47 @@ def divide(textgrids, waves):
                     f"../waves-cut/{filename}/{tiers[itier]}_{entry.start}_{entry.end}.wav", format="wav")
 
 
-def label_to_txt(path_to_TextGrid):
+def label_to_txt(path_to_TextGrid, folder):
     # path_to_TextGrid = filename, str
-    tg = textgrid.openTextgrid(path_to_TextGrid, False)
-    txt_file_name = path_to_TextGrid.split(".")[0] + ".txt"
-    txt = open(txt_file_name, "w")
-    tiers = tg.tierNames  # list
-    # technically only one tier remains !
-    for itier in range(len(tiers)):
-        tier = tg.getTier(tiers[itier])
-        for ientry in range(len(tier.entries)):
-            entry = tier.entries[ientry]
-            label = entry.label
-            txt.write(label)
-            txt.write("\n")
-    txt.close()
+    gridFiles = glob.glob(path_to_TextGrid + folder + "/*.TextGrid")
+    print(gridFiles)
+    os.mkdir(f"../txt-cut/{folder}")
+    for grid in gridFiles:
+        tg = textgrid.openTextgrid(grid, False)
+        txt_file_name = Path(grid).stem
 
 
+        # create txt file
+        txt = open(f"../txt-cut/{folder}/{txt_file_name}.txt", "w")
+        tiers = tg.tierNames  # list
+        # technically only one tier remains !
+        for itier in range(len(tiers)):
+            tier = tg.getTier(tiers[itier])
+            print(tier)
+            for ientry in range(len(tier.entries)):
+                entry = tier.entries[ientry]
+                label = entry.label
+                txt.write(label)
+                txt.write("\n")
+        txt.close()
+
+
+# maybe review this one ???
 def txt_or_divide(path_to_folder, func):
     gridFiles = glob.glob(path_to_folder + "*.TextGrid")
     for grid in gridFiles:
+        print(grid)
         func(grid)
 
 
 # main
 print(os.getcwd())
 
-path_to_textgrids = "TextGrid-corpus/"
-path_to_waves = "../cfpp/wav/"
+path_to_textgrids = "../TextGrid-cut/"
+folder = "Anita_MUSSO_F_46_11e-v2"
+path_to_waves = "../waves-cut/"
 
 textgrids = glob.glob(path_to_textgrids + "*.TextGrid")
 waves = glob.glob(path_to_waves + "*.wav")
 
-textgrids_test = ""
-divide(textgrids, waves)
+label_to_txt(path_to_textgrids, folder)
