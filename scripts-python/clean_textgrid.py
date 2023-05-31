@@ -3,7 +3,7 @@ import re
 from praatio import textgrid
 
 # file list
-path = "TextGrid-corpus/"
+path = "../TextGrid/"
 gridFiles = glob.glob(path + "*.TextGrid")
 
 # soundFiles = glob.glob(path)
@@ -24,8 +24,10 @@ for grid in gridFiles[:2]:
 
             # didascalies
             cleanLabel = re.sub("(\[|\{)[^pause]\w*(\}|\])", "", label)
+            # speech
+            # cleanLabel = re.sub()
             # mmm
-            cleanLabel = re.sub("(m+h+|a+h*|eu+h)", "euh", cleanLabel)
+            cleanLabel = re.sub("(m+h+)", "euh", cleanLabel)
             # clitiques
             cleanLabel = re.sub("c['] ", "ce", cleanLabel)
             cleanLabel = re.sub("j['] ", "je", cleanLabel)
@@ -41,3 +43,13 @@ for grid in gridFiles[:2]:
     # save new textgrid
     newtg.save("TextGrid-clean/" + grid[len(path):],
                 format="short_textgrid", includeBlankSpaces=True)
+
+enq = []
+for grid in gridFiles:
+    tg = textgrid.openTextgrid(grid, False)
+    tiers = tg.tierNames
+    for i in range(len(tiers)):
+        if "ENQ" in tiers[i]:
+            #print(grid + ": " + tiers[i])
+            enq.append(tiers[i])
+#print(len(enq) == len(gridFiles))

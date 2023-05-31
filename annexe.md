@@ -15,4 +15,13 @@ Deux scripts implémentés pour traiter cette tâche : `clean_textgrid.py` et `c
     - remplacer toute hésitation par "euh".
 - **doutes du transcripteur** : /ou, où/
     - on traitera à posteriori.
+- **lien entre deux bouts de phrase après une didascalie** :
 
+    > *y a le manège \[mm\] +y a un coin pour pique-niquer c'est vrai que \[mm\]*
+    - motif : \[\w*\] +\w
+    - à supprimer
+- **mots non-retranscrits** : XX, XXX... indiquent les mots de 2 à 3 syllabes non retranscrits car inaudible ou autre.
+    - on traitera à posteriori.
+- **discours rapporté** : 
+    >*elle me dit \[""\] blablabla \[""\]*
+    - supprimer les crochets et garder les guillemets ?
