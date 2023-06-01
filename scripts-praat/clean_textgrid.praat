@@ -36,4 +36,5 @@ for ifile to size (fileNames$#)
 			intText$ = replace(intText$, regCl3$, "tu", 0)
 		Save as text file: fileNames$# [ifile]
 		endfor
+	endfor
 endfor
