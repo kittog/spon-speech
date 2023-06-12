@@ -50,7 +50,8 @@ def divide_and_write(textgrids, waves):
             tier = tg.getTier(tiers[itier])
             for ientry in range(len(tier.entries)):
                 entry = tier.entries[ientry]
-                new_filename = f"{tiers[itier]}_{entry.start}_{entry.end}"
+                newtier_name = "_".join(tiers[itier].split())
+                new_filename = f"{newtier_name}_{entry.start}_{entry.end}"
 
                 # cut
                 divide(entry, wave, filename, new_filename, tier)
@@ -69,6 +70,8 @@ path_to_waves = "../cfpp/wav/"
 textgrids = glob.glob(path_to_textgrids + "*.TextGrid")
 waves = glob.glob(path_to_waves + "*.wav")
 
-textgrid_test = [path_to_textgrids + "Anita_MUSSO_F_46_11e-v2.TextGrid"]
-wave_test = [path_to_waves + "Anita_MUSSO_F_46_11e.wav"]
+textgrid_test = [path_to_textgrids +
+                 "Blanche_Duchemin_F_25_Reine_Ceret_F_60_11e-v2.TextGrid"]
+wave_test = [path_to_waves +
+             "Blanche_Duchemin_Jean_Pierre_Duchemin_Reine_Ceret.wav"]
 divide_and_write(textgrid_test, wave_test)
