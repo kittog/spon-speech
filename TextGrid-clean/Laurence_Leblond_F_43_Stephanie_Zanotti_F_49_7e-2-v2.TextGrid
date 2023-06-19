@@ -1,0 +1,370 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 300 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Florence Lefeuvre (ENQ)" 
+        xmin = 0 
+        xmax = 300 
+        intervals: size = 12 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.734 
+            text = "" 
+        intervals [2]:
+            xmin = 3.734 
+            xmax = 4.249 
+            text = "alors oui" 
+        intervals [3]:
+            xmin = 4.249 
+            xmax = 14.898 
+            text = "" 
+        intervals [4]:
+            xmin = 14.898 
+            xmax = 16.094 
+            text = "oui je comprends" 
+        intervals [5]:
+            xmin = 16.094 
+            xmax = 44.37 
+            text = "" 
+        intervals [6]:
+            xmin = 44.37 
+            xmax = 51.534 
+            text = "et est-ce que vous avez remarqué des des changements dans le quartier est-ce qu'il y a des choses qui ont changé au cours du temps des commerces par exemple qui ont" 
+        intervals [7]:
+            xmin = 51.534 
+            xmax = 53.364 
+            text = "fermé ouvert" 
+        intervals [8]:
+            xmin = 53.364 
+            xmax = 175.323 
+            text = "" 
+        intervals [9]:
+            xmin = 175.323 
+            xmax = 177.5 
+            text = "alors ça ça moi je trouve ça oui" 
+        intervals [10]:
+            xmin = 177.5 
+            xmax = 208.856 
+            text = "" 
+        intervals [11]:
+            xmin = 208.856 
+            xmax = 210.946 
+            text = "vous avez l'impression que la population change" 
+        intervals [12]:
+            xmin = 210.946 
+            xmax = 300 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Laurence Leblond" 
+        xmin = 0 
+        xmax = 300 
+        intervals: size = 37 
+        intervals [1]:
+            xmin = 0 
+            xmax = 5.316 
+            text = "" 
+        intervals [2]:
+            xmin = 5.316 
+            xmax = 7.145 
+            text = "oui les gardiennes d'immeuble" 
+        intervals [3]:
+            xmin = 7.145 
+            xmax = 7.903 
+            text = "" 
+        intervals [4]:
+            xmin = 7.903 
+            xmax = 14.898 
+            text = "c'est vrai que c'est très important en même temps c'est vrai que ça a un prix mais on enfin toujours au niveau sécurité aide des personnes relations dans le quartier tout ça c'est c'est" 
+        intervals [5]:
+            xmin = 14.898 
+            xmax = 16.094 
+            text = "" 
+        intervals [6]:
+            xmin = 16.094 
+            xmax = 19.372 
+            text = "c'est formidable c'est très important moi je trouve oui" 
+        intervals [7]:
+            xmin = 19.372 
+            xmax = 20.704 
+            text = "pour les enfants" 
+        intervals [8]:
+            xmin = 20.704 
+            xmax = 42.128 
+            text = "" 
+        intervals [9]:
+            xmin = 42.128 
+            xmax = 44.37 
+            text = "ben oui c'est pas toujours facile de" 
+        intervals [10]:
+            xmin = 44.37 
+            xmax = 51.534 
+            text = "" 
+        intervals [11]:
+            xmin = 51.534 
+            xmax = 53.364 
+            text = "ben oui bien sûr" 
+        intervals [12]:
+            xmin = 53.364 
+            xmax = 54.544 
+            text = "" 
+        intervals [13]:
+            xmin = 54.544 
+            xmax = 59.9 
+            text = "il y a de moins en moins de commerces de bouche d'alimentation et de plus en plus de banques agences immobilières" 
+        intervals [14]:
+            xmin = 59.9 
+            xmax = 60.291 
+            text = "" 
+        intervals [15]:
+            xmin = 60.291 
+            xmax = 64.928 
+            text = "traiteurs chinois ah on est envahis par les traiteurs chinois et euh" 
+        intervals [16]:
+            xmin = 64.928 
+            xmax = 65.857 
+            text = "" 
+        intervals [17]:
+            xmin = 65.857 
+            xmax = 66.597 
+            text = "et les fringues" 
+        intervals [18]:
+            xmin = 66.597 
+            xmax = 67.586 
+            text = "" 
+        intervals [19]:
+            xmin = 67.586 
+            xmax = 69.753 
+            text = "parce que c'est pas vraiment enfin du beau prêt-à-porter il y a un peu de tout" 
+        intervals [20]:
+            xmin = 69.753 
+            xmax = 71.468 
+            text = "" 
+        intervals [21]:
+            xmin = 71.468 
+            xmax = 142.525 
+            text = "ah oui ça d'ailleurs bon beaucoup de gens s'en plaignent hein c'est malheureux parce que on a une association des commerçants de l'arrondissement qui est très active euh avec les artisans enfin vous voyez tous ces commerces là qui font beaucoup d'activités notamment ils font une activité enfin une manifestation tous les ans qui s'appelle les sept jours du septième et donc il y a beaucoup d'animations dans les chez les commerçants euh ils organisent des une promenade en vélo pendant enfin moi je parle de ça parce que c'est la seule fois où je fais du vélo dans Paris justement je trouve ça très bien euh ils nous permettent de faire le tour du quar- enfin du septième ils font tout un parcours balisé par la police à vélo et euh enfin il y a des des tas de manifestations vous voyez pendant ce ces sept jours euh avec en général des dons qui sont pour des des associations caritatives différentes chaque année et tout ça pour justement attirer les gens dans les commerces de proximité et faire vivre le commerce de proximité qui a du mal à survivre parce que c'est vrai que les gens peut-être qu'ils y vont moins parce que c'est un petit peu cher aussi il faut le dire parce que c'est pas toujours ouvert quand on en a besoin parce qu'il faut attendre" 
+        intervals [22]:
+            xmin = 142.525 
+            xmax = 154.788 
+            text = "" 
+        intervals [23]:
+            xmin = 154.788 
+            xmax = 157.91 
+            text = "à ce niveau-là c'est de pire en pire" 
+        intervals [24]:
+            xmin = 157.91 
+            xmax = 161.88 
+            text = "" 
+        intervals [25]:
+            xmin = 161.88 
+            xmax = 163.273 
+            text = "oui on se demande comment ça fonctionne" 
+        intervals [26]:
+            xmin = 163.273 
+            xmax = 177.5 
+            text = "" 
+        intervals [27]:
+            xmin = 177.5 
+            xmax = 186.143 
+            text = "je pense dans le quartier c'est que il y a enfin pourquoi il y a de la surenchère enfin moi ce que j'entends dire justement par les agences immobilières c'est que souvent il y a beaucoup de ben d'étrangers" 
+        intervals [28]:
+            xmin = 186.143 
+            xmax = 186.361 
+            text = "" 
+        intervals [29]:
+            xmin = 186.361 
+            xmax = 201.393 
+            text = "enfin richissimes qui arrivent avec l'argent cash ils achètent l'appartement ben forcément que les agences immobilières sont ravies de les trouver et du coup ça renchérit le prix du mètre carré et les personnes qui sont là depuis des années voire des générations ont du mal après à" 
+        intervals [30]:
+            xmin = 201.393 
+            xmax = 202.645 
+            text = "" 
+        intervals [31]:
+            xmin = 202.645 
+            xmax = 205.127 
+            text = "à suivre parce que c'est vrai que les jeunes familles" 
+        intervals [32]:
+            xmin = 205.127 
+            xmax = 207.35 
+            text = "enfin les foyers qui débutent ils peuvent pas rester là en général" 
+        intervals [33]:
+            xmin = 207.35 
+            xmax = 210.946 
+            text = "" 
+        intervals [34]:
+            xmin = 210.946 
+            xmax = 211.922 
+            text = "oui oui c'est sûr" 
+        intervals [35]:
+            xmin = 211.922 
+            xmax = 213.816 
+            text = "" 
+        intervals [36]:
+            xmin = 213.816 
+            xmax = 234.498 
+            text = "vous avez aussi oui voilà beaucoup d'étrangers qui sont là que la moitié de l'année en plus souvent qui du coup ben pour les commerces justement de proximité c'est pas une c'est pas vraiment une affaire enfin je sais pas si quand ils sont là ils dépensent deux fois plus que les autres peut-être aussi hein mais c'est vrai que là-dessus c'est un petit peu dommage bon comment enfin on va pas empêcher ça non plus tant mieux pour nous c'est le succès de" 
+        intervals [37]:
+            xmin = 234.498 
+            xmax = 300 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "Stéphanie Zanotti" 
+        xmin = 0 
+        xmax = 300 
+        intervals: size = 37 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.804 
+            text = "" 
+        intervals [2]:
+            xmin = 1.804 
+            xmax = 3.734 
+            text = "je sais plus je sais plus où est-ce qu'on en était" 
+        intervals [3]:
+            xmin = 3.734 
+            xmax = 4.249 
+            text = "" 
+        intervals [4]:
+            xmin = 4.249 
+            xmax = 5.316 
+            text = "ah au gardiennage" 
+        intervals [5]:
+            xmin = 5.316 
+            xmax = 7.145 
+            text = "" 
+        intervals [6]:
+            xmin = 7.145 
+            xmax = 7.903 
+            text = "ah oui que chez nous on n'avait pas de gardiennes" 
+        intervals [7]:
+            xmin = 7.903 
+            xmax = 19.372 
+            text = "" 
+        intervals [8]:
+            xmin = 19.372 
+            xmax = 20.704 
+            text = "enfin il y a des" 
+        intervals [9]:
+            xmin = 20.704 
+            xmax = 42.128 
+            text = "moiquand je vois j'avais trouvé pour ma fille une gardienne de qui est devenue une amie que j'adore qui s'est occupée de ma fille quand elle quand elle était à la crèche pour aller la chercher et cetera donc euh c'est vraiment une dame absolument exceptionnelle bon nous on a une gardienne là bon qui qui qui travaille plus ou moins bien mais enfin bon comme partout hein on apersonnel" 
+        intervals [10]:
+            xmin = 42.128 
+            xmax = 53.364 
+            text = "" 
+        intervals [11]:
+            xmin = 53.364 
+            xmax = 54.544 
+            text = "beaucoup de commerces de de" 
+        intervals [12]:
+            xmin = 54.544 
+            xmax = 59.9 
+            text = "" 
+        intervals [13]:
+            xmin = 59.9 
+            xmax = 60.291 
+            text = "ah oui les agences immobilières" 
+        intervals [14]:
+            xmin = 60.291 
+            xmax = 64.928 
+            text = "" 
+        intervals [15]:
+            xmin = 64.928 
+            xmax = 65.857 
+            text = "et les fringues" 
+        intervals [16]:
+            xmin = 65.857 
+            xmax = 66.597 
+            text = "" 
+        intervals [17]:
+            xmin = 66.597 
+            xmax = 67.586 
+            text = "ah là là il y en a" 
+        intervals [18]:
+            xmin = 67.586 
+            xmax = 69.753 
+            text = "" 
+        intervals [19]:
+            xmin = 69.753 
+            xmax = 71.468 
+            text = "oui rue Saint-Do oui il y a" 
+        intervals [20]:
+            xmin = 71.468 
+            xmax = 142.525 
+            text = "" 
+        intervals [21]:
+            xmin = 142.525 
+            xmax = 154.788 
+            text = "mais c'est vrai que quand on quand on voit là le prix du du le fait que quand tu parles de cherté quand on voit aussi le prix du mètre carré dans le septième moi je me pose aussi des questions en disant mais comment feront les enfants hein de dire" 
+        intervals [22]:
+            xmin = 154.788 
+            xmax = 157.91 
+            text = "mais euh moi ça c'est je je trouve que ça" 
+        intervals [23]:
+            xmin = 157.91 
+            xmax = 161.88 
+            text = "on par-parl- tu parlais tout à l'heure d'agences immobilières j'en vois effectivement qui se créent presque toutes les semaines" 
+        intervals [24]:
+            xmin = 161.88 
+            xmax = 163.273 
+            text = "" 
+        intervals [25]:
+            xmin = 163.273 
+            xmax = 175.323 
+            text = "alors je veux dire comment effectivement ça fonctionne et puis quand on voit le prix du mètre carré je veux dire ah je trouve ça inadmissible parce que quand je vois le prix du mètre carré déjà mais comment feront les enfants même pour acheter un cin- cinquante mètres carrés il faudrait il faudrait qu'ils s'endettent sur cinquante ans enfin ils pourront même pas" 
+        intervals [26]:
+            xmin = 175.323 
+            xmax = 177.5 
+            text = "mais alors justement c'est une évolution aussi" 
+        intervals [27]:
+            xmin = 177.5 
+            xmax = 186.143 
+            text = "" 
+        intervals [28]:
+            xmin = 186.143 
+            xmax = 186.361 
+            text = "qui achètent oui" 
+        intervals [29]:
+            xmin = 186.361 
+            xmax = 201.393 
+            text = "" 
+        intervals [30]:
+            xmin = 201.393 
+            xmax = 202.645 
+            text = "ça va se vider le septième à un moment donné" 
+        intervals [31]:
+            xmin = 202.645 
+            xmax = 205.127 
+            text = "moi je vous le dis ils pourront pas" 
+        intervals [32]:
+            xmin = 205.127 
+            xmax = 207.35 
+            text = "" 
+        intervals [33]:
+            xmin = 207.35 
+            xmax = 208.856 
+            text = "ah oui moi je trouve ça euh" 
+        intervals [34]:
+            xmin = 208.856 
+            xmax = 210.946 
+            text = "" 
+        intervals [35]:
+            xmin = 210.946 
+            xmax = 211.922 
+            text = "ah oui oui" 
+        intervals [36]:
+            xmin = 211.922 
+            xmax = 213.816 
+            text = "à mon avis il y aura beaucoup de plus en plus d'étrangers" 
+        intervals [37]:
+            xmin = 213.816 
+            xmax = 300 
+            text = "" 

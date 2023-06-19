@@ -1,0 +1,4580 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4190.399 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Florence Lefeuvre (ENQ)" 
+        xmin = 0 
+        xmax = 4190.399 
+        intervals: size = 570 
+        intervals [1]:
+            xmin = 0 
+            xmax = 17.528 
+            text = "voilà [pause] donc tout d'abord je vais te poser des des questions sur [pause] la résidence [pause]  [syllabe incompréhensible] euh [pause] comment est-ce que toi ou tes parents [pause] vous êtes arrivés dans le quartier dans le Treizième" 
+        intervals [2]:
+            xmin = 17.528 
+            xmax = 45.873 
+            text = "" 
+        intervals [3]:
+            xmin = 45.873 
+            xmax = 49.594 
+            text = "d'accord [pause] il vivait avec vous ou [pause] enfin avec tes parents" 
+        intervals [4]:
+            xmin = 49.594 
+            xmax = 50.839 
+            text = "[suite de syllabes incompréhensibles]" 
+        intervals [5]:
+            xmin = 50.839 
+            xmax = 58.403 
+            text = "" 
+        intervals [6]:
+            xmin = 58.403 
+            xmax = 60.85 
+            text = "s'installer [mm mm]" 
+        intervals [7]:
+            xmin = 60.85 
+            xmax = 92.688 
+            text = "" 
+        intervals [8]:
+            xmin = 92.688 
+            xmax = 95.526 
+            text = "donc c'est là que vous avez vécu à [pause] à un moment donné" 
+        intervals [9]:
+            xmin = 95.526 
+            xmax = 98.078 
+            text = "comme ça tous les quatre" 
+        intervals [10]:
+            xmin = 98.078 
+            xmax = 120.452 
+            text = "" 
+        intervals [11]:
+            xmin = 120.452 
+            xmax = 122.436 
+            text = "oui ça ça vous convenait" 
+        intervals [12]:
+            xmin = 122.436 
+            xmax = 123.605 
+            text = "et et [pause] et" 
+        intervals [13]:
+            xmin = 123.605 
+            xmax = 130.573 
+            text = "et ton grand père il a acheté cet appartement dans le Treizième euh enfinje veux dire pourquoi le Treizième parce que ça s'est présenté dans le Treizième" 
+        intervals [14]:
+            xmin = 130.573 
+            xmax = 130.859 
+            text = "ou" 
+        intervals [15]:
+            xmin = 130.859 
+            xmax = 131.956 
+            text = "" 
+        intervals [16]:
+            xmin = 131.956 
+            xmax = 132.839 
+            text = "tu sais pas" 
+        intervals [17]:
+            xmin = 132.839 
+            xmax = 140.809 
+            text = "" 
+        intervals [18]:
+            xmin = 140.809 
+            xmax = 141.148 
+            text = "d'accord" 
+        intervals [19]:
+            xmin = 141.148 
+            xmax = 149.356 
+            text = "" 
+        intervals [20]:
+            xmin = 149.356 
+            xmax = 151.145 
+            text = "et c'était dans quel quartier par rapport" 
+        intervals [21]:
+            xmin = 151.145 
+            xmax = 151.627 
+            text = "à ici" 
+        intervals [22]:
+            xmin = 151.627 
+            xmax = 152.466 
+            text = "" 
+        intervals [23]:
+            xmin = 152.466 
+            xmax = 152.848 
+            text = "c'était" 
+        intervals [24]:
+            xmin = 152.848 
+            xmax = 155.643 
+            text = "rue du Banquier ah oui" 
+        intervals [25]:
+            xmin = 155.643 
+            xmax = 158.251 
+            text = "et t-" 
+        intervals [26]:
+            xmin = 158.251 
+            xmax = 171.411 
+            text = "" 
+        intervals [27]:
+            xmin = 171.411 
+            xmax = 174.945 
+            text = "donc ça c'était un immeuble des années euh" 
+        intervals [28]:
+            xmin = 174.945 
+            xmax = 175.828 
+            text = "" 
+        intervals [29]:
+            xmin = 175.828 
+            xmax = 176.357 
+            text = "soixante" 
+        intervals [30]:
+            xmin = 176.357 
+            xmax = 177.025 
+            text = "" 
+        intervals [31]:
+            xmin = 177.025 
+            xmax = 180.507 
+            text = "cinquante soix- soixante à peu près [pause] ouais c'est cela mais bon" 
+        intervals [32]:
+            xmin = 180.507 
+            xmax = 182.939 
+            text = "" 
+        intervals [33]:
+            xmin = 182.939 
+            xmax = 188.138 
+            text = "[mm mm]  [pause] et donc là vous avez déménagé euh ici" 
+        intervals [34]:
+            xmin = 188.138 
+            xmax = 189.669 
+            text = "y a [pause] ça fait" 
+        intervals [35]:
+            xmin = 189.669 
+            xmax = 200.787 
+            text = "" 
+        intervals [36]:
+            xmin = 200.787 
+            xmax = 201.269 
+            text = "voilà" 
+        intervals [37]:
+            xmin = 201.269 
+            xmax = 216.369 
+            text = "" 
+        intervals [38]:
+            xmin = 216.369 
+            xmax = 221.902 
+            text = "et vous avez euh vous êtes restés longtemps sur la liste d'attente ou s- pour toi ça a été rapide pas" 
+        intervals [39]:
+            xmin = 221.902 
+            xmax = 223.552 
+            text = "rapide à ton avis ça" 
+        intervals [40]:
+            xmin = 223.552 
+            xmax = 269.252 
+            text = "" 
+        intervals [41]:
+            xmin = 269.252 
+            xmax = 270.826 
+            text = "ah d'accord" 
+        intervals [42]:
+            xmin = 270.826 
+            xmax = 284.689 
+            text = "" 
+        intervals [43]:
+            xmin = 284.689 
+            xmax = 285.429 
+            text = "officiel en tout cas" 
+        intervals [44]:
+            xmin = 285.429 
+            xmax = 287.866 
+            text = "" 
+        intervals [45]:
+            xmin = 287.866 
+            xmax = 288.725 
+            text = "ouais [pause] ouais" 
+        intervals [46]:
+            xmin = 288.725 
+            xmax = 293.308 
+            text = "" 
+        intervals [47]:
+            xmin = 293.308 
+            xmax = 299.538 
+            text = "c'est sûr [pause] et donc [pause] vous êtes satisfaits de ce logement toi toi tu en es content ou" 
+        intervals [48]:
+            xmin = 299.538 
+            xmax = 329.319 
+            text = "" 
+        intervals [49]:
+            xmin = 329.319 
+            xmax = 331.303 
+            text = "c'est propre" 
+        intervals [50]:
+            xmin = 331.303 
+            xmax = 336.216 
+            text = "" 
+        intervals [51]:
+            xmin = 336.216 
+            xmax = 337.89 
+            text = "ah oui y avait quelqu'un qui le réparait" 
+        intervals [52]:
+            xmin = 337.89 
+            xmax = 338.391 
+            text = "là d'ailleurs" 
+        intervals [53]:
+            xmin = 338.391 
+            xmax = 359.024 
+            text = "" 
+        intervals [54]:
+            xmin = 359.024 
+            xmax = 360.674 
+            text = "la vue euh" 
+        intervals [55]:
+            xmin = 360.674 
+            xmax = 361.056 
+            text = "[syllabe incompréhensible]" 
+        intervals [56]:
+            xmin = 361.056 
+            xmax = 361.633 
+            text = "" 
+        intervals [57]:
+            xmin = 361.633 
+            xmax = 362.043 
+            text = "ouais" 
+        intervals [58]:
+            xmin = 362.043 
+            xmax = 362.282 
+            text = "" 
+        intervals [59]:
+            xmin = 362.282 
+            xmax = 362.621 
+            text = "oui" 
+        intervals [60]:
+            xmin = 362.621 
+            xmax = 364.08 
+            text = "oui oui" 
+        intervals [61]:
+            xmin = 364.08 
+            xmax = 366.208 
+            text = "[syllabe incompréhensible]  [pause] c'est assez" 
+        intervals [62]:
+            xmin = 366.208 
+            xmax = 379.062 
+            text = "" 
+        intervals [63]:
+            xmin = 379.062 
+            xmax = 379.663 
+            text = "ouais" 
+        intervals [64]:
+            xmin = 379.663 
+            xmax = 381.409 
+            text = "" 
+        intervals [65]:
+            xmin = 381.409 
+            xmax = 383.226 
+            text = "ouais [pause] avec la rue" 
+        intervals [66]:
+            xmin = 383.226 
+            xmax = 392.484 
+            text = "" 
+        intervals [67]:
+            xmin = 392.484 
+            xmax = 393.204 
+            text = "ah ouais" 
+        intervals [68]:
+            xmin = 393.204 
+            xmax = 408.443 
+            text = "" 
+        intervals [69]:
+            xmin = 408.443 
+            xmax = 410.284 
+            text = "plus protégés alors" 
+        intervals [70]:
+            xmin = 410.284 
+            xmax = 418.058 
+            text = "" 
+        intervals [71]:
+            xmin = 418.058 
+            xmax = 422.518 
+            text = "[mm mm]  [pause] et le quartier   [pause] tu en es content aussi" 
+        intervals [72]:
+            xmin = 422.518 
+            xmax = 441.434 
+            text = "" 
+        intervals [73]:
+            xmin = 441.434 
+            xmax = 444.968 
+            text = "ouais donc vous vous allez [pause] beaucoup à René-Le Gall ou" 
+        intervals [74]:
+            xmin = 444.968 
+            xmax = 445.135 
+            text = "au" 
+        intervals [75]:
+            xmin = 445.135 
+            xmax = 445.922 
+            text = "petit qui" 
+        intervals [76]:
+            xmin = 445.922 
+            xmax = 465.119 
+            text = "" 
+        intervals [77]:
+            xmin = 465.119 
+            xmax = 466.52 
+            text = "ah" 
+        intervals [78]:
+            xmin = 466.52 
+            xmax = 481.12 
+            text = "" 
+        intervals [79]:
+            xmin = 481.12 
+            xmax = 481.459 
+            text = "ouais" 
+        intervals [80]:
+            xmin = 481.459 
+            xmax = 488.356 
+            text = "" 
+        intervals [81]:
+            xmin = 488.356 
+            xmax = 489.243 
+            text = "les forêts de Le" 
+        intervals [82]:
+            xmin = 489.243 
+            xmax = 489.534 
+            text = "Gall" 
+        intervals [83]:
+            xmin = 489.534 
+            xmax = 508.164 
+            text = "" 
+        intervals [84]:
+            xmin = 508.164 
+            xmax = 509.504 
+            text = "oui parce que y a plein de" 
+        intervals [85]:
+            xmin = 509.504 
+            xmax = 512.222 
+            text = "" 
+        intervals [86]:
+            xmin = 512.222 
+            xmax = 513.158 
+            text = "c'est ça y a" 
+        intervals [87]:
+            xmin = 513.158 
+            xmax = 518.837 
+            text = "pas mal de restaurants pas mal de [pause] vous vous y allez avec les enfants par exemple ou" 
+        intervals [88]:
+            xmin = 518.837 
+            xmax = 519.923 
+            text = "" 
+        intervals [89]:
+            xmin = 519.923 
+            xmax = 521.115 
+            text = "ça vous arrive" 
+        intervals [90]:
+            xmin = 521.115 
+            xmax = 540.095 
+            text = "" 
+        intervals [91]:
+            xmin = 540.095 
+            xmax = 541.21 
+            text = "ah oui sinon" 
+        intervals [92]:
+            xmin = 541.21 
+            xmax = 541.849 
+            text = "c'est c'est rue" 
+        intervals [93]:
+            xmin = 541.849 
+            xmax = 542.723 
+            text = "des Cinq-Diamants un peu" 
+        intervals [94]:
+            xmin = 542.723 
+            xmax = 544.469 
+            text = "plus haut c'est ça là   [pause] ouais" 
+        intervals [95]:
+            xmin = 544.469 
+            xmax = 545.428 
+            text = "" 
+        intervals [96]:
+            xmin = 545.428 
+            xmax = 547.078 
+            text = "qui fait le coin oui oui j'y suis allée" 
+        intervals [97]:
+            xmin = 547.078 
+            xmax = 549.821 
+            text = "" 
+        intervals [98]:
+            xmin = 549.821 
+            xmax = 551.209 
+            text = "avec les nappes c'est celui" 
+        intervals [99]:
+            xmin = 551.209 
+            xmax = 553.742 
+            text = "qui a les nappes à carreaux c'est ça [pause] oui" 
+        intervals [100]:
+            xmin = 553.742 
+            xmax = 571.918 
+            text = "" 
+        intervals [101]:
+            xmin = 571.918 
+            xmax = 572.658 
+            text = "d'accord" 
+        intervals [102]:
+            xmin = 572.658 
+            xmax = 588.402 
+            text = "" 
+        intervals [103]:
+            xmin = 588.402 
+            xmax = 589.475 
+            text = "rue du Banquier" 
+        intervals [104]:
+            xmin = 589.475 
+            xmax = 590.119 
+            text = "c'est ça" 
+        intervals [105]:
+            xmin = 590.119 
+            xmax = 590.644 
+            text = "" 
+        intervals [106]:
+            xmin = 590.644 
+            xmax = 592.557 
+            text = "donc v- vers les Gobelins vous" 
+        intervals [107]:
+            xmin = 592.557 
+            xmax = 617.778 
+            text = "" 
+        intervals [108]:
+            xmin = 617.778 
+            xmax = 626.106 
+            text = "et donc est-ce que vous aimeriez euh [pause] déménager ailleurs ou bien euh finalement non [pause] qu'est-ce que" 
+        intervals [109]:
+            xmin = 626.106 
+            xmax = 632.7 
+            text = "" 
+        intervals [110]:
+            xmin = 632.7 
+            xmax = 635.458 
+            text = "[suite de syllabes incompréhensibles]" 
+        intervals [111]:
+            xmin = 635.458 
+            xmax = 660.524 
+            text = "" 
+        intervals [112]:
+            xmin = 660.524 
+            xmax = 668.875 
+            text = "oui [pause] est-ce que [pause] y a des [pause] des endroits dans dans le quartier où vous allez souvent tu m'as parlé du" 
+        intervals [113]:
+            xmin = 668.875 
+            xmax = 669.4 
+            text = "" 
+        intervals [114]:
+            xmin = 669.4 
+            xmax = 670.168 
+            text = "du du" 
+        intervals [115]:
+            xmin = 670.168 
+            xmax = 670.721 
+            text = "square" 
+        intervals [116]:
+            xmin = 670.721 
+            xmax = 674.203 
+            text = "par exemple pour faire les courses ou" 
+        intervals [117]:
+            xmin = 674.203 
+            xmax = 675.972 
+            text = "pour" 
+        intervals [118]:
+            xmin = 675.972 
+            xmax = 715.417 
+            text = "" 
+        intervals [119]:
+            xmin = 715.417 
+            xmax = 716.519 
+            text = "boulangerie" 
+        intervals [120]:
+            xmin = 716.519 
+            xmax = 731.858 
+            text = "" 
+        intervals [121]:
+            xmin = 731.858 
+            xmax = 733.127 
+            text = "d'accord" 
+        intervals [122]:
+            xmin = 733.127 
+            xmax = 750.016 
+            text = "" 
+        intervals [123]:
+            xmin = 750.016 
+            xmax = 751.213 
+            text = "ah" 
+        intervals [124]:
+            xmin = 751.213 
+            xmax = 757.557 
+            text = "" 
+        intervals [125]:
+            xmin = 757.557 
+            xmax = 759.923 
+            text = "[mm mm] c'est une carte pour les familles nombreuses" 
+        intervals [126]:
+            xmin = 759.923 
+            xmax = 760.643 
+            text = "ou" 
+        intervals [127]:
+            xmin = 760.643 
+            xmax = 777.837 
+            text = "" 
+        intervals [128]:
+            xmin = 777.837 
+            xmax = 779.888 
+            text = "surtout qu'y a un p- un petit bassin là à la" 
+        intervals [129]:
+            xmin = 779.888 
+            xmax = 782.702 
+            text = "Butte-aux-Cailles ou [pause] non c'est ça" 
+        intervals [130]:
+            xmin = 782.702 
+            xmax = 787.227 
+            text = "" 
+        intervals [131]:
+            xmin = 787.227 
+            xmax = 787.542 
+            text = "ah oui" 
+        intervals [132]:
+            xmin = 787.542 
+            xmax = 790.623 
+            text = "" 
+        intervals [133]:
+            xmin = 790.623 
+            xmax = 790.981 
+            text = "oui" 
+        intervals [134]:
+            xmin = 790.981 
+            xmax = 799.309 
+            text = "" 
+        intervals [135]:
+            xmin = 799.309 
+            xmax = 816.198 
+            text = "d'accord [pause] et euh est-ce que tu as déjà re- bon vous vous êtes ici depuis un an et demi est-ce que vous avez [pause] déjà remarqué euh [pause] des changements dans le quartier ou bien [pause] des situations inattendues des choses qui [pause] qui t'ont intrigué ou" 
+        intervals [136]:
+            xmin = 816.198 
+            xmax = 828.436 
+            text = "" 
+        intervals [137]:
+            xmin = 828.436 
+            xmax = 828.866 
+            text = "ah oui" 
+        intervals [138]:
+            xmin = 828.866 
+            xmax = 842.201 
+            text = "" 
+        intervals [139]:
+            xmin = 842.201 
+            xmax = 842.917 
+            text = "ouais" 
+        intervals [140]:
+            xmin = 842.917 
+            xmax = 891.338 
+            text = "" 
+        intervals [141]:
+            xmin = 891.338 
+            xmax = 893.364 
+            text = "ah ouais" 
+        intervals [142]:
+            xmin = 893.364 
+            xmax = 907.653 
+            text = "" 
+        intervals [143]:
+            xmin = 907.653 
+            xmax = 908.297 
+            text = "mais tu veux" 
+        intervals [144]:
+            xmin = 908.297 
+            xmax = 910.968 
+            text = "dire à cause des [pause] des nouveaux ou des" 
+        intervals [145]:
+            xmin = 910.968 
+            xmax = 911.779 
+            text = "des améliorations" 
+        intervals [146]:
+            xmin = 911.779 
+            xmax = 912.928 
+            text = "là ou des" 
+        intervals [147]:
+            xmin = 912.928 
+            xmax = 913.501 
+            text = "" 
+        intervals [148]:
+            xmin = 913.501 
+            xmax = 914.388 
+            text = "[suite de syllabes incompréhensibles]" 
+        intervals [149]:
+            xmin = 914.388 
+            xmax = 937.334 
+            text = "" 
+        intervals [150]:
+            xmin = 937.334 
+            xmax = 938.293 
+            text = "oui" 
+        intervals [151]:
+            xmin = 938.293 
+            xmax = 966.347 
+            text = "" 
+        intervals [152]:
+            xmin = 966.347 
+            xmax = 967.659 
+            text = "ah oui la rue des Cinq-Diamants" 
+        intervals [153]:
+            xmin = 967.659 
+            xmax = 969.619 
+            text = "là qui est en sens interdit hein" 
+        intervals [154]:
+            xmin = 969.619 
+            xmax = 970.859 
+            text = "" 
+        intervals [155]:
+            xmin = 970.859 
+            xmax = 972.147 
+            text = "sens unique ouais" 
+        intervals [156]:
+            xmin = 972.147 
+            xmax = 999.694 
+            text = "" 
+        intervals [157]:
+            xmin = 999.694 
+            xmax = 1002.341 
+            text = "et tu prends la voiture" 
+        intervals [158]:
+            xmin = 1002.341 
+            xmax = 1003.867 
+            text = "souvent  tu" 
+        intervals [159]:
+            xmin = 1003.867 
+            xmax = 1029.296 
+            text = "" 
+        intervals [160]:
+            xmin = 1029.296 
+            xmax = 1029.936 
+            text = "ouais" 
+        intervals [161]:
+            xmin = 1029.936 
+            xmax = 1061.748 
+            text = "" 
+        intervals [162]:
+            xmin = 1061.748 
+            xmax = 1062.468 
+            text = "ouais" 
+        intervals [163]:
+            xmin = 1062.468 
+            xmax = 1069.479 
+            text = "ouais ouais [pause] c'est pas facile [pause] donc pour a- pour amener euh Juliette à la crèche [pause] v- vous tu l'amènes" 
+        intervals [164]:
+            xmin = 1069.479 
+            xmax = 1070.91 
+            text = "en voiture en fait [pause] c'est ça" 
+        intervals [165]:
+            xmin = 1070.91 
+            xmax = 1072.699 
+            text = "avec les les deux grands" 
+        intervals [166]:
+            xmin = 1072.699 
+            xmax = 1074.659 
+            text = "que tu dé-" 
+        intervals [167]:
+            xmin = 1074.659 
+            xmax = 1076.138 
+            text = "tu les déposes d'abord à l'école" 
+        intervals [168]:
+            xmin = 1076.138 
+            xmax = 1076.381 
+            text = "et" 
+        intervals [169]:
+            xmin = 1076.381 
+            xmax = 1078.289 
+            text = "après tu vas à la crèche [pause] où tu déposes Juliette" 
+        intervals [170]:
+            xmin = 1078.289 
+            xmax = 1079.72 
+            text = "" 
+        intervals [171]:
+            xmin = 1079.72 
+            xmax = 1080.714 
+            text = "et tu reviens" 
+        intervals [172]:
+            xmin = 1080.714 
+            xmax = 1081.805 
+            text = "" 
+        intervals [173]:
+            xmin = 1081.805 
+            xmax = 1083.026 
+            text = "oui" 
+        intervals [174]:
+            xmin = 1083.026 
+            xmax = 1084.7 
+            text = "" 
+        intervals [175]:
+            xmin = 1084.7 
+            xmax = 1085.058 
+            text = "oui" 
+        intervals [176]:
+            xmin = 1085.058 
+            xmax = 1096.867 
+            text = "" 
+        intervals [177]:
+            xmin = 1096.867 
+            xmax = 1101.351 
+            text = "et donc après tu reviens [pause] euh  tu ramènes la voiture ici" 
+        intervals [178]:
+            xmin = 1101.351 
+            xmax = 1102.739 
+            text = "" 
+        intervals [179]:
+            xmin = 1102.739 
+            xmax = 1108.61 
+            text = "et tu pars [pause] tu pars travailler [pause] et tu travailles dans le [pause] Treizième" 
+        intervals [180]:
+            xmin = 1108.61 
+            xmax = 1114.667 
+            text = "" 
+        intervals [181]:
+            xmin = 1114.667 
+            xmax = 1116.909 
+            text = "derrière la place d'Italie c'est-à-dire par rapport à ici euh" 
+        intervals [182]:
+            xmin = 1116.909 
+            xmax = 1118.101 
+            text = "" 
+        intervals [183]:
+            xmin = 1118.101 
+            xmax = 1119.56 
+            text = "l'autre côté vers euh" 
+        intervals [184]:
+            xmin = 1119.56 
+            xmax = 1121.254 
+            text = "" 
+        intervals [185]:
+            xmin = 1121.254 
+            xmax = 1121.497 
+            text = "vers la" 
+        intervals [186]:
+            xmin = 1121.497 
+            xmax = 1122.69 
+            text = "" 
+        intervals [187]:
+            xmin = 1122.69 
+            xmax = 1123.482 
+            text = "ah oui rue Campo-" 
+        intervals [188]:
+            xmin = 1123.482 
+            xmax = 1125.919 
+            text = "Formio je vois [pause] je vois très bien où c'est [pause] d'accord" 
+        intervals [189]:
+            xmin = 1125.919 
+            xmax = 1129.186 
+            text = "" 
+        intervals [190]:
+            xmin = 1129.186 
+            xmax = 1130.069 
+            text = "cette fois à pied" 
+        intervals [191]:
+            xmin = 1130.069 
+            xmax = 1130.36 
+            text = "" 
+        intervals [192]:
+            xmin = 1130.36 
+            xmax = 1131.104 
+            text = "tu le fais à pied" 
+        intervals [193]:
+            xmin = 1131.104 
+            xmax = 1131.676 
+            text = "" 
+        intervals [194]:
+            xmin = 1131.676 
+            xmax = 1137.447 
+            text = "d'accord [pause] et et Maud lorsqu'elle ramène les enfants c'est [pause] à pied ou [pause] en voiture" 
+        intervals [195]:
+            xmin = 1137.447 
+            xmax = 1160.101 
+            text = "" 
+        intervals [196]:
+            xmin = 1160.101 
+            xmax = 1162.586 
+            text = "ouais [pause] c'est pratique c'est vrai" 
+        intervals [197]:
+            xmin = 1162.586 
+            xmax = 1169.983 
+            text = "" 
+        intervals [198]:
+            xmin = 1169.983 
+            xmax = 1182.241 
+            text = "et [pause] est-ce que comment tu définirais du coup les les limites de ton quartier [pause] qu'est-ce que ce qu'est-ce que c'est pour toi le quartier [pause] oui y a peut-être plusieurs visions" 
+        intervals [199]:
+            xmin = 1182.241 
+            xmax = 1183.576 
+            text = "plusieurs quartiers d'ailleurs" 
+        intervals [200]:
+            xmin = 1183.576 
+            xmax = 1273.496 
+            text = "" 
+        intervals [201]:
+            xmin = 1273.496 
+            xmax = 1275.208 
+            text = "c'est pas le shopping là" 
+        intervals [202]:
+            xmin = 1275.208 
+            xmax = 1309.216 
+            text = "" 
+        intervals [203]:
+            xmin = 1309.216 
+            xmax = 1309.359 
+            text = "et" 
+        intervals [204]:
+            xmin = 1309.359 
+            xmax = 1312.254 
+            text = "dans ce cas-là vous y allez en [pause] en bus ou en voiture" 
+        intervals [205]:
+            xmin = 1312.254 
+            xmax = 1313.258 
+            text = "ou c'est" 
+        intervals [206]:
+            xmin = 1313.258 
+            xmax = 1313.824 
+            text = "ça dépend" 
+        intervals [207]:
+            xmin = 1313.824 
+            xmax = 1326.465 
+            text = "" 
+        intervals [208]:
+            xmin = 1326.465 
+            xmax = 1329.114 
+            text = "ouais [pause] c'est di- c'est di-" 
+        intervals [209]:
+            xmin = 1329.114 
+            xmax = 1330.118 
+            text = "pas trop métro tu es" 
+        intervals [210]:
+            xmin = 1330.118 
+            xmax = 1331.122 
+            text = "[suite de syllabes incompréhensibles]" 
+        intervals [211]:
+            xmin = 1331.122 
+            xmax = 1331.48 
+            text = "" 
+        intervals [212]:
+            xmin = 1331.48 
+            xmax = 1345.954 
+            text = "ouais [pause] et est-ce que tu te sens donc un un habitant [pause] de ce quartier-ci là la Butte-aux-Cailles ou bien de l'arrondissement de Paris de comment tu te [pause] définirais [pause] comment tu [pause] qu'est-ce que" 
+        intervals [213]:
+            xmin = 1345.954 
+            xmax = 1347.048 
+            text = "tu" 
+        intervals [214]:
+            xmin = 1347.048 
+            xmax = 1351.069 
+            text = "de la rive droite de la rive gauche" 
+        intervals [215]:
+            xmin = 1351.069 
+            xmax = 1354.837 
+            text = "ah oui [pause] de l'immeuble de la rue de" 
+        intervals [216]:
+            xmin = 1354.837 
+            xmax = 1460.578 
+            text = "" 
+        intervals [217]:
+            xmin = 1460.578 
+            xmax = 1464.231 
+            text = "d'accord donc tu tu te sens plutôt comme un habitant du Treizième en fait" 
+        intervals [218]:
+            xmin = 1464.231 
+            xmax = 1465.519 
+            text = "peut-être [pause] hein" 
+        intervals [219]:
+            xmin = 1465.519 
+            xmax = 1468.882 
+            text = "" 
+        intervals [220]:
+            xmin = 1468.882 
+            xmax = 1469.65 
+            text = "qui est là aussi" 
+        intervals [221]:
+            xmin = 1469.65 
+            xmax = 1471.253 
+            text = "" 
+        intervals [222]:
+            xmin = 1471.253 
+            xmax = 1471.925 
+            text = "ouais ouais" 
+        intervals [223]:
+            xmin = 1471.925 
+            xmax = 1473.189 
+            text = "c'est c'est dans Paris" 
+        intervals [224]:
+            xmin = 1473.189 
+            xmax = 1475.121 
+            text = "hein" 
+        intervals [225]:
+            xmin = 1475.121 
+            xmax = 1499.819 
+            text = "" 
+        intervals [226]:
+            xmin = 1499.819 
+            xmax = 1507.288 
+            text = "et est-ce que [pause] il y a des des fêtes en avec les voisins ou dans le quartier ou" 
+        intervals [227]:
+            xmin = 1507.288 
+            xmax = 1554.988 
+            text = "" 
+        intervals [228]:
+            xmin = 1554.988 
+            xmax = 1555.35 
+            text = "ah ouais" 
+        intervals [229]:
+            xmin = 1555.35 
+            xmax = 1555.517 
+            text = "" 
+        intervals [230]:
+            xmin = 1555.517 
+            xmax = 1555.851 
+            text = "vous" 
+        intervals [231]:
+            xmin = 1555.851 
+            xmax = 1557.163 
+            text = "vous aviez été" 
+        intervals [232]:
+            xmin = 1557.163 
+            xmax = 1559.314 
+            text = "[pause] vous y êtes passés" 
+        intervals [233]:
+            xmin = 1559.314 
+            xmax = 1595.791 
+            text = "" 
+        intervals [234]:
+            xmin = 1595.791 
+            xmax = 1597.222 
+            text = "qui se rencontrent euh" 
+        intervals [235]:
+            xmin = 1597.222 
+            xmax = 1605.237 
+            text = "" 
+        intervals [236]:
+            xmin = 1605.237 
+            xmax = 1608.771 
+            text = "[mm mm] donc ça a un côté un peu chaleureux ou" 
+        intervals [237]:
+            xmin = 1608.771 
+            xmax = 1608.962 
+            text = "" 
+        intervals [238]:
+            xmin = 1608.962 
+            xmax = 1625.278 
+            text = "[pause] et [pause] est-ce que tu penses euh ou toi toi tout seul ou toi ta famille faire partie d'un d'un groupe social [pause]   et dans ce cas-là euh [pause] lequel si c'était le cas [pause] comment comment tu" 
+        intervals [239]:
+            xmin = 1625.278 
+            xmax = 1689.511 
+            text = "" 
+        intervals [240]:
+            xmin = 1689.511 
+            xmax = 1694.905 
+            text = "et tu as l'impression que ceux qui habitent dans cet immeuble c'est la même chose ou [pause] ou pas" 
+        intervals [241]:
+            xmin = 1694.905 
+            xmax = 1723.262 
+            text = "" 
+        intervals [242]:
+            xmin = 1723.262 
+            xmax = 1729.504 
+            text = "ça ça c'est une hypothèse que tu fais ou tu as des [pause] je sais pas des gens que tu as vus ou" 
+        intervals [243]:
+            xmin = 1729.504 
+            xmax = 1731.214 
+            text = "[pause] ou tu" 
+        intervals [244]:
+            xmin = 1731.214 
+            xmax = 1753.035 
+            text = "" 
+        intervals [245]:
+            xmin = 1753.035 
+            xmax = 1755.21 
+            text = "y avait pas que ça [pause] bon" 
+        intervals [246]:
+            xmin = 1755.21 
+            xmax = 1771.813 
+            text = "" 
+        intervals [247]:
+            xmin = 1771.813 
+            xmax = 1782.382 
+            text = "est-ce que y a d'autres groupes sociaux qui que tu [pause] vois dans le quartier ou que [pause] euh [pause] pas dans l'immeuble forcément mais" 
+        intervals [248]:
+            xmin = 1782.382 
+            xmax = 1801.393 
+            text = "" 
+        intervals [249]:
+            xmin = 1801.393 
+            xmax = 1803.587 
+            text = "ah oui" 
+        intervals [250]:
+            xmin = 1803.587 
+            xmax = 1869.506 
+            text = "" 
+        intervals [251]:
+            xmin = 1869.506 
+            xmax = 1883.056 
+            text = "et dans les façons de de parler est-ce que tu remarques qu'y a des [pause] façons différentes de parler [pause] soit dans le quartier soit [pause]" 
+        intervals [252]:
+            xmin = 1883.056 
+            xmax = 1900.014 
+            text = "" 
+        intervals [253]:
+            xmin = 1900.014 
+            xmax = 1900.659 
+            text = "que ça se" 
+        intervals [254]:
+            xmin = 1900.659 
+            xmax = 1901.641 
+            text = "que ça se joue" 
+        intervals [255]:
+            xmin = 1901.641 
+            xmax = 1901.937 
+            text = "" 
+        intervals [256]:
+            xmin = 1901.937 
+            xmax = 1902.262 
+            text = "c'est ça" 
+        intervals [257]:
+            xmin = 1902.262 
+            xmax = 1911.913 
+            text = "" 
+        intervals [258]:
+            xmin = 1911.913 
+            xmax = 1913.304 
+            text = "ah d'accord" 
+        intervals [259]:
+            xmin = 1913.304 
+            xmax = 1913.606 
+            text = "et" 
+        intervals [260]:
+            xmin = 1913.606 
+            xmax = 1919.41 
+            text = "" 
+        intervals [261]:
+            xmin = 1919.41 
+            xmax = 1923.049 
+            text = "tu es plus sensible [pause] à la différence" 
+        intervals [262]:
+            xmin = 1923.049 
+            xmax = 1923.7 
+            text = "" 
+        intervals [263]:
+            xmin = 1923.7 
+            xmax = 1926.392 
+            text = "qui existerait entre le langage des jeunes c'est ça" 
+        intervals [264]:
+            xmin = 1926.392 
+            xmax = 1926.807 
+            text = "" 
+        intervals [265]:
+            xmin = 1926.807 
+            xmax = 1928.233 
+            text = "et le" 
+        intervals [266]:
+            xmin = 1928.233 
+            xmax = 1930.754 
+            text = "et le langage des [pause] de leurs" 
+        intervals [267]:
+            xmin = 1930.754 
+            xmax = 1931.707 
+            text = "parents ou" 
+        intervals [268]:
+            xmin = 1931.707 
+            xmax = 1977.406 
+            text = "" 
+        intervals [269]:
+            xmin = 1977.406 
+            xmax = 1992.244 
+            text = "non [pause] et euh donc au- autour de [pause] de toi ou de vous vous avez tu me parles de des gens qui parlent peut-être étranger le basque ou comme ça mais [pause] tu entends pas d'autres langues [pause] dans le quartier ou" 
+        intervals [270]:
+            xmin = 1992.244 
+            xmax = 2006.044 
+            text = "" 
+        intervals [271]:
+            xmin = 2006.044 
+            xmax = 2007.106 
+            text = "d'accord" 
+        intervals [272]:
+            xmin = 2007.106 
+            xmax = 2008.971 
+            text = "" 
+        intervals [273]:
+            xmin = 2008.971 
+            xmax = 2010.502 
+            text = "c'est ouais" 
+        intervals [274]:
+            xmin = 2010.502 
+            xmax = 2012.291 
+            text = "et puis à ce type de restaurant-là" 
+        intervals [275]:
+            xmin = 2012.291 
+            xmax = 2012.82 
+            text = "à ce" 
+        intervals [276]:
+            xmin = 2012.82 
+            xmax = 2013.941 
+            text = "type de" 
+        intervals [277]:
+            xmin = 2013.941 
+            xmax = 2042.594 
+            text = "" 
+        intervals [278]:
+            xmin = 2042.594 
+            xmax = 2063.036 
+            text = "[mm mm] et et euh par exemple [pause] donc y a pas trop de différences qui te [pause] qui te choquent ou te surprennent et mais [pause] par rapport à d'autres quartiers de Paris [pause] tu dirais que [pause] tu m'as parlé de quartiers plus riches ou comme ça  est-ce qu'y aurait aussi des différences dans le [pause] dans le parler des gens ou pas à ton avis" 
+        intervals [279]:
+            xmin = 2063.036 
+            xmax = 2098.559 
+            text = "" 
+        intervals [280]:
+            xmin = 2098.559 
+            xmax = 2099.995 
+            text = "ouais [pause] ouais" 
+        intervals [281]:
+            xmin = 2099.995 
+            xmax = 2108.633 
+            text = "" 
+        intervals [282]:
+            xmin = 2108.633 
+            xmax = 2116.77 
+            text = "mais mais dans ton quotidien ça [pause] ça t'affecte pas [pause] enfin ça te [pause] surprend pas spécialement" 
+        intervals [283]:
+            xmin = 2116.77 
+            xmax = 2117.776 
+            text = "dans le quotidien" 
+        intervals [284]:
+            xmin = 2117.776 
+            xmax = 2128.317 
+            text = "je veux dire non [pause] non [pause] et entre les différents euh [pause] quartiers de Paris ou arrondissements tu penses qu'y a des différences d'opinion par exemple ou" 
+        intervals [285]:
+            xmin = 2128.317 
+            xmax = 2129.156 
+            text = "" 
+        intervals [286]:
+            xmin = 2129.156 
+            xmax = 2132.066 
+            text = "sur la vie sur" 
+        intervals [287]:
+            xmin = 2132.066 
+            xmax = 2133.74 
+            text = "ou c'est pas" 
+        intervals [288]:
+            xmin = 2133.74 
+            xmax = 2228.198 
+            text = "" 
+        intervals [289]:
+            xmin = 2228.198 
+            xmax = 2228.942 
+            text = "bien sûr ouais" 
+        intervals [290]:
+            xmin = 2228.942 
+            xmax = 2237.599 
+            text = "" 
+        intervals [291]:
+            xmin = 2237.599 
+            xmax = 2250.219 
+            text = "et donc les [pause] finalement c'est a- c'est avec tes enfants que tu trouves qu'y a le plus de différences dans le langage ou dans le parler ou [pause] qu'est qu'est-ce qu'y a comme comme différence par exemple" 
+        intervals [292]:
+            xmin = 2250.219 
+            xmax = 2252.842 
+            text = "" 
+        intervals [293]:
+            xmin = 2252.842 
+            xmax = 2253.128 
+            text = "ouais" 
+        intervals [294]:
+            xmin = 2253.128 
+            xmax = 2255.012 
+            text = "" 
+        intervals [295]:
+            xmin = 2255.012 
+            xmax = 2256.066 
+            text = "[mm mm]  [pause]  [mm mm] ouais" 
+        intervals [296]:
+            xmin = 2256.066 
+            xmax = 2282.906 
+            text = "" 
+        intervals [297]:
+            xmin = 2282.906 
+            xmax = 2287.176 
+            text = "mais chez chez tes enfants [pause] ils parlent [pause] verlan   [pause] c'est ils sont" 
+        intervals [298]:
+            xmin = 2287.176 
+            xmax = 2290.467 
+            text = "ils sont jeunes tes enfants   [pause] parce que parce que là" 
+        intervals [299]:
+            xmin = 2290.467 
+            xmax = 2292.518 
+            text = "" 
+        intervals [300]:
+            xmin = 2292.518 
+            xmax = 2292.69 
+            text = "ah" 
+        intervals [301]:
+            xmin = 2292.69 
+            xmax = 2315.803 
+            text = "" 
+        intervals [302]:
+            xmin = 2315.803 
+            xmax = 2319.981 
+            text = "[mm mm] d'accord tu es sensible à cette [pause] façon" 
+        intervals [303]:
+            xmin = 2319.981 
+            xmax = 2321.698 
+            text = "de parler-là" 
+        intervals [304]:
+            xmin = 2321.698 
+            xmax = 2357.044 
+            text = "" 
+        intervals [305]:
+            xmin = 2357.044 
+            xmax = 2361.94 
+            text = "et euh [pause] en ce qui concerne l'école là tu tu m'as parlé du lycée Rodin est-ce que" 
+        intervals [306]:
+            xmin = 2361.94 
+            xmax = 2362.279 
+            text = "qu'est" 
+        intervals [307]:
+            xmin = 2362.279 
+            xmax = 2367.268 
+            text = "qu'est-ce que tu penses des écoles du quartier des collèges des lycées" 
+        intervals [308]:
+            xmin = 2367.268 
+            xmax = 2430.481 
+            text = "" 
+        intervals [309]:
+            xmin = 2430.481 
+            xmax = 2431.726 
+            text = "e- elle est où cette école où" 
+        intervals [310]:
+            xmin = 2431.726 
+            xmax = 2432.637 
+            text = "" 
+        intervals [311]:
+            xmin = 2432.637 
+            xmax = 2433.667 
+            text = "boulevard Arago" 
+        intervals [312]:
+            xmin = 2433.667 
+            xmax = 2453.156 
+            text = "" 
+        intervals [313]:
+            xmin = 2453.156 
+            xmax = 2453.805 
+            text = "[syllabe incompréhensible]" 
+        intervals [314]:
+            xmin = 2453.805 
+            xmax = 2461.441 
+            text = "" 
+        intervals [315]:
+            xmin = 2461.441 
+            xmax = 2466.835 
+            text = "ils sont [pause] d'accord ils sont [pause] ils sont en quelles classes c'est en à l'école primaire c'est ça" 
+        intervals [316]:
+            xmin = 2466.835 
+            xmax = 2467.098 
+            text = "c'est" 
+        intervals [317]:
+            xmin = 2467.098 
+            xmax = 2468.891 
+            text = "" 
+        intervals [318]:
+            xmin = 2468.891 
+            xmax = 2475.02 
+            text = "d'accord [pause] et donc par exemple pour l'année prochaine alors comment [pause] ça va se passer pour le collège" 
+        intervals [319]:
+            xmin = 2475.02 
+            xmax = 2496.222 
+            text = "" 
+        intervals [320]:
+            xmin = 2496.222 
+            xmax = 2497.915 
+            text = "d'accord" 
+        intervals [321]:
+            xmin = 2497.915 
+            xmax = 2501.014 
+            text = "" 
+        intervals [322]:
+            xmin = 2501.014 
+            xmax = 2503.709 
+            text = "donc tu [pause] tu t'inquiètes pas de" 
+        intervals [323]:
+            xmin = 2503.709 
+            xmax = 2503.952 
+            text = "" 
+        intervals [324]:
+            xmin = 2503.952 
+            xmax = 2505.669 
+            text = "la structure publique" 
+        intervals [325]:
+            xmin = 2505.669 
+            xmax = 2506.099 
+            text = "" 
+        intervals [326]:
+            xmin = 2506.099 
+            xmax = 2510.206 
+            text = "pas [pause] d'accord [pause] et le lycée Rodin non plus" 
+        intervals [327]:
+            xmin = 2510.206 
+            xmax = 2531.03 
+            text = "" 
+        intervals [328]:
+            xmin = 2531.03 
+            xmax = 2533.396 
+            text = "ah oui alors c'est peut-être CM1 alors [pause] oui d'accord" 
+        intervals [329]:
+            xmin = 2533.396 
+            xmax = 2557.929 
+            text = "" 
+        intervals [330]:
+            xmin = 2557.929 
+            xmax = 2558.935 
+            text = "d'accord" 
+        intervals [331]:
+            xmin = 2558.935 
+            xmax = 2570.578 
+            text = "" 
+        intervals [332]:
+            xmin = 2570.578 
+            xmax = 2571.489 
+            text = "d'accord" 
+        intervals [333]:
+            xmin = 2571.489 
+            xmax = 2577.289 
+            text = "" 
+        intervals [334]:
+            xmin = 2577.289 
+            xmax = 2578.438 
+            text = "ah ouais" 
+        intervals [335]:
+            xmin = 2578.438 
+            xmax = 2584.186 
+            text = "" 
+        intervals [336]:
+            xmin = 2584.186 
+            xmax = 2587.076 
+            text = "et toi-même tu [pause] tu as été à quelle école" 
+        intervals [337]:
+            xmin = 2587.076 
+            xmax = 2589.199 
+            text = "" 
+        intervals [338]:
+            xmin = 2589.199 
+            xmax = 2589.8 
+            text = "ah où sont les" 
+        intervals [339]:
+            xmin = 2589.8 
+            xmax = 2590.329 
+            text = "enfants" 
+        intervals [340]:
+            xmin = 2590.329 
+            xmax = 2591.903 
+            text = "" 
+        intervals [341]:
+            xmin = 2591.903 
+            xmax = 2592.976 
+            text = "oui oui c'est ça" 
+        intervals [342]:
+            xmin = 2592.976 
+            xmax = 2596.005 
+            text = "" 
+        intervals [343]:
+            xmin = 2596.005 
+            xmax = 2597.722 
+            text = "tu as retrouvé des des enseignants ou" 
+        intervals [344]:
+            xmin = 2597.722 
+            xmax = 2598.318 
+            text = "là  ou" 
+        intervals [345]:
+            xmin = 2598.318 
+            xmax = 2599.797 
+            text = "" 
+        intervals [346]:
+            xmin = 2599.797 
+            xmax = 2600.684 
+            text = "ça aurait pu" 
+        intervals [347]:
+            xmin = 2600.684 
+            xmax = 2618.67 
+            text = "" 
+        intervals [348]:
+            xmin = 2618.67 
+            xmax = 2620.129 
+            text = "tu as eu des nouvelles" 
+        intervals [349]:
+            xmin = 2620.129 
+            xmax = 2622.419 
+            text = "tu avais de- tu avais demandé euh" 
+        intervals [350]:
+            xmin = 2622.419 
+            xmax = 2622.805 
+            text = "il y en avait un" 
+        intervals [351]:
+            xmin = 2622.805 
+            xmax = 2624.618 
+            text = "qui t'avait marqué plus" 
+        intervals [352]:
+            xmin = 2624.618 
+            xmax = 2625.648 
+            text = "spécialement ou" 
+        intervals [353]:
+            xmin = 2625.648 
+            xmax = 2656.018 
+            text = "" 
+        intervals [354]:
+            xmin = 2656.018 
+            xmax = 2658.598 
+            text = "donc tu devais être content que tes enfants euh" 
+        intervals [355]:
+            xmin = 2658.598 
+            xmax = 2659.266 
+            text = "" 
+        intervals [356]:
+            xmin = 2659.266 
+            xmax = 2660.439 
+            text = "aillent" 
+        intervals [357]:
+            xmin = 2660.439 
+            xmax = 2661.727 
+            text = "" 
+        intervals [358]:
+            xmin = 2661.727 
+            xmax = 2662.991 
+            text = "ouais" 
+        intervals [359]:
+            xmin = 2662.991 
+            xmax = 2680.109 
+            text = "" 
+        intervals [360]:
+            xmin = 2680.109 
+            xmax = 2681.878 
+            text = "et Juliette ira là-bas aussi" 
+        intervals [361]:
+            xmin = 2681.878 
+            xmax = 2710.722 
+            text = "" 
+        intervals [362]:
+            xmin = 2710.722 
+            xmax = 2711.514 
+            text = "aller" 
+        intervals [363]:
+            xmin = 2711.514 
+            xmax = 2712.33 
+            text = "" 
+        intervals [364]:
+            xmin = 2712.33 
+            xmax = 2713.766 
+            text = "oui" 
+        intervals [365]:
+            xmin = 2713.766 
+            xmax = 2714.844 
+            text = "d'accord" 
+        intervals [366]:
+            xmin = 2714.844 
+            xmax = 2721.197 
+            text = "" 
+        intervals [367]:
+            xmin = 2721.197 
+            xmax = 2723.129 
+            text = "à côté donc à [pause] là" 
+        intervals [368]:
+            xmin = 2723.129 
+            xmax = 2724.321 
+            text = "vers" 
+        intervals [369]:
+            xmin = 2724.321 
+            xmax = 2728.924 
+            text = "" 
+        intervals [370]:
+            xmin = 2728.924 
+            xmax = 2731.194 
+            text = "oui [pause] près de la piscine oui oui" 
+        intervals [371]:
+            xmin = 2731.194 
+            xmax = 2736.751 
+            text = "je vois je vois [pause] d'accord [pause] bon donc apparemment" 
+        intervals [372]:
+            xmin = 2736.751 
+            xmax = 2746.777 
+            text = "" 
+        intervals [373]:
+            xmin = 2746.777 
+            xmax = 2747.616 
+            text = "oui" 
+        intervals [374]:
+            xmin = 2747.616 
+            xmax = 2753.387 
+            text = "" 
+        intervals [375]:
+            xmin = 2753.387 
+            xmax = 2753.888 
+            text = "oui" 
+        intervals [376]:
+            xmin = 2753.888 
+            xmax = 2759.826 
+            text = "" 
+        intervals [377]:
+            xmin = 2759.826 
+            xmax = 2760.446 
+            text = "ouais" 
+        intervals [378]:
+            xmin = 2760.446 
+            xmax = 2790.915 
+            text = "" 
+        intervals [379]:
+            xmin = 2790.915 
+            xmax = 2805.274 
+            text = "[mm mm]  [pause]   c'est sûr [pause] est-ce que tu [pause] est-ce que le le quartier ou l'arrondissement a été touché par des problèmes économiques [pause] est-ce que toi-même tu as été touché par les problèmes économiques [pause]" 
+        intervals [380]:
+            xmin = 2805.274 
+            xmax = 2807.373 
+            text = "" 
+        intervals [381]:
+            xmin = 2807.373 
+            xmax = 2810.216 
+            text = "par rapport au travail ou comme ça [pause] non" 
+        intervals [382]:
+            xmin = 2810.216 
+            xmax = 2827.82 
+            text = "" 
+        intervals [383]:
+            xmin = 2827.82 
+            xmax = 2828.392 
+            text = "non" 
+        intervals [384]:
+            xmin = 2828.392 
+            xmax = 2829.132 
+            text = "" 
+        intervals [385]:
+            xmin = 2829.132 
+            xmax = 2829.375 
+            text = "non" 
+        intervals [386]:
+            xmin = 2829.375 
+            xmax = 2835.151 
+            text = "" 
+        intervals [387]:
+            xmin = 2835.151 
+            xmax = 2836.11 
+            text = "et toi tu as" 
+        intervals [388]:
+            xmin = 2836.11 
+            xmax = 2839.31 
+            text = "connu des changements ou ton travail ou des" 
+        intervals [389]:
+            xmin = 2839.31 
+            xmax = 2878.759 
+            text = "" 
+        intervals [390]:
+            xmin = 2878.759 
+            xmax = 2883.605 
+            text = "[mm mm]  [pause] donc ça a été plutôt euh [pause] bénéfique" 
+        intervals [391]:
+            xmin = 2883.605 
+            xmax = 2902.33 
+            text = "" 
+        intervals [392]:
+            xmin = 2902.33 
+            xmax = 2902.979 
+            text = "ah ouais" 
+        intervals [393]:
+            xmin = 2902.979 
+            xmax = 2906.394 
+            text = "" 
+        intervals [394]:
+            xmin = 2906.394 
+            xmax = 2908.092 
+            text = "ouais ouais ouais" 
+        intervals [395]:
+            xmin = 2908.092 
+            xmax = 2911.531 
+            text = "" 
+        intervals [396]:
+            xmin = 2911.531 
+            xmax = 2917.736 
+            text = "[mm mm]  [pause] et d- et le soir tu tu reviens vers euh quelle heure [pause] à à la maison" 
+        intervals [397]:
+            xmin = 2917.736 
+            xmax = 2920.687 
+            text = "[syllabe incompréhensible]  [pause] vers dix-huit heures trente" 
+        intervals [398]:
+            xmin = 2920.687 
+            xmax = 2922.362 
+            text = "" 
+        intervals [399]:
+            xmin = 2922.362 
+            xmax = 2926.638 
+            text = "et tu tu vas à ton travail il est quelle heure alors ou est-ce que tu commences assez" 
+        intervals [400]:
+            xmin = 2926.638 
+            xmax = 2947.462 
+            text = "" 
+        intervals [401]:
+            xmin = 2947.462 
+            xmax = 2948.158 
+            text = "d'accord" 
+        intervals [402]:
+            xmin = 2948.158 
+            xmax = 2955.67 
+            text = "" 
+        intervals [403]:
+            xmin = 2955.67 
+            xmax = 2969.907 
+            text = "et ensuite lorsque tu reviens ici le soir ou [pause] comme cela le l'entretien de la maison et cetera c'est pas trop difficile tu [pause] tu trouves que vous arrivez à bien vous répartir les tâches" 
+        intervals [404]:
+            xmin = 2969.907 
+            xmax = 3005.672 
+            text = "" 
+        intervals [405]:
+            xmin = 3005.672 
+            xmax = 3006.912 
+            text = "ouais" 
+        intervals [406]:
+            xmin = 3006.912 
+            xmax = 3026.527 
+            text = "" 
+        intervals [407]:
+            xmin = 3026.527 
+            xmax = 3031.373 
+            text = "mais et sinon pour l- pour l'entretien le ménage tout ça" 
+        intervals [408]:
+            xmin = 3031.373 
+            xmax = 3033.16 
+            text = "c'est le [pause]" 
+        intervals [409]:
+            xmin = 3033.16 
+            xmax = 3062.079 
+            text = "" 
+        intervals [410]:
+            xmin = 3062.079 
+            xmax = 3062.847 
+            text = "ouais" 
+        intervals [411]:
+            xmin = 3062.847 
+            xmax = 3063.806 
+            text = "c'est d'abord les" 
+        intervals [412]:
+            xmin = 3063.806 
+            xmax = 3066.291 
+            text = "les enfants le repas" 
+        intervals [413]:
+            xmin = 3066.291 
+            xmax = 3066.725 
+            text = "" 
+        intervals [414]:
+            xmin = 3066.725 
+            xmax = 3068.275 
+            text = "euh et cetera" 
+        intervals [415]:
+            xmin = 3068.275 
+            xmax = 3071.631 
+            text = "" 
+        intervals [416]:
+            xmin = 3071.631 
+            xmax = 3077.748 
+            text = "[pause] mais le week-end c'est peut-être réservé aux loisirs aussi ou" 
+        intervals [417]:
+            xmin = 3077.748 
+            xmax = 3078.945 
+            text = "la promenade ou" 
+        intervals [418]:
+            xmin = 3078.945 
+            xmax = 3129.157 
+            text = "" 
+        intervals [419]:
+            xmin = 3129.157 
+            xmax = 3131.117 
+            text = "vous allez où alors vous allez" 
+        intervals [420]:
+            xmin = 3131.117 
+            xmax = 3144.901 
+            text = "" 
+        intervals [421]:
+            xmin = 3144.901 
+            xmax = 3145.783 
+            text = "voilà" 
+        intervals [422]:
+            xmin = 3145.783 
+            xmax = 3146.618 
+            text = "oui" 
+        intervals [423]:
+            xmin = 3146.618 
+            xmax = 3167.618 
+            text = "" 
+        intervals [424]:
+            xmin = 3167.618 
+            xmax = 3168.81 
+            text = "qui sont" 
+        intervals [425]:
+            xmin = 3168.81 
+            xmax = 3170.17 
+            text = "à Paris" 
+        intervals [426]:
+            xmin = 3170.17 
+            xmax = 3171.725 
+            text = "qui habitent" 
+        intervals [427]:
+            xmin = 3171.725 
+            xmax = 3176.428 
+            text = "" 
+        intervals [428]:
+            xmin = 3176.428 
+            xmax = 3177.148 
+            text = "d'accord" 
+        intervals [429]:
+            xmin = 3177.148 
+            xmax = 3178.722 
+            text = "" 
+        intervals [430]:
+            xmin = 3178.722 
+            xmax = 3179.604 
+            text = "c'est pas trop loin" 
+        intervals [431]:
+            xmin = 3179.604 
+            xmax = 3180.558 
+            text = "" 
+        intervals [432]:
+            xmin = 3180.558 
+            xmax = 3181.846 
+            text = "tous les grands-parents sont" 
+        intervals [433]:
+            xmin = 3181.846 
+            xmax = 3182.347 
+            text = "à Paris" 
+        intervals [434]:
+            xmin = 3182.347 
+            xmax = 3207.919 
+            text = "" 
+        intervals [435]:
+            xmin = 3207.919 
+            xmax = 3212.002 
+            text = "et est-ce que les grands-parents vous aident pour garder les enfants par exemple ou" 
+        intervals [436]:
+            xmin = 3212.002 
+            xmax = 3238.758 
+            text = "" 
+        intervals [437]:
+            xmin = 3238.758 
+            xmax = 3239.831 
+            text = "ah ouais [pause]" 
+        intervals [438]:
+            xmin = 3239.831 
+            xmax = 3241.19 
+            text = "ils ont tous un travail" 
+        intervals [439]:
+            xmin = 3241.19 
+            xmax = 3242.049 
+            text = "" 
+        intervals [440]:
+            xmin = 3242.049 
+            xmax = 3243.58 
+            text = "d'accord" 
+        intervals [441]:
+            xmin = 3243.58 
+            xmax = 3246.656 
+            text = "" 
+        intervals [442]:
+            xmin = 3246.656 
+            xmax = 3247.563 
+            text = "ils ont" 
+        intervals [443]:
+            xmin = 3247.563 
+            xmax = 3257.011 
+            text = "" 
+        intervals [444]:
+            xmin = 3257.011 
+            xmax = 3259.015 
+            text = "ils ont quel âge à peu près ils ont" 
+        intervals [445]:
+            xmin = 3259.015 
+            xmax = 3261.094 
+            text = "ils sont jeunes alors [syllabe incompéhensible]  [pause] ouais" 
+        intervals [446]:
+            xmin = 3261.094 
+            xmax = 3272.451 
+            text = "" 
+        intervals [447]:
+            xmin = 3272.451 
+            xmax = 3274.269 
+            text = "[suite de syllabes incompréhensibles]" 
+        intervals [448]:
+            xmin = 3274.269 
+            xmax = 3280.339 
+            text = "" 
+        intervals [449]:
+            xmin = 3280.339 
+            xmax = 3283.046 
+            text = "[mm mm] d'accord donc vous avez recours à un bab-" 
+        intervals [450]:
+            xmin = 3283.046 
+            xmax = 3284.474 
+            text = "à une baby-sitter plutôt" 
+        intervals [451]:
+            xmin = 3284.474 
+            xmax = 3298.954 
+            text = "" 
+        intervals [452]:
+            xmin = 3298.954 
+            xmax = 3301.541 
+            text = "et les frères et soeurs par exemple ou je sais pas si tu as des" 
+        intervals [453]:
+            xmin = 3301.541 
+            xmax = 3302.718 
+            text = "frères et soeurs ou" 
+        intervals [454]:
+            xmin = 3302.718 
+            xmax = 3304.224 
+            text = "" 
+        intervals [455]:
+            xmin = 3304.224 
+            xmax = 3306.752 
+            text = "[rire-] qui est aussi dans le Treizième" 
+        intervals [456]:
+            xmin = 3306.752 
+            xmax = 3319.305 
+            text = "" 
+        intervals [457]:
+            xmin = 3319.305 
+            xmax = 3321.38 
+            text = "tout le monde travaille [pause] ouais" 
+        intervals [458]:
+            xmin = 3321.38 
+            xmax = 3324.89 
+            text = "" 
+        intervals [459]:
+            xmin = 3324.89 
+            xmax = 3328.515 
+            text = "ouais d'accord [pause] ouais ouais c'est c'est surtout ça l'occasion" 
+        intervals [460]:
+            xmin = 3328.515 
+            xmax = 3331.101 
+            text = "c'est pas" 
+        intervals [461]:
+            xmin = 3331.101 
+            xmax = 3342.266 
+            text = "d'accord [pause] et euh donc lo- lorsque [pause] donc tu m'as parlé du shopping des [pause] des parcs c'est un petit peu est-ce que quand même toi tu pratiquesun sport ou" 
+        intervals [462]:
+            xmin = 3342.266 
+            xmax = 3342.863 
+            text = "est-que" 
+        intervals [463]:
+            xmin = 3342.863 
+            xmax = 3347.351 
+            text = "non [pause] ça suffit d-" 
+        intervals [464]:
+            xmin = 3347.351 
+            xmax = 3353.08 
+            text = "" 
+        intervals [465]:
+            xmin = 3353.08 
+            xmax = 3355.432 
+            text = "[suite de syllabes incompréhensibles]" 
+        intervals [466]:
+            xmin = 3355.432 
+            xmax = 3376.743 
+            text = "" 
+        intervals [467]:
+            xmin = 3376.743 
+            xmax = 3377.22 
+            text = "ouais" 
+        intervals [468]:
+            xmin = 3377.22 
+            xmax = 3388.816 
+            text = "" 
+        intervals [469]:
+            xmin = 3388.816 
+            xmax = 3391.177 
+            text = "[rire-] tu as eu fait du sport" 
+        intervals [470]:
+            xmin = 3391.177 
+            xmax = 3413.839 
+            text = "" 
+        intervals [471]:
+            xmin = 3413.839 
+            xmax = 3417.631 
+            text = "et Maud elle fait ça c'est dans le [pause] Treizième ouc'est" 
+        intervals [472]:
+            xmin = 3417.631 
+            xmax = 3423.34 
+            text = "" 
+        intervals [473]:
+            xmin = 3423.34 
+            xmax = 3427.919 
+            text = "d'accord c'est pas [pause] c'est pas très loin [pause] non" 
+        intervals [474]:
+            xmin = 3427.919 
+            xmax = 3430.595 
+            text = "et les enfants est-ce qu'ils font des activités en d- en" 
+        intervals [475]:
+            xmin = 3430.595 
+            xmax = 3431.363 
+            text = "dehors de" 
+        intervals [476]:
+            xmin = 3431.363 
+            xmax = 3433.657 
+            text = "de" 
+        intervals [477]:
+            xmin = 3433.657 
+            xmax = 3434.778 
+            text = "en dehors de l'école" 
+        intervals [478]:
+            xmin = 3434.778 
+            xmax = 3442.509 
+            text = "" 
+        intervals [479]:
+            xmin = 3442.509 
+            xmax = 3443.082 
+            text = "et la" 
+        intervals [480]:
+            xmin = 3443.082 
+            xmax = 3481.648 
+            text = "" 
+        intervals [481]:
+            xmin = 3481.648 
+            xmax = 3482.535 
+            text = "la batterie" 
+        intervals [482]:
+            xmin = 3482.535 
+            xmax = 3499.705 
+            text = "" 
+        intervals [483]:
+            xmin = 3499.705 
+            xmax = 3502.591 
+            text = "donc il y en a [pause] comment ça s'est décidé les" 
+        intervals [484]:
+            xmin = 3502.591 
+            xmax = 3503.478 
+            text = "les activités" 
+        intervals [485]:
+            xmin = 3503.478 
+            xmax = 3504.241 
+            text = "c'est" 
+        intervals [486]:
+            xmin = 3504.241 
+            xmax = 3531.561 
+            text = "" 
+        intervals [487]:
+            xmin = 3531.561 
+            xmax = 3532.944 
+            text = "et [pause] et euh" 
+        intervals [488]:
+            xmin = 3532.944 
+            xmax = 3537.53 
+            text = "c'est c'est là-bas qu'on [pause] qu'on lui proposait c'est enfin je veux dire c'est là où il avait fait" 
+        intervals [489]:
+            xmin = 3537.53 
+            xmax = 3538.389 
+            text = "auparavant" 
+        intervals [490]:
+            xmin = 3538.389 
+            xmax = 3543.068 
+            text = "" 
+        intervals [491]:
+            xmin = 3543.068 
+            xmax = 3543.574 
+            text = "ah ouais" 
+        intervals [492]:
+            xmin = 3543.574 
+            xmax = 3580.838 
+            text = "" 
+        intervals [493]:
+            xmin = 3580.838 
+            xmax = 3581.315 
+            text = "d'accord" 
+        intervals [494]:
+            xmin = 3581.315 
+            xmax = 3584.454 
+            text = "" 
+        intervals [495]:
+            xmin = 3584.454 
+            xmax = 3587.149 
+            text = "en essayant sport et [pause] et musique" 
+        intervals [496]:
+            xmin = 3587.149 
+            xmax = 3588.175 
+            text = "ou [pause]" 
+        intervals [497]:
+            xmin = 3588.175 
+            xmax = 3598.792 
+            text = "" 
+        intervals [498]:
+            xmin = 3598.792 
+            xmax = 3599.25 
+            text = "ouais" 
+        intervals [499]:
+            xmin = 3599.25 
+            xmax = 3602.114 
+            text = "" 
+        intervals [500]:
+            xmin = 3602.114 
+            xmax = 3605.5 
+            text = "[mm mm] et ça c'est [pause] c'est en semaine ou c'est le week-end alors" 
+        intervals [501]:
+            xmin = 3605.5 
+            xmax = 3606.574 
+            text = "" 
+        intervals [502]:
+            xmin = 3606.574 
+            xmax = 3607.294 
+            text = "c'est en semaine" 
+        intervals [503]:
+            xmin = 3607.294 
+            xmax = 3608.634 
+            text = "" 
+        intervals [504]:
+            xmin = 3608.634 
+            xmax = 3611.162 
+            text = "d'accord [pause]  [suite de syllabes incompréhensibles]  [pause]" 
+        intervals [505]:
+            xmin = 3611.162 
+            xmax = 3619.604 
+            text = "" 
+        intervals [506]:
+            xmin = 3619.604 
+            xmax = 3621.059 
+            text = "donc plu-" 
+        intervals [507]:
+            xmin = 3621.059 
+            xmax = 3622.638 
+            text = "plutôt le mercredi ou le soir" 
+        intervals [508]:
+            xmin = 3622.638 
+            xmax = 3624.169 
+            text = "" 
+        intervals [509]:
+            xmin = 3624.169 
+            xmax = 3627.512 
+            text = "d'accord [pause] ça semble réparti commeça" 
+        intervals [510]:
+            xmin = 3627.512 
+            xmax = 3638.387 
+            text = "et lorsque tu [pause] te promènes ou [pause] ou comme ça est-ce que tu es sensible à la présence de d'animaux [pause] à Paris [pause] par exemple vous n'a- vous n'avez pas vous n'avez pas de" 
+        intervals [511]:
+            xmin = 3638.387 
+            xmax = 3639.155 
+            text = "" 
+        intervals [512]:
+            xmin = 3639.155 
+            xmax = 3640.257 
+            text = "d'animaux ou bien non" 
+        intervals [513]:
+            xmin = 3640.257 
+            xmax = 3643.672 
+            text = "" 
+        intervals [514]:
+            xmin = 3643.672 
+            xmax = 3646.324 
+            text = "c'est un débat [pause] j'imagine" 
+        intervals [515]:
+            xmin = 3646.324 
+            xmax = 3723.503 
+            text = "" 
+        intervals [516]:
+            xmin = 3723.503 
+            xmax = 3726.179 
+            text = "il est pas toujours avec euh une muselière c'est" 
+        intervals [517]:
+            xmin = 3726.179 
+            xmax = 3726.78 
+            text = "ça aussi" 
+        intervals [518]:
+            xmin = 3726.78 
+            xmax = 3752.198 
+            text = "" 
+        intervals [519]:
+            xmin = 3752.198 
+            xmax = 3753.3 
+            text = "d'accord" 
+        intervals [520]:
+            xmin = 3753.3 
+            xmax = 3767.089 
+            text = "" 
+        intervals [521]:
+            xmin = 3767.089 
+            xmax = 3768.763 
+            text = "ah oui" 
+        intervals [522]:
+            xmin = 3768.763 
+            xmax = 3794.526 
+            text = "" 
+        intervals [523]:
+            xmin = 3794.526 
+            xmax = 3795.075 
+            text = "d'accord" 
+        intervals [524]:
+            xmin = 3795.075 
+            xmax = 3799.658 
+            text = "" 
+        intervals [525]:
+            xmin = 3799.658 
+            xmax = 3800.755 
+            text = "ouais ouais c'est pas" 
+        intervals [526]:
+            xmin = 3800.755 
+            xmax = 3809.293 
+            text = "" 
+        intervals [527]:
+            xmin = 3809.293 
+            xmax = 3814.043 
+            text = "et dans la maison [pause] non les enfants n'ont pas demandé euh" 
+        intervals [528]:
+            xmin = 3814.043 
+            xmax = 3814.568 
+            text = "" 
+        intervals [529]:
+            xmin = 3814.568 
+            xmax = 3814.973 
+            text = "[suite de syllabes incompréhensibles]" 
+        intervals [530]:
+            xmin = 3814.973 
+            xmax = 3833.598 
+            text = "" 
+        intervals [531]:
+            xmin = 3833.598 
+            xmax = 3837.236 
+            text = "et tu m'as parlé aussi des des spectacles où vous alliez de temps en" 
+        intervals [532]:
+            xmin = 3837.236 
+            xmax = 3837.713 
+            text = "temps" 
+        intervals [533]:
+            xmin = 3837.713 
+            xmax = 3848.802 
+            text = "est-ce que [pause] est-ce que tu [pause] est-ce que tu essaies de te renseigner sur euh [pause] sur euh ce que propose le quartier ou le" 
+        intervals [534]:
+            xmin = 3848.802 
+            xmax = 3851.592 
+            text = "par un journal par un" 
+        intervals [535]:
+            xmin = 3851.592 
+            xmax = 3851.931 
+            text = "ou" 
+        intervals [536]:
+            xmin = 3851.931 
+            xmax = 3872.202 
+            text = "" 
+        intervals [537]:
+            xmin = 3872.202 
+            xmax = 3873.709 
+            text = "[suites de syllabes incompéhensibles] ouais" 
+        intervals [538]:
+            xmin = 3873.709 
+            xmax = 3927.936 
+            text = "" 
+        intervals [539]:
+            xmin = 3927.936 
+            xmax = 3938.958 
+            text = "[mm mm] sinon tu [pause] tu te tu essaies de te tenir in- informé sur le [pause] quartier sur euh [pause] par enfin [pause] comme tu m'as dit par le bulletin municipal ou" 
+        intervals [540]:
+            xmin = 3938.958 
+            xmax = 3939.912 
+            text = "" 
+        intervals [541]:
+            xmin = 3939.912 
+            xmax = 3942.011 
+            text = "ça t'intéresse je veux dire ou" 
+        intervals [542]:
+            xmin = 3942.011 
+            xmax = 3943.995 
+            text = "tu regardes ou tu regardes pas" 
+        intervals [543]:
+            xmin = 3943.995 
+            xmax = 3949.881 
+            text = "" 
+        intervals [544]:
+            xmin = 3949.881 
+            xmax = 3951.507 
+            text = "ouais" 
+        intervals [545]:
+            xmin = 3951.507 
+            xmax = 3958.614 
+            text = "" 
+        intervals [546]:
+            xmin = 3958.614 
+            xmax = 3960.646 
+            text = "ah" 
+        intervals [547]:
+            xmin = 3960.646 
+            xmax = 3961.533 
+            text = "celui de la rue" 
+        intervals [548]:
+            xmin = 3961.533 
+            xmax = 3961.867 
+            text = "Pinel" 
+        intervals [549]:
+            xmin = 3961.867 
+            xmax = 4025.854 
+            text = "" 
+        intervals [550]:
+            xmin = 4025.854 
+            xmax = 4026.88 
+            text = "bien sûr" 
+        intervals [551]:
+            xmin = 4026.88 
+            xmax = 4047.083 
+            text = "" 
+        intervals [552]:
+            xmin = 4047.083 
+            xmax = 4047.25 
+            text = "ah" 
+        intervals [553]:
+            xmin = 4047.25 
+            xmax = 4057.992 
+            text = "" 
+        intervals [554]:
+            xmin = 4057.992 
+            xmax = 4059.28 
+            text = "euh enfin sur" 
+        intervals [555]:
+            xmin = 4059.28 
+            xmax = 4059.666 
+            text = "la rue" 
+        intervals [556]:
+            xmin = 4059.666 
+            xmax = 4060.692 
+            text = "Butte-aux-Cailles là  c'est" 
+        intervals [557]:
+            xmin = 4060.692 
+            xmax = 4061.436 
+            text = "ça ou" 
+        intervals [558]:
+            xmin = 4061.436 
+            xmax = 4114.738 
+            text = "" 
+        intervals [559]:
+            xmin = 4114.738 
+            xmax = 4115.292 
+            text = "ouais" 
+        intervals [560]:
+            xmin = 4115.292 
+            xmax = 4123.281 
+            text = "" 
+        intervals [561]:
+            xmin = 4123.281 
+            xmax = 4124.211 
+            text = "ah ouais" 
+        intervals [562]:
+            xmin = 4124.211 
+            xmax = 4126.881 
+            text = "" 
+        intervals [563]:
+            xmin = 4126.881 
+            xmax = 4127.836 
+            text = "ah ouais" 
+        intervals [564]:
+            xmin = 4127.836 
+            xmax = 4131.966 
+            text = "" 
+        intervals [565]:
+            xmin = 4131.966 
+            xmax = 4133.515 
+            text = "ah oui" 
+        intervals [566]:
+            xmin = 4133.515 
+            xmax = 4157.801 
+            text = "" 
+        intervals [567]:
+            xmin = 4157.801 
+            xmax = 4159.846 
+            text = "pareil pour le jardin d'enfants" 
+        intervals [568]:
+            xmin = 4159.846 
+            xmax = 4186.474 
+            text = "" 
+        intervals [569]:
+            xmin = 4186.474 
+            xmax = 4188.095 
+            text = "l'in- l'information circule" 
+        intervals [570]:
+            xmin = 4188.095 
+            xmax = 4190.399 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Gabriel Pujade" 
+        xmin = 0 
+        xmax = 4190.399 
+        intervals: size = 570 
+        intervals [1]:
+            xmin = 0 
+            xmax = 17.528 
+            text = "" 
+        intervals [2]:
+            xmin = 17.528 
+            xmax = 45.873 
+            text = "alors [pause] donc moi je suis arrivé à Paris j'étais tout petit [pause] j'avais un an [pause] et mes parents sont venus à Paris [pause] pour le boulot   [pause] et [pause] mon grand-père [pause] avait [pause] acheté un appartement à Paris [pause] parce qu'à l'époque il avait un petit peu [pause] investi dans l'immobilier [pause] et donc mes parents [pause] quand ils sont arrivés à Paris se sont installés dans cet appartement" 
+        intervals [3]:
+            xmin = 45.873 
+            xmax = 49.594 
+            text = "" 
+        intervals [4]:
+            xmin = 49.594 
+            xmax = 50.839 
+            text = "non non non non non non non non" 
+        intervals [5]:
+            xmin = 50.839 
+            xmax = 58.403 
+            text = "mes grands-parents étaient enfin sont restés dans le sud c'est juste mes parents  qui sont montés  et puis en fait ils ont profité [pause] de l'opportunité [mm mm] de cet appartement pour euh [pause]" 
+        intervals [6]:
+            xmin = 58.403 
+            xmax = 60.85 
+            text = "pour y habiter ouais" 
+        intervals [7]:
+            xmin = 60.85 
+            xmax = 92.688 
+            text = "euh ils y sont restés euh [pause] une bonne dizaine d'années   [pause] et puis après ils ont acheté leur propre appartement toujours dans le Treizième [pause] et donc ont libéré l'appartement de mes grands-parents [pause] dans lequel moi-même je me suis installé quelques années plus tard [pause] quand j'ai eu euh [pause] le deuxième enfant [pause] puisque c'est un appartement bien pour quatre quoi [mm mm]  [pause] et" 
+        intervals [8]:
+            xmin = 92.688 
+            xmax = 95.526 
+            text = "" 
+        intervals [9]:
+            xmin = 95.526 
+            xmax = 98.078 
+            text = "ouais donc euh" 
+        intervals [10]:
+            xmin = 98.078 
+            xmax = 120.452 
+            text = "quand Théo est arrivé on a vécu trois [pause] quatre ans dedans et puis après avec Juliette ça faisait un peu petit  donc on a fait une demande [pause] auprès de l'OPAC [pause] qui a abouti et donc nous nous sommes installés à l'O- à l'OPAC toujours dans le Treizième [pause] euh ce qui nous allait parfaitement" 
+        intervals [11]:
+            xmin = 120.452 
+            xmax = 122.436 
+            text = "" 
+        intervals [12]:
+            xmin = 122.436 
+            xmax = 123.605 
+            text = "ce qui me convenait tou-" 
+        intervals [13]:
+            xmin = 123.605 
+            xmax = 130.573 
+            text = "" 
+        intervals [14]:
+            xmin = 130.573 
+            xmax = 130.859 
+            text = "ouf alors" 
+        intervals [15]:
+            xmin = 130.859 
+            xmax = 131.956 
+            text = "ça je sais pas je pense" 
+        intervals [16]:
+            xmin = 131.956 
+            xmax = 132.839 
+            text = "je pense" 
+        intervals [17]:
+            xmin = 132.839 
+            xmax = 140.809 
+            text = "parce que c'était un quartier euh neuf qui commençait à se construire et il a acheté l'imm- enfin il a acheté l'appartement sur plan [pause] puis" 
+        intervals [18]:
+            xmin = 140.809 
+            xmax = 141.148 
+            text = "je pense" 
+        intervals [19]:
+            xmin = 141.148 
+            xmax = 149.356 
+            text = "que c'était aussi plus accessible que que le centre un peu historique [mm mm] qui [pause] a toujours été et qui reste [mm mm] cher" 
+        intervals [20]:
+            xmin = 149.356 
+            xmax = 151.145 
+            text = "" 
+        intervals [21]:
+            xmin = 151.145 
+            xmax = 151.627 
+            text = "c'était rue" 
+        intervals [22]:
+            xmin = 151.627 
+            xmax = 152.466 
+            text = "du Banquier" 
+        intervals [23]:
+            xmin = 152.466 
+            xmax = 152.848 
+            text = "" 
+        intervals [24]:
+            xmin = 152.848 
+            xmax = 155.643 
+            text = "donc euh vers les Gobelins" 
+        intervals [25]:
+            xmin = 155.643 
+            xmax = 158.251 
+            text = "et puis mon grand-père aimait bien aussi euh" 
+        intervals [26]:
+            xmin = 158.251 
+            xmax = 171.411 
+            text = "la modernité donc euh acheter sur plan c'était avoir un appartement neuf avec des installations neuves salle de bain toilettes [mm mm] tu vois [pause] ce qui est pas forcément toujours le cas à Paris dans les vieux appartements" 
+        intervals [27]:
+            xmin = 171.411 
+            xmax = 174.945 
+            text = "" 
+        intervals [28]:
+            xmin = 174.945 
+            xmax = 175.828 
+            text = "euh [pf]" 
+        intervals [29]:
+            xmin = 175.828 
+            xmax = 176.357 
+            text = "ouais cinquante" 
+        intervals [30]:
+            xmin = 176.357 
+            xmax = 177.025 
+            text = "soixante ouais" 
+        intervals [31]:
+            xmin = 177.025 
+            xmax = 180.507 
+            text = "soixante ouais [pause] je pense ouais soixante à peu près moi" 
+        intervals [32]:
+            xmin = 180.507 
+            xmax = 182.939 
+            text = "je tournerai ouais soixante ouais années soixante ouais [mm mm]" 
+        intervals [33]:
+            xmin = 182.939 
+            xmax = 188.138 
+            text = "" 
+        intervals [34]:
+            xmin = 188.138 
+            xmax = 189.669 
+            text = "on a déménagé" 
+        intervals [35]:
+            xmin = 189.669 
+            xmax = 200.787 
+            text = "y a un an et demi [pause]   pour cause de place [pause] surtout  parce que l'autre était trop petit [pause]   et [pause] on a pu déménager parce qu'on a eu l'opportunité de l'OPAC [pause] parce que" 
+        intervals [36]:
+            xmin = 200.787 
+            xmax = 201.269 
+            text = "sinon" 
+        intervals [37]:
+            xmin = 201.269 
+            xmax = 216.369 
+            text = "on avait commencé à chercher à louer ou à acheter [pause] et c'est vrai que c'était un petit peu hors budget quoi on avait commencé à lorgner du côté de la banlieue mais [pause]  [mm mm] en n'étant pas tout à fait convaincus  de vouloir y aller mais bon après [pause] après c'est un choix quoi" 
+        intervals [38]:
+            xmin = 216.369 
+            xmax = 221.902 
+            text = "" 
+        intervals [39]:
+            xmin = 221.902 
+            xmax = 223.552 
+            text = "euh bah je pense que" 
+        intervals [40]:
+            xmin = 223.552 
+            xmax = 269.252 
+            text = "par rapport à beaucoup de gens ça a été un peu rapide ça nous a m- [pause] pris deux ans je pense à peu près [mm mm] en deux ans on nous avait fait d'autres propositions [pause] qu'on avait acceptées ou refusées [pause] parce que [pause] pour certains c'était [pause] trop cher pour d'autres [pause] la situation géographique nous convenait pas du tout  ou la l'état de l'immeuble [pause] euh [pause] mais comme nous a dit euh le monsieur de la mairie ou de l'OPAC [pause] on était dans la bonne dans la bonne tranche de salaire c'est-à-dire que [pause] les HLM vraiment pas chers [mm mm]  [pause] là y a des queues et des une attente [mm mm] incroyable" 
+        intervals [41]:
+            xmin = 269.252 
+            xmax = 270.826 
+            text = "dans" 
+        intervals [42]:
+            xmin = 270.826 
+            xmax = 284.689 
+            text = "dans la gamme intermédiaire comme ici [pause] on a un petit peu plus de chance euh d'aboutir [mm mm]  [pause] surtout je pense aussi quand on a trois enfants [mm mm] parce qu'ils veulent garder un peu les familles à Paris quoi [mm mm] c'est un peu leur discours" 
+        intervals [43]:
+            xmin = 284.689 
+            xmax = 285.429 
+            text = "" 
+        intervals [44]:
+            xmin = 285.429 
+            xmax = 287.866 
+            text = "officiel [rire-] il y a quelques années d'essayer de garder des" 
+        intervals [45]:
+            xmin = 287.866 
+            xmax = 288.725 
+            text = "familles et c'est vrai" 
+        intervals [46]:
+            xmin = 288.725 
+            xmax = 293.308 
+            text = "que quand les familles atteignent trois enfants c'est difficile de se loger à Paris quoi" 
+        intervals [47]:
+            xmin = 293.308 
+            xmax = 299.538 
+            text = "" 
+        intervals [48]:
+            xmin = 299.538 
+            xmax = 329.319 
+            text = "écoute moi j'en suis tout à fait content euh surtout que pour des immeubles de l'OPAC on a la chance de pas être sur le périph parce que  beaucoup euh beaucoup d'immeubles  de l'OPAC et des HLM sont quand même en périphérie et nous on est [pause] euh quand même dans le centre du Treizième [pause] donc c'est quand même plus agréable à vivre [mm mm]  [pause] donc le quartier est super sympa et puis bon l'immeuble en lui-même ça va c'est [mm mm] enfin c'est c'est moderne et [pause] c'est bien entretenu enfin y a pas de problème c'est [pause]" 
+        intervals [49]:
+            xmin = 329.319 
+            xmax = 331.303 
+            text = "" 
+        intervals [50]:
+            xmin = 331.303 
+            xmax = 336.216 
+            text = "c'est  propre l'ascenseur tombe en panne un petit peu tout le temps mais bon euh c'est les aléas de la vie" 
+        intervals [51]:
+            xmin = 336.216 
+            xmax = 337.89 
+            text = "" 
+        intervals [52]:
+            xmin = 337.89 
+            xmax = 338.391 
+            text = "ouais ouais" 
+        intervals [53]:
+            xmin = 338.391 
+            xmax = 359.024 
+            text = "mais ils veulent les changer mais bon je sais pas apparemment l'entretien est pas [pause] pas super super nickel  donc euh il [pause] s'arrête un petit peu de temps en temps [pause]   mais sinon c'est c'est vrai que c'est un c'est un un gros ensemble mais euh y a pas de problème de voisinage [mm mm] y a pas de nuisance [mm mm] le quartier est sympa donc euh [pause]" 
+        intervals [54]:
+            xmin = 359.024 
+            xmax = 360.674 
+            text = "" 
+        intervals [55]:
+            xmin = 360.674 
+            xmax = 361.056 
+            text = "la vue" 
+        intervals [56]:
+            xmin = 361.056 
+            xmax = 361.633 
+            text = "est pas mal" 
+        intervals [57]:
+            xmin = 361.633 
+            xmax = 362.043 
+            text = "comme tu" 
+        intervals [58]:
+            xmin = 362.043 
+            xmax = 362.282 
+            text = "peux" 
+        intervals [59]:
+            xmin = 362.282 
+            xmax = 362.621 
+            text = "le voir" 
+        intervals [60]:
+            xmin = 362.621 
+            xmax = 364.08 
+            text = "" 
+        intervals [61]:
+            xmin = 364.08 
+            xmax = 366.208 
+            text = "y a [pause] y a pas trop" 
+        intervals [62]:
+            xmin = 366.208 
+            xmax = 379.062 
+            text = "trop de vis-à-vis on a un peu de vert euh c'est assez lumineux non c'est agréable [pause]  [mm mm] surtout que jusqu'à maintenant on était en rez-de-chaussée et [pause]   ça nous change la vie parce que le rez-de-chaussée c'est un [pause] un peu pénible quand même à Paris hein" 
+        intervals [63]:
+            xmin = 379.062 
+            xmax = 379.663 
+            text = "au niveau" 
+        intervals [64]:
+            xmin = 379.663 
+            xmax = 381.409 
+            text = "des nuisances sonores" 
+        intervals [65]:
+            xmin = 381.409 
+            xmax = 383.226 
+            text = "" 
+        intervals [66]:
+            xmin = 383.226 
+            xmax = 392.484 
+            text = "avec la rue ouais [pause] enfin l'autre appartement on avait notre chambre qui donnait sur la rue [pause] et tu as des fois des gens qui tchatchent jusqu'à trois heures du matin" 
+        intervals [67]:
+            xmin = 392.484 
+            xmax = 393.204 
+            text = "devant" 
+        intervals [68]:
+            xmin = 393.204 
+            xmax = 408.443 
+            text = "les volets sans vraiment se rendre compte que toi [rire-] tu es juste de l'autre côté   [pause] voilà puis même la la proximité euh [pause] les gens peuvent taper à la fenêtre des fois il y en a qui tapent d'ailleurs [pause]  [mm mm] donc on se sent un petit peu mieux à l'étage déjà la vue et la lumière c'est plus sympa quoi" 
+        intervals [69]:
+            xmin = 408.443 
+            xmax = 410.284 
+            text = "" 
+        intervals [70]:
+            xmin = 410.284 
+            xmax = 418.058 
+            text = "c'est un peu plus protégé et plus agréable parce que quand tu es en rez-de-chaussée quand même tu as [mm mm] beaucoup de vis-à-vis de passage et puis tu es c'est c'est pas c'est pas très lumineux quoi" 
+        intervals [71]:
+            xmin = 418.058 
+            xmax = 422.518 
+            text = "" 
+        intervals [72]:
+            xmin = 422.518 
+            xmax = 441.434 
+            text = "le quartier je le trouve extrêmement sympathique   [pause] bah déjà tu as la proximité des transports ça c'est sympa [pause]   euh on (n') est pas trop loin de plusieurs parcs donc pour les enfants  c'est sympa aussi hein y a le tout petit qui est en bas y a René-Le Gall qui est un petit peu plus loin  donc y a des espaces verts accessibles au moins facilement" 
+        intervals [73]:
+            xmin = 441.434 
+            xmax = 444.968 
+            text = "" 
+        intervals [74]:
+            xmin = 444.968 
+            xmax = 445.135 
+            text = "ouais" 
+        intervals [75]:
+            xmin = 445.135 
+            xmax = 445.922 
+            text = "" 
+        intervals [76]:
+            xmin = 445.922 
+            xmax = 465.119 
+            text = "ouais bah quand on [pause] (n') est pas très motivés on peut descendre juste en bas  pour euh quelques minutes enfin quelques minutes pour une petite heure y a des tables de ping-pong  y a le sable donc les enfants peuvent s'amuser [pause] mais c'est vrai que René-Le Gall c'est quand même plus grand les enfants ont plus de chance  de rencontrer des amis maintenant y a la petite buvette avec le café pour les parents donc" 
+        intervals [77]:
+            xmin = 465.119 
+            xmax = 466.52 
+            text = "c'est sympa" 
+        intervals [78]:
+            xmin = 466.52 
+            xmax = 481.12 
+            text = "y a le wifi pour ceux qui ont envie de travailler  donc [pause] bah René-Le Gall c'est quand même [pause] un petit peu plus agréable [pause]  [mm mm] et puis celui qui est en bas de la maison c'est vrai que les enfants c'est [pause] plus des plus petits qui viennent quoi donc euh" 
+        intervals [79]:
+            xmin = 481.12 
+            xmax = 481.459 
+            text = "" 
+        intervals [80]:
+            xmin = 481.459 
+            xmax = 488.356 
+            text = "quand les enfants grandissent ils préfèrent aller faire un peu de vélo se promener dans les forêts de Le Gall là enfin c- ce qui est une forêt pour eux" 
+        intervals [81]:
+            xmin = 488.356 
+            xmax = 489.243 
+            text = "" 
+        intervals [82]:
+            xmin = 489.243 
+            xmax = 489.534 
+            text = "c'est" 
+        intervals [83]:
+            xmin = 489.534 
+            xmax = 508.164 
+            text = "un peu plus l'aventure là-bas  pour eux quoi ils échappent plus facilement euh [pause] à la surveillance des parents [pause] tu vois [pause] et [pause] non sinon après le quartier est  est relativement calme et sympa puisqu'il y a quand même de l'animation avec les bars les restaurants tout ça c'est [pause] c'est assez agréable comme quartier" 
+        intervals [84]:
+            xmin = 508.164 
+            xmax = 509.504 
+            text = "" 
+        intervals [85]:
+            xmin = 509.504 
+            xmax = 512.222 
+            text = "c'est à la fois calme /mais, et/ y a de l'activité [mm mm]  [pause]  [mm mm]" 
+        intervals [86]:
+            xmin = 512.222 
+            xmax = 513.158 
+            text = "et des commerces" 
+        intervals [87]:
+            xmin = 513.158 
+            xmax = 518.837 
+            text = "" 
+        intervals [88]:
+            xmin = 518.837 
+            xmax = 519.923 
+            text = "ça nous arrive [pause]" 
+        intervals [89]:
+            xmin = 519.923 
+            xmax = 521.115 
+            text = "ça nous arrive" 
+        intervals [90]:
+            xmin = 521.115 
+            xmax = 540.095 
+            text = "euh le seul problème avec les enfants c'est que les restaurants ici sont [pause] extrêmement bondés  c'est-à-dire que par exemple en bas Gladines y a toujours vingt personnes qui attendent devant [pause]   c'est vrai que l'ambiance est sympa c'est pas trop cher mais bon quand tu veux y aller avec les enfants c'est le dimanche à midi ou  le soir à dix-huit heures trente quoi" 
+        intervals [91]:
+            xmin = 540.095 
+            xmax = 541.21 
+            text = "" 
+        intervals [92]:
+            xmin = 541.21 
+            xmax = 541.849 
+            text = "voilà" 
+        intervals [93]:
+            xmin = 541.849 
+            xmax = 542.723 
+            text = "" 
+        intervals [94]:
+            xmin = 542.723 
+            xmax = 544.469 
+            text = "il est juste en bas là c'est le" 
+        intervals [95]:
+            xmin = 544.469 
+            xmax = 545.428 
+            text = "restaurant qui fait le coin" 
+        intervals [96]:
+            xmin = 545.428 
+            xmax = 547.078 
+            text = "qui est très réputé" 
+        intervals [97]:
+            xmin = 547.078 
+            xmax = 549.821 
+            text = "dans le coin   [pause]  [mm mm] qui est un peu" 
+        intervals [98]:
+            xmin = 549.821 
+            xmax = 551.209 
+            text = "" 
+        intervals [99]:
+            xmin = 551.209 
+            xmax = 553.742 
+            text = "à carreaux [pause] ouais [pause] ouais ouais ouais" 
+        intervals [100]:
+            xmin = 553.742 
+            xmax = 571.918 
+            text = "bah les restaurants sont un peu populaires et [pause] enfin dans la rue [pause]   les premiers sont un peu populaires pas trop chers [pause] donc ça amène pas mal de monde d'étudiants  tout ça [pause] et un peu plus loin dans la rue par contre y a des bistrots un peu français là qui sont un peu plus  haut de gamme [pause] donc [pause] beaucoup plus chers mais très franchouillards" 
+        intervals [101]:
+            xmin = 571.918 
+            xmax = 572.658 
+            text = "enfin c'est" 
+        intervals [102]:
+            xmin = 572.658 
+            xmax = 588.402 
+            text = "la cuisine [pause] en général assez française [pause] donc un peu cher   [pause] donc ça c'est moins fréquent on va dire [pause] et euh on a quand même quelques attaches sur nos anciens restaurants de notre ancien quartier qui est pas trop loin mais" 
+        intervals [103]:
+            xmin = 588.402 
+            xmax = 589.475 
+            text = "" 
+        intervals [104]:
+            xmin = 589.475 
+            xmax = 590.119 
+            text = "ouais" 
+        intervals [105]:
+            xmin = 590.119 
+            xmax = 590.644 
+            text = "ouais" 
+        intervals [106]:
+            xmin = 590.644 
+            xmax = 592.557 
+            text = "" 
+        intervals [107]:
+            xmin = 592.557 
+            xmax = 617.778 
+            text = "bah rue du Banquier en face de notre autre appartement on avait un restaurant thaïlandais qui était extraordinaire et pas cher [pause] avec euh des gens extrêmement sympathiques à l'intérieur ce qui fait qu'on a beaucoup de plaisir à y aller   [pause] ah oui [pause] tu peux y aller avec les enfants parce que c'est jamais bondé et puis [mm mm] eux-mêmes ont des enfants et puis ils sont ils sont enfin ils sont très gentils quoi [pause] donc c'est vrai que c'est plus facile" 
+        intervals [108]:
+            xmin = 617.778 
+            xmax = 626.106 
+            text = "" 
+        intervals [109]:
+            xmin = 626.106 
+            xmax = 632.7 
+            text = "bah moi je suis relativement bien ici [pause] le quartier me va mais parfaitement [pause]" 
+        intervals [110]:
+            xmin = 632.7 
+            xmax = 635.458 
+            text = "l'appartement aussi [pause]" 
+        intervals [111]:
+            xmin = 635.458 
+            xmax = 660.524 
+            text = "la seule chose qui nous ferait déménager c'est de pouvoir acheter je pense [mm mm]  [pause] parce que louer je pense qu'on trouvera  pas mieux [mm mm] à ce prix-là [pause] donc euh [pause] investir et puis pouvoir euh acheter un logement ce serait une éventualité mais à Paris c'est quand même [pause] très dur [pause]   donc pour l'instant je pense qu'on va rester ici" 
+        intervals [112]:
+            xmin = 660.524 
+            xmax = 668.875 
+            text = "" 
+        intervals [113]:
+            xmin = 668.875 
+            xmax = 669.4 
+            text = "Le Gall" 
+        intervals [114]:
+            xmin = 669.4 
+            xmax = 670.168 
+            text = "" 
+        intervals [115]:
+            xmin = 670.168 
+            xmax = 670.721 
+            text = "ouais" 
+        intervals [116]:
+            xmin = 670.721 
+            xmax = 674.203 
+            text = "" 
+        intervals [117]:
+            xmin = 674.203 
+            xmax = 675.972 
+            text = "alors les courses" 
+        intervals [118]:
+            xmin = 675.972 
+            xmax = 715.417 
+            text = "euh le gros des courses [pause] euh on les fait pas dans le quartier en général [pause] je prends ma petite voiture et je vais dans un centre commercial [pause] euh [pause] où j'achète le gros c'est-à-dire entretien ménager  eau minérale  tout ce genre de choses [pause] par contre on essaie pour tout le reste d'aller chez les commerçants [pause] du quartier [pause] parce que déjà y a la qualité euh je pense qu'il y a aussi un peu la relation avec le commerçant  qui est sympathique [pause] donc tout ce qui est euh boucherie fromagerie vin tout ça on essaie" 
+        intervals [119]:
+            xmin = 715.417 
+            xmax = 716.519 
+            text = "de rester dans" 
+        intervals [120]:
+            xmin = 716.519 
+            xmax = 731.858 
+            text = "boulangerie aussi de rester dans le quartier   [pause] et puis en général c'est quand même meilleur que la grande surface [pause] donc euh tout ce qui est commerces de proximité sur euh un peu la bouche [pause]   on est plutôt sur le quartier ouais" 
+        intervals [121]:
+            xmin = 731.858 
+            xmax = 733.127 
+            text = "" 
+        intervals [122]:
+            xmin = 733.127 
+            xmax = 750.016 
+            text = "euh qu'est-ce qu'y a d'autre ouais sinon euh sinon on a aussi pas très loin on essaye d'en profiter euh c'est la piscine de la Butte-aux-Cailles [pause]  [mm mm] qui est bien [mm mm] à cinq minutes d'ici à pied [mm mm]  [pause] et qui avec notre [pause] carte [pause] Paris-Famille nous donne accès libre à cette piscine ce qui" 
+        intervals [123]:
+            xmin = 750.016 
+            xmax = 751.213 
+            text = "est" 
+        intervals [124]:
+            xmin = 751.213 
+            xmax = 757.557 
+            text = "pratique sympathique peu onéreux donc c'est facile [mm mm] d'y aller c'est pas loin [mm mm] c'est gratuit donc euh on essaie d'y aller euh quand on peut" 
+        intervals [125]:
+            xmin = 757.557 
+            xmax = 759.923 
+            text = "" 
+        intervals [126]:
+            xmin = 759.923 
+            xmax = 760.643 
+            text = "c'est une carte" 
+        intervals [127]:
+            xmin = 760.643 
+            xmax = 777.837 
+            text = "pour les familles nombreuses mais qui est faite par la mairie [pause] c'est pas la carte [mm mm] SNCF je sais pas trop quoi [mm mm]  [pause] qui te donne un certain nombre d'avantages comme l'entrée d'un certain musée certains parcs moins chers ou gratuits [mm mm] et notamment les piscines municipales sont [pause] gratuites" 
+        intervals [128]:
+            xmin = 777.837 
+            xmax = 779.888 
+            text = "" 
+        intervals [129]:
+            xmin = 779.888 
+            xmax = 782.702 
+            text = "à la Butte-aux-Cailles [pause] euh [pause] non" 
+        intervals [130]:
+            xmin = 782.702 
+            xmax = 787.227 
+            text = "y a pas un petit bassin y a un bassin et un petit bassin en extérieur [pause] donc" 
+        intervals [131]:
+            xmin = 787.227 
+            xmax = 787.542 
+            text = "l'été" 
+        intervals [132]:
+            xmin = 787.542 
+            xmax = 790.623 
+            text = "quand il fait vraiment chaud" 
+        intervals [133]:
+            xmin = 790.623 
+            xmax = 790.981 
+            text = "" 
+        intervals [134]:
+            xmin = 790.981 
+            xmax = 799.309 
+            text = "mais bon sinon avec des bouées c'est quand même sympa et puis bon  y a le le début du grand bassin [mm mm] qui est pas trop [pause] pas trop profond donc ça ça ça [mm mm] ça peut aller aussi" 
+        intervals [135]:
+            xmin = 799.309 
+            xmax = 816.198 
+            text = "" 
+        intervals [136]:
+            xmin = 816.198 
+            xmax = 828.436 
+            text = "depuis qu'on est ici   [pause] pas trop mais depuis qu'on est rue du Banquier oui [pause]  [mm mm] à savoir qu'ils ont fait quand même beaucoup de travaux d'amélioration du quartier je trouve ces derniers temps [pause] la place d'Italie" 
+        intervals [137]:
+            xmin = 828.436 
+            xmax = 828.866 
+            text = "" 
+        intervals [138]:
+            xmin = 828.866 
+            xmax = 842.201 
+            text = "qu'ils ont complètement refaite [pause]  [mm mm] donc euh petits jardins petits pavés [mm mm] tout ça donc c'est quand même [pause] faut avouer plus agréable [mm mm]  [pause] i- nous quand on était rue du Banquier ils ont refait tous les [pause] tous les luminaires aussi" 
+        intervals [139]:
+            xmin = 842.201 
+            xmax = 842.917 
+            text = "" 
+        intervals [140]:
+            xmin = 842.917 
+            xmax = 891.338 
+            text = "euh donc avec euh des trucs un petit peu plus jolis [pause]  [mm mm]  [suite de syllabes incompréhensibles] ça fait un petit peu plus histori- vieux Paris des jolis euh lampadaires [pause] euh ce genre de choses [pause] René-Le Gall qui s'est modernisé puisque maintenant il a sa petite buvette et son wifi  pour ceux que ça intéresse [pause] euh [pause] bon après on peut rentrer dans le débat de la circulation automobile dans le quartier [pause] euh [pause] avec des voies de bus euh maintenant énormes des rétrécissements de chaussées [mm mm] un peu partout des places de stationnement de moins en moins nombreuses   [pause] ce qui fait que ça change quand même pas mal la vie du quartier [pause] quand on était rue du Banquier quand même [pause] je sais plus si c'est trop le cas parce que j'y suis plus là tous les matins mais c'est vrai que ça a causé d'énormes" 
+        intervals [141]:
+            xmin = 891.338 
+            xmax = 893.364 
+            text = "embouteillages" 
+        intervals [142]:
+            xmin = 893.364 
+            xmax = 907.653 
+            text = "notamment sur les Gobelins qui étaient vraiment embouteillés en permanence [pause] alors je sais pas si les gens maintenant se sont résolus à plus prendre leur voiture mais je sais que y a [pause] deux ans c'était quand même vraiment [pause] l'enfer sur les Gobelins" 
+        intervals [143]:
+            xmin = 907.653 
+            xmax = 908.297 
+            text = "euh" 
+        intervals [144]:
+            xmin = 908.297 
+            xmax = 910.968 
+            text = "" 
+        intervals [145]:
+            xmin = 910.968 
+            xmax = 911.779 
+            text = "de la" 
+        intervals [146]:
+            xmin = 911.779 
+            xmax = 912.928 
+            text = "" 
+        intervals [147]:
+            xmin = 912.928 
+            xmax = 913.501 
+            text = "bah" 
+        intervals [148]:
+            xmin = 913.501 
+            xmax = 914.388 
+            text = "pour les piétons c'est des" 
+        intervals [149]:
+            xmin = 914.388 
+            xmax = 937.334 
+            text = "améliorations pour les au- [suite de syllabes incompréhensibles] pour les automobilistes je pense pas [mm mm]  [pause]  [mm mm]  [pause] euh y a y a eu ça bon les par- les places de de stationnement aussi qui disparaissent alors c'est vrai qu'ils élargissent  leurs les trottoirsça c'est   [pause] agréable pour les piétons [pause] mais euh par exemple ici [pause] j'ai eu la chance de trouver un parking pas trop loin" 
+        intervals [150]:
+            xmin = 937.334 
+            xmax = 938.293 
+            text = "" 
+        intervals [151]:
+            xmin = 938.293 
+            xmax = 966.347 
+            text = "et c'est vrai que c'est agréable parce que c'est très difficile de se garer parce que [pause] y a pas beaucoup de places de stationnement [pause] et puis je sais pas si c'est fait exprès mais ils ont réussi à mettre des sens interdits dans tous les sens ce qui fait que quand moi je veux venir chez moi en voiture je suis obligé de faire des détours infernaux [pause] infernaux  c'est-à-dire que là j'ai une toute petite rue que si elle était dans le bon sens euh j'en aurais pour deux minutes  et je suis obligé de faire le tour du quartier pour prendre la rue dans le bon sens" 
+        intervals [152]:
+            xmin = 966.347 
+            xmax = 967.659 
+            text = "" 
+        intervals [153]:
+            xmin = 967.659 
+            xmax = 969.619 
+            text = "ouais [pause] tu es obligé de la [pause] ouais" 
+        intervals [154]:
+            xmin = 969.619 
+            xmax = 970.859 
+            text = "en sens unique et" 
+        intervals [155]:
+            xmin = 970.859 
+            xmax = 972.147 
+            text = "toutes les rues qui arrivent" 
+        intervals [156]:
+            xmin = 972.147 
+            xmax = 999.694 
+            text = "un petit peu dessus euh [mm mm] sont pas dans le bon sens quand tu veux la prendre [mm mm] donc tu es obligé de faire un gros détour [pause] bon c'est vrai quand tu es automobiliste [pause] c'est pas toujours agréable quoi   [pause] enfin c'est un peu c'est un peu compliqué [syllabe incompréhensible] stationner rouler  euh [pause] donc c'est vrai que moi je m'énerve un petit peu des fois [pause] en me disant que [pause] peut-être qu'y en a un petit peu trop pour les piétons" 
+        intervals [157]:
+            xmin = 999.694 
+            xmax = 1002.341 
+            text = "" 
+        intervals [158]:
+            xmin = 1002.341 
+            xmax = 1003.867 
+            text = "alors [pause] non non" 
+        intervals [159]:
+            xmin = 1003.867 
+            xmax = 1029.296 
+            text = "je prends plus trop la voiture en fait parce que je [pause] j'en ai pas besoin la semaine  ceci dit je la prends quand même parce que [pause] malheureusement la crèche et les écoles sont éloignées euh sont éloignées donc euh je [pause] prends la voiture le matin parce qu'on est pressés et sinon  ça ça fait perdre trop de temps [pause]   donc je prends la voiture je la ramène [pause] donc c'est vrai quand j'avais pas de parking [pause] c'était le problème de se retrouver" 
+        intervals [160]:
+            xmin = 1029.296 
+            xmax = 1029.936 
+            text = "une place" 
+        intervals [161]:
+            xmin = 1029.936 
+            xmax = 1061.748 
+            text = "de payer tout ça enfin bon bref c'était un peu galère [pause] mais je la prends pour aller faire les courses et dès qu'on sort tous ensemble c'est-à-dire la famille trois enfants plus les parents [pause] euh dès qu'on veut aller un petit peu loin enfin [pause] on prend la voiture quoi [mm mm] donc euh que ce soit pour aller voir des amis en banlieue que ce soit pour aller faire un peu les grosses courses [pause] euh même que ce soit pour bouger à Paris euh si on est nombreux des fois on prend la voiture parce que le bus avec les enfants la poussette  tout ça c'est pas" 
+        intervals [162]:
+            xmin = 1061.748 
+            xmax = 1062.468 
+            text = "forcément facile" 
+        intervals [163]:
+            xmin = 1062.468 
+            xmax = 1069.479 
+            text = "" 
+        intervals [164]:
+            xmin = 1069.479 
+            xmax = 1070.91 
+            text = "en voiture [pause] ouais [pause] ouais" 
+        intervals [165]:
+            xmin = 1070.91 
+            xmax = 1072.699 
+            text = "" 
+        intervals [166]:
+            xmin = 1072.699 
+            xmax = 1074.659 
+            text = "ouais [pause] que je dépose avant à l'école" 
+        intervals [167]:
+            xmin = 1074.659 
+            xmax = 1076.138 
+            text = "" 
+        intervals [168]:
+            xmin = 1076.138 
+            xmax = 1076.381 
+            text = "ouais" 
+        intervals [169]:
+            xmin = 1076.381 
+            xmax = 1078.289 
+            text = "" 
+        intervals [170]:
+            xmin = 1078.289 
+            xmax = 1079.72 
+            text = "ouais [pause] et puis je reviens" 
+        intervals [171]:
+            xmin = 1079.72 
+            xmax = 1080.714 
+            text = "puisque la crèche est" 
+        intervals [172]:
+            xmin = 1080.714 
+            xmax = 1081.805 
+            text = "quand même à" 
+        intervals [173]:
+            xmin = 1081.805 
+            xmax = 1083.026 
+            text = "" 
+        intervals [174]:
+            xmin = 1083.026 
+            xmax = 1084.7 
+            text = "dix minutes en voiture quoi" 
+        intervals [175]:
+            xmin = 1084.7 
+            xmax = 1085.058 
+            text = "enfin" 
+        intervals [176]:
+            xmin = 1085.058 
+            xmax = 1096.867 
+            text = "cinq dix minutes en voiture   [pause] et la crèche est [pause] diamétralement opposée à à l'école des enfants   [pause] des deux autres donc euh [pause] ça me ferait encore plus de [pause] de chemin" 
+        intervals [177]:
+            xmin = 1096.867 
+            xmax = 1101.351 
+            text = "" 
+        intervals [178]:
+            xmin = 1101.351 
+            xmax = 1102.739 
+            text = "oui [pause] et je pars travailler" 
+        intervals [179]:
+            xmin = 1102.739 
+            xmax = 1108.61 
+            text = "" 
+        intervals [180]:
+            xmin = 1108.61 
+            xmax = 1114.667 
+            text = "[rire-] je travaille dans le Treizième   [pause] euh derrière la place d'Italie [pause] et donc j'y vais à pied" 
+        intervals [181]:
+            xmin = 1114.667 
+            xmax = 1116.909 
+            text = "" 
+        intervals [182]:
+            xmin = 1116.909 
+            xmax = 1118.101 
+            text = "ouais de l'autre côté de la place d'Italie" 
+        intervals [183]:
+            xmin = 1118.101 
+            xmax = 1119.56 
+            text = "vers euh" 
+        intervals [184]:
+            xmin = 1119.56 
+            xmax = 1121.254 
+            text = "vers la rue Pinel [pause] alors c'est" 
+        intervals [185]:
+            xmin = 1121.254 
+            xmax = 1121.497 
+            text = "rue" 
+        intervals [186]:
+            xmin = 1121.497 
+            xmax = 1122.69 
+            text = "Campo-Formio en fait" 
+        intervals [187]:
+            xmin = 1122.69 
+            xmax = 1123.482 
+            text = "vers la rue" 
+        intervals [188]:
+            xmin = 1123.482 
+            xmax = 1125.919 
+            text = "" 
+        intervals [189]:
+            xmin = 1125.919 
+            xmax = 1129.186 
+            text = "donc après euh petit trajet euh pédestre de dix minutes" 
+        intervals [190]:
+            xmin = 1129.186 
+            xmax = 1130.069 
+            text = "" 
+        intervals [191]:
+            xmin = 1130.069 
+            xmax = 1130.36 
+            text = "voilà" 
+        intervals [192]:
+            xmin = 1130.36 
+            xmax = 1131.104 
+            text = "" 
+        intervals [193]:
+            xmin = 1131.104 
+            xmax = 1131.676 
+            text = "ouais" 
+        intervals [194]:
+            xmin = 1131.676 
+            xmax = 1137.447 
+            text = "" 
+        intervals [195]:
+            xmin = 1137.447 
+            xmax = 1160.101 
+            text = "quand il faut beau elle prend le temps de le faire à pied [pause]   ou [pause] en s'aidant du bus mais   [pause] quand il fait pas beau [pause] quand elle est pressée elle prend la voiture parce que c'est pareil quoi et [pause] c'- il faut aller chercher Juliette à la crèche à seize heure quinze être [pause] cinq minutes plus tard dix minutes plus tard à l'autre bout du Treizième pour les écoles [mm mm]  [pause] donc la voiture c'est pratique" 
+        intervals [196]:
+            xmin = 1160.101 
+            xmax = 1162.586 
+            text = "" 
+        intervals [197]:
+            xmin = 1162.586 
+            xmax = 1169.983 
+            text = "et puis à cet- à ces heures-là c'est p- [pause] c'est pas trop embouteillé [mm mm] et on connaît les petites rues [pause] donc ça va" 
+        intervals [198]:
+            xmin = 1169.983 
+            xmax = 1182.241 
+            text = "" 
+        intervals [199]:
+            xmin = 1182.241 
+            xmax = 1183.576 
+            text = "les limites du quartier" 
+        intervals [200]:
+            xmin = 1183.576 
+            xmax = 1273.496 
+            text = "bah pour moi le Treizième effectivement y a plusieurs quartiers [pause] tu as le quartier de la Butte-aux-Cailles où on est là   [pause] qui est vraiment typique [pause] enfin typique  qui a ses [pause] ses spécificités entre guillemets [pause]  [mm mm] quartier très populaire mais qui devient un peu bobo mais qui a [pause] ses styles de restaurants euh son s- son son type de population euh tout ça [pause] tu as le quartier où j'étais avant plus vers les Gobelins [pause] Manufacture [pause] qui quiest pas tout à fait pareil les Gobelins maintenant c'est beaucoup de de banques   [pause] de boulangeries et [pause] et [pause] et de [pause] quelques petits commerces [pause] mais c'est [pause] pas très agréable pour s- pour se balader quoi [mm mm] enfin j- surtout je pense maintenant parce qu'y a beaucoup de banques c'est [pause] c'est c'est p- pas très agréable [pause] enfin ça fait quand même un autre quartier [pause] après on est limite Mouffetard mais c'est un peu encore le Treizième et c'est encore un autre   [pause] on s'avance vers les quartiers  plus riches de Paris [mm mm]    [pause] mais aussi plus touristiques donc avec bon d'autres [pause] d'autres types de de de restos de [pause] euh de commerces de choses comme ça [pause] après tu as le quartier un peu plus tranquille de Croulebarbe où tu as le jardin [mm mm] mais y a y a plus y a plus trop de commerces quoi [mm mm] donc c'est vraiment euh [pause] la promenade dominicale [pause] où on va vraiment aller prendre l'air mais pas [pause] pas aller faire du shopping" 
+        intervals [201]:
+            xmin = 1273.496 
+            xmax = 1275.208 
+            text = "" 
+        intervals [202]:
+            xmin = 1275.208 
+            xmax = 1309.216 
+            text = "après tu as le Treizième un peu plus éloigné là où il faut encore un petit peu marcher mais c'est le Quartier chinois [pause]  [mm mm]  [pause] et puis après tu as vraiment le quartier du Treizième qui est un peu loin pour nous mais qui commence à être sympa parce que [pause] y a pas mal de choses qui se développent c'est tout le quartier de la bibliothèque [mm mm] François-Mitterrand [pause]  [mm mm] où il commence à y avoir un peu d'activité là autour de la bibliothèque [mm mm] avec la petite passerelle sur euh [pause] sur Bercy sur le jardin de Bercy de l'autre côté qui est plus dans le Treizième mais dans lequel on peut aller se balader parce que finalement c'est pas si loin que ça [pause]" 
+        intervals [203]:
+            xmin = 1309.216 
+            xmax = 1309.359 
+            text = "et" 
+        intervals [204]:
+            xmin = 1309.359 
+            xmax = 1312.254 
+            text = "" 
+        intervals [205]:
+            xmin = 1312.254 
+            xmax = 1313.258 
+            text = "oh ça dépend" 
+        intervals [206]:
+            xmin = 1313.258 
+            xmax = 1313.824 
+            text = "" 
+        intervals [207]:
+            xmin = 1313.824 
+            xmax = 1326.465 
+            text = "on peut tenter le vélo quand il fait beau on [pause] sinon on essaye d'y aller en voiture c'est le genre d'endroits où on va en voiture [pause] plutôt d'ailleurs   [pause] parce que le métro c'est un peu [syllabe incompréhensible] enfin moi  je suis pas un fan du métro [pause] puis en plus avec les enfants" 
+        intervals [208]:
+            xmin = 1326.465 
+            xmax = 1329.114 
+            text = "je suis pas f- je suis pas trop métro" 
+        intervals [209]:
+            xmin = 1329.114 
+            xmax = 1330.118 
+            text = "" 
+        intervals [210]:
+            xmin = 1330.118 
+            xmax = 1331.122 
+            text = "à la limite je préfère marcher" 
+        intervals [211]:
+            xmin = 1331.122 
+            xmax = 1331.48 
+            text = "quoi" 
+        intervals [212]:
+            xmin = 1331.48 
+            xmax = 1345.954 
+            text = "" 
+        intervals [213]:
+            xmin = 1345.954 
+            xmax = 1347.048 
+            text = "ah j- [pause]" 
+        intervals [214]:
+            xmin = 1347.048 
+            xmax = 1351.069 
+            text = "ça dépend d- ça [pause] ça dépend de qui on a en face" 
+        intervals [215]:
+            xmin = 1351.069 
+            xmax = 1354.837 
+            text = "" 
+        intervals [216]:
+            xmin = 1354.837 
+            xmax = 1460.578 
+            text = "non je p- [pause] je pense qu'on est parisiens quand même   [pause] surtout quand on a des provinciaux en face   [pause] on a quand même un peu l'étiquette Parisien [pause] euh ceci dit je me sens aussi [pause] partie du du Treizième [pause] parce que parce que je pense que c'est un quartier qui a son identité quand même [pause]  [mm mm] euh [pause] à savoir euh [pause] c'est ni complètement [pause] bourgeois comme il peut y avoir dans le sud le Seizième et tout ça [pause] c'est pas non plus complètement populaire comme tu peux avoir [mm mm] dans le Dix-neuf dans le Dix-huit [pause]  [mm mm] je trouve que [pause] le Treizième c'est assez mélangé en fait [pause]  [mm mm] y a un petit peu de tout la proximité du Cinquième fait qu'une partie du Treizième est un peu [pause] un peu bourgeoise   [pause] et puis la proximité du périph et donc de la banlieue fait que y a un côté un peu plus populo [mm mm]  [pause] sur le sur le [pause] sur les côtés qui sont du périph [pause] tu as le Quartier chinois qui est aussi euh [pause] partie prenante dans l- dans le Treizième et qui qui amène autre chose quoi [mm mm]  [pause] je trouve que c'est assez m- assez mélangé c'est [pause] c'est aussi y a aussi un des petits côtés un peu plus [pause] un peu plus historiques Paris quand on est vers le Cinquième des côtés un peu plus modernes [pause] tout le côté Manufacture qui est [pause] qui est aussi vieux Paris et qui est vachement sympathique [pause] je trouve [pause] donc je trouve que le Treizième quand même je me [pause] me plaît pour ça quoi [pause] parce que moi je suis aussi un peu au milieu de tout ça quoi je suis pas [pause] dans la grande bourgeoisie ni dans dans dans le grand populaire je suis un peu entre les deux et ça m- [pause] ça me plaît bien pour ça le Treizième en fait" 
+        intervals [217]:
+            xmin = 1460.578 
+            xmax = 1464.231 
+            text = "" 
+        intervals [218]:
+            xmin = 1464.231 
+            xmax = 1465.519 
+            text = "ouais d'abord peut-être" 
+        intervals [219]:
+            xmin = 1465.519 
+            xmax = 1468.882 
+            text = "ouais le Treizième [pause] mais y a quand même la dimension Paris qui qui [mm mm] qui est là" 
+        intervals [220]:
+            xmin = 1468.882 
+            xmax = 1469.65 
+            text = "quoi parce que c'est" 
+        intervals [221]:
+            xmin = 1469.65 
+            xmax = 1471.253 
+            text = "le Treizième mais c'est quand même Paris à" 
+        intervals [222]:
+            xmin = 1471.253 
+            xmax = 1471.925 
+            text = "savoir" 
+        intervals [223]:
+            xmin = 1471.925 
+            xmax = 1473.189 
+            text = "" 
+        intervals [224]:
+            xmin = 1473.189 
+            xmax = 1475.121 
+            text = "ouais" 
+        intervals [225]:
+            xmin = 1475.121 
+            xmax = 1499.819 
+            text = "ça reste Paris parce que tu as l'accès à [mm mm] à à tout quoi [mm mm] enfin que ce soit culturel [pause] pour les sorties les restos euh [mm mm]  [pause] et puis euh [pause] côté architectural aussi moi que je trouve  sympathique [pause] non non y a [pause] y a aussi le côté Paris" 
+        intervals [226]:
+            xmin = 1499.819 
+            xmax = 1507.288 
+            text = "" 
+        intervals [227]:
+            xmin = 1507.288 
+            xmax = 1554.988 
+            text = "alors y a y a y a bah y a la Fête il y a la Fête des voisins [pause]   que [pause] je pense pas qu'ils l'aient fait cette année [pause] euh ici [pause] là où j'étais avant ils le faisaient pas [pause] par contre [pause] l'année dernière les voisins avaient [pause] enfin les voisins l'immeuble avait organisé un [pause] une petite fête entre Noël et nouvel an c'est-à-dire dans le couloir [pause] ils avaient invité tout le monde dans l'entrée à amener des gâteaux des boissons ils avaient fait un enfin les les vieux de l'immeuble on va dire [pause] les anciens pas les vieux [pause] avaient fait un petit sapin avaient mis des décos enfin [mm mm] petits trucs mignons pour Noël quoi [pause] et euh un week-end ils avaient proposé aux gens ouais de passer et donc y avait gâteaux champagne boissons" 
+        intervals [228]:
+            xmin = 1554.988 
+            xmax = 1555.35 
+            text = "soda" 
+        intervals [229]:
+            xmin = 1555.35 
+            xmax = 1555.517 
+            text = "tout" 
+        intervals [230]:
+            xmin = 1555.517 
+            xmax = 1555.851 
+            text = "ça" 
+        intervals [231]:
+            xmin = 1555.851 
+            xmax = 1557.163 
+            text = "" 
+        intervals [232]:
+            xmin = 1557.163 
+            xmax = 1559.314 
+            text = "on est passés ouais [pause] on y est passés" 
+        intervals [233]:
+            xmin = 1559.314 
+            xmax = 1595.791 
+            text = "enfin nous on était de sortie ce week-end-là mais on est rentrés vers dix-sept heures et puis y avait du monde et puis [mm mm] on est restés discuter un petit peu avec les gens [mm mm] et puis ça permet de rencontrer les gens   [pause] qu'on voit pas forcément [mm mm]  [pause] sinon y a une autre petite fête là pour la commune [mm mm] puisque le quartier de la Butte-aux-Cailles est un quartier historique [pause] donc chaque année je sais plus à quelle période c'est [pause] je sais qu'il pleut souvent [pause]   à cette époque-là parce qu'à chaque fois on se prend la pluie [pause] mais c'est pareil y a des petits [pause] y a des petites activités des petits concerts des artistes des poètes euh" 
+        intervals [234]:
+            xmin = 1595.791 
+            xmax = 1597.222 
+            text = "" 
+        intervals [235]:
+            xmin = 1597.222 
+            xmax = 1605.237 
+            text = "qui se rencontrent euh [pause] y a des enfin voilà c'est c'est un petit moment [mm mm] qui permet de découvrir aussi l'histoire du [pause] du quartier" 
+        intervals [236]:
+            xmin = 1605.237 
+            xmax = 1608.771 
+            text = "" 
+        intervals [237]:
+            xmin = 1608.771 
+            xmax = 1608.962 
+            text = "ouais" 
+        intervals [238]:
+            xmin = 1608.962 
+            xmax = 1625.278 
+            text = "" 
+        intervals [239]:
+            xmin = 1625.278 
+            xmax = 1689.511 
+            text = "euh je je [pause] crois qu'on fait partie de ce qu'on appelle la middle-class   [pause] ou classe moyenne [mm mm]  [pause] c'est-à-dire un peu comme ce que j'ai dit tout à l'heure c'est pas la la la la grande bourgeoisie [pause] riche et propriétaire de [pause] de certaines choses dans Paris [pause] parce que en fait ça fait pas si longtemps qu'on est dans Paris entre guillemets dans la famille [mm mm]  [pause] donc on (n') a pas de [pause] de biens [mm mm] comme certaines personnes qui ont des immeubles ou ce genre de choses [pause] on (n') est pas non plus vu nos revenus [pause] des pauvres   [pause] donc on (n') est pas non plus dans la couche vraiment [pause] populaire si on peut les séparer comme ça les couches sociales [pause] donc nous on se sent un peu au milieu effectivement [pause]  [mm mm] c'est-à-dire ni très pauvres ni très riches [pause] en termes  de de revenus [pause] après je sais pas si y a d'autres façons de [pause] définir les couches sociales enfin on (n') est pas on (n') est pas dans la couche ouvrière on est dans les couches salariées [pause]  [mm mm] salariées moyennes" 
+        intervals [240]:
+            xmin = 1689.511 
+            xmax = 1694.905 
+            text = "" 
+        intervals [241]:
+            xmin = 1694.905 
+            xmax = 1723.262 
+            text = "euh [pause] oui [pause] enfin je pense qu'en fait euh [pause] ceux qui habitent dans l'immeuble sont un peu au même niveau que nous dans les revenus puisque c'est attribué  en fonction des revenus sauf que [pause] sauf que l'OPAC y a quelques années euh [pause] attribuait les logements de façon peut-être [mm mm] moins transparente que maintenant donc [mm mm] y a sûrement eu quelques [pause] pistonnés entre guillemets [mm mm]" 
+        intervals [242]:
+            xmin = 1723.262 
+            xmax = 1729.504 
+            text = "" 
+        intervals [243]:
+            xmin = 1729.504 
+            xmax = 1731.214 
+            text = "je" 
+        intervals [244]:
+            xmin = 1731.214 
+            xmax = 1753.035 
+            text = "j'ai ouï-dire  par des gens de l'immeuble que y avait [pause]   ou y a eu beaucoup de médecins [mm mm]  [pause] ce qui peut paraître un peu [pause]  [mm mm] étonnant dans des [pause]  [mm mm] logements sociaux [mm mm]  [pause] mais y a aussi quelques personnes âgées euh qui d'apparence ont l'air d'avoir des revenus plus modestesdonc [pause]   y avait pas que du pistonnage" 
+        intervals [245]:
+            xmin = 1753.035 
+            xmax = 1755.21 
+            text = "" 
+        intervals [246]:
+            xmin = 1755.21 
+            xmax = 1771.813 
+            text = "donc c'est c'est assez mélangé en fait [mm mm] c'est quand même relativement mélangé [pause] mais mais c'est vrai que comme c'est [pause] soumis aux revenus l'attribution on [pause] on reste quand même [pause] pas si mélangés que ça quoi [mm mm]  [pause] en termes de couches sociales" 
+        intervals [247]:
+            xmin = 1771.813 
+            xmax = 1782.382 
+            text = "" 
+        intervals [248]:
+            xmin = 1782.382 
+            xmax = 1801.393 
+            text = "je je pense que la Butte-aux-Cailles elle est assez mélangée à ce niveau-là   [pause] parce que [pause] justement [pause] d'un point de vue historique c'est un quartier très populaire la Butte-aux-Cailles   [pause] euh même que quand j'étais petit c'était un quartier où on allait pas trop parce que c'était vraiment très populaire voire un peu craignos le" 
+        intervals [249]:
+            xmin = 1801.393 
+            xmax = 1803.587 
+            text = "soir" 
+        intervals [250]:
+            xmin = 1803.587 
+            xmax = 1869.506 
+            text = "euh et que c'est en train de changer parce que bah [pause] Paris forcément avec les loyers [mm mm] euh [pause] forcément euh [pause] ça se boboïse entre guillemets comme c'est un petit quartier qui a un [mm mm]  [pause] on va dire un petit côté charming parce que y a plein de petits immeubles de cours de trucs [mm mm] enfin trucs assez sympas ça [pause] ça se boboïse on va dire [pause]   donc on voit un peu plus bas dans la rue là qu'y a en rez-de-chaussée y a y a des bureaux modernes qui se sont construits donc ils ont tout tout rénové des jolies briques [mm mm] c'est très design à l'intérieur donc c'est [pause] ça change [pause] mais y a encore tous tous les [pause] les anciens [pause] y en a encore pas mal donc quand tu te promènes au rez-de-chaussée des fois tu vois un vieux papy avec sa vieille mamie dans un [pause] dix mètres carrés qui regarde sa télé euh dans un appartement qui a pas dû changer depuis quarante ans [pause]   et puis un peu plus loin tu as aussi quelques petits ateliers d'artistes donc [mm mm] tu vois c'est c'est as- c'est assez mélangé je pense [mm mm]  [pause] le Treizième déjà et ce quartier [mm mm] particulièrement quoi" 
+        intervals [251]:
+            xmin = 1869.506 
+            xmax = 1883.056 
+            text = "" 
+        intervals [252]:
+            xmin = 1883.056 
+            xmax = 1900.014 
+            text = "peut-être que si on va discuter avec les vieux [pause] de la vieille là mais je l'ai pas fait encore [pause] non ça [pf]  [pause] j'ai peut-être plus l'impression que [pause] c'est au niveau des générations" 
+        intervals [253]:
+            xmin = 1900.014 
+            xmax = 1900.659 
+            text = "" 
+        intervals [254]:
+            xmin = 1900.659 
+            xmax = 1901.641 
+            text = "que ça se" 
+        intervals [255]:
+            xmin = 1901.641 
+            xmax = 1901.937 
+            text = "ouais" 
+        intervals [256]:
+            xmin = 1901.937 
+            xmax = 1902.262 
+            text = "" 
+        intervals [257]:
+            xmin = 1902.262 
+            xmax = 1911.913 
+            text = "ouais [pause]   je pense que les djeuns ont leur langage [pause]   plus que les [pause] quadragénaires comme nous ou les vieux plus loin" 
+        intervals [258]:
+            xmin = 1911.913 
+            xmax = 1913.304 
+            text = "" 
+        intervals [259]:
+            xmin = 1913.304 
+            xmax = 1913.606 
+            text = "que" 
+        intervals [260]:
+            xmin = 1913.606 
+            xmax = 1919.41 
+            text = "que vraiment entre les [mm mm]  [pause] entre les gens [pause] donc" 
+        intervals [261]:
+            xmin = 1919.41 
+            xmax = 1923.049 
+            text = "" 
+        intervals [262]:
+            xmin = 1923.049 
+            xmax = 1923.7 
+            text = "je crois ouais" 
+        intervals [263]:
+            xmin = 1923.7 
+            xmax = 1926.392 
+            text = "" 
+        intervals [264]:
+            xmin = 1926.392 
+            xmax = 1926.807 
+            text = "ouais" 
+        intervals [265]:
+            xmin = 1926.807 
+            xmax = 1928.233 
+            text = "ouais" 
+        intervals [266]:
+            xmin = 1928.233 
+            xmax = 1930.754 
+            text = "" 
+        intervals [267]:
+            xmin = 1930.754 
+            xmax = 1931.707 
+            text = "ouais j- [pause] ouais" 
+        intervals [268]:
+            xmin = 1931.707 
+            xmax = 1977.406 
+            text = "j'ai pas l'impress- enfin quand je me promène dans la rue je comprends les gens quoi   [pause] en gros [pause] si y a pas de [pause] si y a pas non [pause] c'est [pause] peut-être qu'en bas en bas au niveau de Chez Gladines le soir quand tu te promènes tu as beaucoup de [pause] beaucoup d'étrangers et d'étudiants étrangers qui viennent [mm mm] au restaurant [pause] donc tu entends  beaucoup parler [pause] parce que le restaurant est un p- un  à tendance basque donc [pause] tu as beaucoup d'étudiants et de de Basques qui viennent  donc tu entends parler un peu étranger machin et cetera mais euh [pause] pour ce qui est de la langue française ça me paraît assez [pause] assez lisse   [pause] y a pas de [pause] non" 
+        intervals [269]:
+            xmin = 1977.406 
+            xmax = 1992.244 
+            text = "" 
+        intervals [270]:
+            xmin = 1992.244 
+            xmax = 2006.044 
+            text = "bah c'est vrai que le restaurant amène quand même beaucoup de Basques [pause] mais aussi d'étudiants donc ça parle  pas mal anglais  espagnol [mm mm]  [pause] des fois ça doit être aussi de l'italien enfin [mm mm] plutôt pays du Sud" 
+        intervals [271]:
+            xmin = 2006.044 
+            xmax = 2007.106 
+            text = "mais je p-" 
+        intervals [272]:
+            xmin = 2007.106 
+            xmax = 2008.971 
+            text = "je pense c'est en relation avec la cuisine aussi" 
+        intervals [273]:
+            xmin = 2008.971 
+            xmax = 2010.502 
+            text = "et qui fait que les gens viennent" 
+        intervals [274]:
+            xmin = 2010.502 
+            xmax = 2012.291 
+            text = "" 
+        intervals [275]:
+            xmin = 2012.291 
+            xmax = 2012.82 
+            text = "ouais" 
+        intervals [276]:
+            xmin = 2012.82 
+            xmax = 2013.941 
+            text = "" 
+        intervals [277]:
+            xmin = 2013.941 
+            xmax = 2042.594 
+            text = "ouais maintenant si tu vas plus [pause] plus rue de la Butte-aux-Cailles où c'est des restaurants plus   [pause]   cuisine française traditionnelle je pense que la population change aussi quoi   [pause] mais euh non dans les bars tout ça ça a l'air assez   [pause] c'est quand même assez clientèle [pause] trente ans euh  je sors du boulot euh [pause] c'est plus [pause] aussi populaire que ça l'a été quoi" 
+        intervals [278]:
+            xmin = 2042.594 
+            xmax = 2063.036 
+            text = "" 
+        intervals [279]:
+            xmin = 2063.036 
+            xmax = 2098.559 
+            text = "euh je pense que si tu vas dans certains quartiers de Paris euh [pause] ça parle beaucoup moins français [pause]    [pause] euh bah tu as des quartiers typiquement euh [pause] où certaines [pause] types de populations sont installées hein tu as [pause] tu as le quartier indien tu as le quartier chinois euh [mm mm]  [pause] dans le Dix-huitième tu as un quartier  plus africain [pause] maghrébin ce genre de choses [pause] bah c'est vrai que tu vas dans le quartier chinois tu entends beaucoup parler chinois  euh tu vas vers Opéra dans les pubs anglais irlandais et tu entends" 
+        intervals [280]:
+            xmin = 2098.559 
+            xmax = 2099.995 
+            text = "tu entends beaucoup parler" 
+        intervals [281]:
+            xmin = 2099.995 
+            xmax = 2108.633 
+            text = "anglais irlandais [pause] tu vas dans les quartiers où y a  beaucoup de cités entre guillemets là tu entendras parler plus djeuns   [rire-] enfin moi c'est comme ça que je le vois  hein mais après" 
+        intervals [282]:
+            xmin = 2108.633 
+            xmax = 2116.77 
+            text = "" 
+        intervals [283]:
+            xmin = 2116.77 
+            xmax = 2117.776 
+            text = "non" 
+        intervals [284]:
+            xmin = 2117.776 
+            xmax = 2128.317 
+            text = "" 
+        intervals [285]:
+            xmin = 2128.317 
+            xmax = 2129.156 
+            text = "sur" 
+        intervals [286]:
+            xmin = 2129.156 
+            xmax = 2132.066 
+            text = "" 
+        intervals [287]:
+            xmin = 2132.066 
+            xmax = 2133.74 
+            text = "euh je pense que Paris c'est" 
+        intervals [288]:
+            xmin = 2133.74 
+            xmax = 2228.198 
+            text = "une ville mais que chaque arrondissement est [pause] a quand même ses ses petits  villages et ses ses spécificités [pause] quand tu vas dans le quartier chinois tu as des endroits où tu es [pause] tu es tu es tu es [pause] tu es à l'autre bout du monde quoienfin je veux dire [mm mm] tu as tu as tu as tu as des [pause] tu as des quartiers dans le quartier chinois quand tu es dans les tours tu [pause] tu es tu es ch- tu es en Chine tu es au Vietnam enfin  tu es tu es ailleurs quoi c'- je veux dire [pause] moi qui ai des origines asiatiques [pause] j'ai mangé pas mal de trucs mais y a des restaurants où f- j'irai pas quoi c'est  ça ça m'a l'air tellement [pause] tellement tellement de là-bas que je p-  je me dis  je vais m'attraper une gastro parce que j'ai pas l'estomac [pause] fait pour manger des trucs de là-bas quoi   [pause] donc je pense tu as vraiment des quartiers qui enfin tu as tu as des endroits dans Paris qui sont pas le le Paris avec un grand P quoi c'est   [pause] puis après tu as le Paris le Paris le Paris vu par les [pause] touristes ou ce qu'on veut en faire voir   [pause] côté un peu historique Disneyland tu vois où c'est [pause] Paris historique le Paris un peu Doisneau ce genre [mm mm] de choses [mm mm]  [pause] qui [pause] qui ce Paris-là il se retrouve pas dans tous [pause] tous les quartiers de Paris quoi [pause] Paris c'est quand même assez quand même multiculturel  enfin plurimulticulturel tu trouves [pause] tu as quand même dans toutes les grandes villes des petits quartiers où les gens se retrouvent hein ont tendance à se regrouper [mm mm] je veux dire [pause] si tu as envie de boire un une bière" 
+        intervals [289]:
+            xmin = 2228.198 
+            xmax = 2228.942 
+            text = "avec un Irlandais" 
+        intervals [290]:
+            xmin = 2228.942 
+            xmax = 2237.599 
+            text = "tu vas vers Opéra si tu as envie de manger chinois tu vas   [pause] vers Choisy [pause] c'est assez euh" 
+        intervals [291]:
+            xmin = 2237.599 
+            xmax = 2250.219 
+            text = "" 
+        intervals [292]:
+            xmin = 2250.219 
+            xmax = 2252.842 
+            text = "bah je pense que les jeunes ont leur langage quoi [pause] enfin" 
+        intervals [293]:
+            xmin = 2252.842 
+            xmax = 2253.128 
+            text = "" 
+        intervals [294]:
+            xmin = 2253.128 
+            xmax = 2255.012 
+            text = "comme comme nous quand on était jeunes hein" 
+        intervals [295]:
+            xmin = 2255.012 
+            xmax = 2256.066 
+            text = "enfin je veux dire" 
+        intervals [296]:
+            xmin = 2256.066 
+            xmax = 2282.906 
+            text = "on a parlé verlan on avait nos mots  nos expressions [pause] et [pause] effectivement j'ai p- j'ai plus l'impression que ce soit une spécificité [pause] liée euh à à l'âge quoi [pause] on a son langage un peu secret [pause] enfin  tu vois [pause] maintenant euh [pause] c'est vrai ch- [pause] chez les adultes j'ai pas l'impression qu'y ait [pause] bon [pause]" 
+        intervals [297]:
+            xmin = 2282.906 
+            xmax = 2287.176 
+            text = "" 
+        intervals [298]:
+            xmin = 2287.176 
+            xmax = 2290.467 
+            text = "non ils sont encore un peu jeunes non [pause] non non mais bon" 
+        intervals [299]:
+            xmin = 2290.467 
+            xmax = 2292.518 
+            text = "quand tu es au square tu entends parler aussi" 
+        intervals [300]:
+            xmin = 2292.518 
+            xmax = 2292.69 
+            text = "un" 
+        intervals [301]:
+            xmin = 2292.69 
+            xmax = 2315.803 
+            text = "peu à droite à gauche ou puis tu as le lycée Rodin où [pause]   qui est qui est attenant au square donc quand tu y vas à certaines heures c'est [pause] c'est plus des ados qui sont là parce que [pause] ils viennent manger le midi ou [pause] ce genre de choses et bon après c'est [pause] c'est c'est [pause] c'est une tranche d'âge je pense où [pause] tu as une [pause] façon de parler un peu différente" 
+        intervals [302]:
+            xmin = 2315.803 
+            xmax = 2319.981 
+            text = "" 
+        intervals [303]:
+            xmin = 2319.981 
+            xmax = 2321.698 
+            text = "je suis sensible" 
+        intervals [304]:
+            xmin = 2321.698 
+            xmax = 2357.044 
+            text = "bah parce que [pause] ça fait un peu l- pas langage secret mais c'est vrai que [mm mm] je p- enfin à à l'adolescence je pense que [mm mm] tu [pause] tu [pause] tu as une façon de parler quand même qui est [pause] qui peut être différente enfin moi je me rappelle personnellement  en tout cas c'était mon cas et c'est vrai que [pause] quand il s'agit d'aller travailler plus tard il faut faire à un moment donné un certain-z-effort pour gommer certaines expressions de ton langage [pause] qui pourraient faire un peu [pause] un peu djeuns révolté quoi" 
+        intervals [305]:
+            xmin = 2357.044 
+            xmax = 2361.94 
+            text = "" 
+        intervals [306]:
+            xmin = 2361.94 
+            xmax = 2362.279 
+            text = "ouais" 
+        intervals [307]:
+            xmin = 2362.279 
+            xmax = 2367.268 
+            text = "" 
+        intervals [308]:
+            xmin = 2367.268 
+            xmax = 2430.481 
+            text = "euh [pause] bah je pense qu'a priori enfin [pause] de ce qu'on en entend c'est pas [pause] on (n') est pas dans une zone défavorisée [pause]   hein [pause] euh à savoir que les choses ont l'air de se passer à peu près bien sauf que [syllabe incompréhensible]  [pause] je pense que comme dans tout lycée euh y a des problèmes un petit peu à la sortie  de drogue de machin choses comme ça mais bon c'est l'adolescence hein [pause] je pense que c'est ça un peu partout pareil [pause] euh au niveau des écoles y a quand même un souci je pense c'est que [pause] les écoles ont tendance à fermer des classes [pause]  [mm mm]  [pause] parce que les familles s'en vont de Paris parce que les loyers sont trop chers et que [pause] et que [pause] bah l'école qui est vraiment juste à côté de chez nous y a une classe qui s'est fermée l'année dernière l'école où sont les enfants donc qui est l'école dont on dépendait avant mais ils sont restés là-bas [pause] une classe s'est fermée quand ils sont arrivés enfin quand le premier est arrivé [pause] euh" 
+        intervals [309]:
+            xmin = 2430.481 
+            xmax = 2431.726 
+            text = "" 
+        intervals [310]:
+            xmin = 2431.726 
+            xmax = 2432.637 
+            text = "boulevard Arago" 
+        intervals [311]:
+            xmin = 2432.637 
+            xmax = 2433.667 
+            text = "" 
+        intervals [312]:
+            xmin = 2433.667 
+            xmax = 2453.156 
+            text = "ouais   [pause] donc ce sont des écoles où franchement en tant que parents y a pas [pause] de problèmes [pause] tout tout le monde il est beau tout le monde il est gentil hein en gros c'est c'est le quartier qui veut un peu ça aussi [mm mm] puisque on est [pause] quand même dans les coins du Treizième où y a pas trop de [pause] de soucis quoi [mm mm]" 
+        intervals [313]:
+            xmin = 2453.156 
+            xmax = 2453.805 
+            text = "les écoles" 
+        intervals [314]:
+            xmin = 2453.805 
+            xmax = 2461.441 
+            text = "qui sont plus en périphérie [mm mm] ont peut-être plus mauvaise presse que [pause] que les écoles qui sont vraiment là dans le milieu du Treizième quoi" 
+        intervals [315]:
+            xmin = 2461.441 
+            xmax = 2466.835 
+            text = "" 
+        intervals [316]:
+            xmin = 2466.835 
+            xmax = 2467.098 
+            text = "ouais" 
+        intervals [317]:
+            xmin = 2467.098 
+            xmax = 2468.891 
+            text = "CP et CM2" 
+        intervals [318]:
+            xmin = 2468.891 
+            xmax = 2475.02 
+            text = "" 
+        intervals [319]:
+            xmin = 2475.02 
+            xmax = 2496.222 
+            text = "et bah le collège euh ça va être a priori celui qui est à côté de la maison [pause] on dépend d'un collège qui est rue [pause] je sais plus le nom de la rue [pause] qui est juste à côté [pause]   donc collège [pause] et puis après ce sera lycée Rodin et le collège apparemment [pf] on (n') rien entendu de [pause] d'alarmant" 
+        intervals [320]:
+            xmin = 2496.222 
+            xmax = 2497.915 
+            text = "" 
+        intervals [321]:
+            xmin = 2497.915 
+            xmax = 2501.014 
+            text = "donc euh pour l'instant on se fait pas trop de" 
+        intervals [322]:
+            xmin = 2501.014 
+            xmax = 2503.709 
+            text = "" 
+        intervals [323]:
+            xmin = 2503.709 
+            xmax = 2503.952 
+            text = "non" 
+        intervals [324]:
+            xmin = 2503.952 
+            xmax = 2505.669 
+            text = "" 
+        intervals [325]:
+            xmin = 2505.669 
+            xmax = 2506.099 
+            text = "non" 
+        intervals [326]:
+            xmin = 2506.099 
+            xmax = 2510.206 
+            text = "" 
+        intervals [327]:
+            xmin = 2510.206 
+            xmax = 2531.03 
+            text = "le lycée Rodin euh [pause] n'est [pause] pas réputé pour être le meilleur lycée du Treizième [pause]   puisque c'est a priori Claude-Monet qui a  meilleure réputation dans le Treizième [pause] bon maintenant le lycée Rodin ça a pas l'air d'être une catastrophe non plus donc on (n') y est pas [mm mm] encore j'ai dit  CM2 mais c'est peut-être CM1 [pause]   parce que c'est pas l'année prochaine [rire-] qu'il rentre au lycée" 
+        intervals [328]:
+            xmin = 2531.03 
+            xmax = 2533.396 
+            text = "" 
+        intervals [329]:
+            xmin = 2533.396 
+            xmax = 2557.929 
+            text = "euh donc on s'est pas encore inquiétés de ces choses-là mais euh [pause] je sais pas les écoles ont l'air assez tranquilles c'est pas [pause] c'- j'- c'- enfin la population [mm mm] c'est quand même relativement des gens [pause] qui ont pas de problèmes et d'ailleurs ça se ressent au niveau des profs qui   [pause] qui font pas trop de sorties par exemple parce qu'ils considèrent que c'est le boulot des parents parce qu'ils ont le temps et" 
+        intervals [330]:
+            xmin = 2557.929 
+            xmax = 2558.935 
+            text = "" 
+        intervals [331]:
+            xmin = 2558.935 
+            xmax = 2570.578 
+            text = "et l'argent et le niveau intellectuel [mm mm] suffisant pour sortir leurs enfants [pause] ce qui avait fait un peu débat dans certaines réunions de parents [mm mm]  [pause] euh donc c'est peut-être trop pépère [mm mm]" 
+        intervals [332]:
+            xmin = 2570.578 
+            xmax = 2571.489 
+            text = "trop" 
+        intervals [333]:
+            xmin = 2571.489 
+            xmax = 2577.289 
+            text = "c'est peut-être trop axé sur justement euh [pause] les cours l'apprentissage [pause] tout ce qui est" 
+        intervals [334]:
+            xmin = 2577.289 
+            xmax = 2578.438 
+            text = "annexe" 
+        intervals [335]:
+            xmin = 2578.438 
+            xmax = 2584.186 
+            text = "passe un peu en arrière-plan [pause]  [mm mm] parce qu'ils considèrent que [pause] que ça peut être fait à la maison" 
+        intervals [336]:
+            xmin = 2584.186 
+            xmax = 2587.076 
+            text = "" 
+        intervals [337]:
+            xmin = 2587.076 
+            xmax = 2589.199 
+            text = "école Arago où sont mes enfants" 
+        intervals [338]:
+            xmin = 2589.199 
+            xmax = 2589.8 
+            text = "" 
+        intervals [339]:
+            xmin = 2589.8 
+            xmax = 2590.329 
+            text = "puisque j'hab-" 
+        intervals [340]:
+            xmin = 2590.329 
+            xmax = 2591.903 
+            text = "j'habitais avec mes parents donc" 
+        intervals [341]:
+            xmin = 2591.903 
+            xmax = 2592.976 
+            text = "dans l'appartement" 
+        intervals [342]:
+            xmin = 2592.976 
+            xmax = 2596.005 
+            text = "dans lequel on était voilà donc euh voilà" 
+        intervals [343]:
+            xmin = 2596.005 
+            xmax = 2597.722 
+            text = "" 
+        intervals [344]:
+            xmin = 2597.722 
+            xmax = 2598.318 
+            text = "non" 
+        intervals [345]:
+            xmin = 2598.318 
+            xmax = 2599.797 
+            text = "non non [pause]   non" 
+        intervals [346]:
+            xmin = 2599.797 
+            xmax = 2600.684 
+            text = "non non" 
+        intervals [347]:
+            xmin = 2600.684 
+            xmax = 2618.67 
+            text = "ouais ouais ça aurait pu mais non non ils sont tous partis ils sont ils sont plus là-bas [pause] mais [pause] j'ai discuté avec la concierge très longuement et [pause] elle se rappelle d'un certain nombre [pause] certains sont partis certains sont morts  certains [pause] sont dans d'autres écoles [pause]  [mm mm] donc j'ai eu des nouvelles" 
+        intervals [348]:
+            xmin = 2618.67 
+            xmax = 2620.129 
+            text = "de mes anciens profs" 
+        intervals [349]:
+            xmin = 2620.129 
+            xmax = 2622.419 
+            text = "" 
+        intervals [350]:
+            xmin = 2622.419 
+            xmax = 2622.805 
+            text = "ouais" 
+        intervals [351]:
+            xmin = 2622.805 
+            xmax = 2624.618 
+            text = "" 
+        intervals [352]:
+            xmin = 2624.618 
+            xmax = 2625.648 
+            text = "je pense que tous" 
+        intervals [353]:
+            xmin = 2625.648 
+            xmax = 2656.018 
+            text = "m'ont marqué dans cette école [pause] j'ai v- j'avais vraiment eu des instits [pause] à forte personnalité et vraiment [pause] j'en ai que des bons souvenirs de cette école [pause]   et ça s'est vraiment toujours bien passé et non non je [pause] me souviens des noms de tous mes profs [pause] et j'en ai même rencontré plusieurs de longues années après qui connaissaient encore mon nom ce qui m'avait assez surpris [pause]  [mm mm] non vraiment [pause] très très bien" 
+        intervals [354]:
+            xmin = 2656.018 
+            xmax = 2658.598 
+            text = "" 
+        intervals [355]:
+            xmin = 2658.598 
+            xmax = 2659.266 
+            text = "c'-" 
+        intervals [356]:
+            xmin = 2659.266 
+            xmax = 2660.439 
+            text = "bon c'était pas" 
+        intervals [357]:
+            xmin = 2660.439 
+            xmax = 2661.727 
+            text = "non plus une grande joie" 
+        intervals [358]:
+            xmin = 2661.727 
+            xmax = 2662.991 
+            text = "c'est" 
+        intervals [359]:
+            xmin = 2662.991 
+            xmax = 2680.109 
+            text = "j'étais [pause] ça [pause] ça ça m- ça me déplaisait pas mais enfin si je les ai pas mis là-bas parce que [mm mm] j'y étais non plus quoi mais [mm mm]  [pause] je savais par ailleurs que c'était une bonne école que [pause] que c'était une école [pause] enfin [pause] a priori qui avait pas non plus [pause] complètement changé donc" 
+        intervals [360]:
+            xmin = 2680.109 
+            xmax = 2681.878 
+            text = "" 
+        intervals [361]:
+            xmin = 2681.878 
+            xmax = 2710.722 
+            text = "euh c'est pas sûr [pause] c'est pas sûr  parce que d'ici là [pause] y a quand même l'autre école qui est beaucoup plus près [pause]   et on (n') a a priori [pause] pas de raison de [pause] je suis ça ça dépend je dis faut qu'on fasse nos calculs le problème c'est de savoir quand [pause] le [pause] moyen sortira de l'école si elle doit y rentrer bah peut-être qu'on sera obligés de la mettre parce qu'on peut pas faire [mm mm]  [pause] plusieurs sorties en même temps quoi [mm mm] c'est pour ça que le deuxième est allé là-bas alors qu'il aurait pu aller" 
+        intervals [362]:
+            xmin = 2710.722 
+            xmax = 2711.514 
+            text = "" 
+        intervals [363]:
+            xmin = 2711.514 
+            xmax = 2712.33 
+            text = "à l'école qui est à côté" 
+        intervals [364]:
+            xmin = 2712.33 
+            xmax = 2713.766 
+            text = "ouais" 
+        intervals [365]:
+            xmin = 2713.766 
+            xmax = 2714.844 
+            text = "" 
+        intervals [366]:
+            xmin = 2714.844 
+            xmax = 2721.197 
+            text = "donc [mm mm]  [pause] mais l'école qui est à côté a aussi très bonne réputation puisqu'on a rencontré aussi les directeurs pour savoir" 
+        intervals [367]:
+            xmin = 2721.197 
+            xmax = 2723.129 
+            text = "" 
+        intervals [368]:
+            xmin = 2723.129 
+            xmax = 2724.321 
+            text = "elle est à" 
+        intervals [369]:
+            xmin = 2724.321 
+            xmax = 2728.924 
+            text = "elle est [pause] vers en allant vers Italie deux là [pause] elle est [pause] près de la Butte-aux-Cailles" 
+        intervals [370]:
+            xmin = 2728.924 
+            xmax = 2731.194 
+            text = "près de la piscine [pause] elle est vraiment juste à côté" 
+        intervals [371]:
+            xmin = 2731.194 
+            xmax = 2736.751 
+            text = "" 
+        intervals [372]:
+            xmin = 2736.751 
+            xmax = 2746.777 
+            text = "y a pas trop de soucis au niveau des écoles [mm mm]  [pause] mais c'est vrai que c'est un point qui [pause] qui est important quand même dans le [pause] dans le choix du logement je pense" 
+        intervals [373]:
+            xmin = 2746.777 
+            xmax = 2747.616 
+            text = "" 
+        intervals [374]:
+            xmin = 2747.616 
+            xmax = 2753.387 
+            text = "autant quand euh [pause] on était que deux [pause] voire deux avec" 
+        intervals [375]:
+            xmin = 2753.387 
+            xmax = 2753.888 
+            text = "un enfant" 
+        intervals [376]:
+            xmin = 2753.888 
+            xmax = 2759.826 
+            text = "plus petit on était prêts à [pause] à partir dans des quartiers moins chers" 
+        intervals [377]:
+            xmin = 2759.826 
+            xmax = 2760.446 
+            text = "" 
+        intervals [378]:
+            xmin = 2760.446 
+            xmax = 2790.915 
+            text = "pour pouvoir [pause] avoir plus grand [pause]   autant y a un moment où on se dit  il vaut mieux être dans un appartement plus petit mais [mm mm]  [pause] avec des écoles où dont on est sûrs de de la qualité [mm mm] de l'enseignement quoi [mm mm] parce que [pause] après ça veut dire [pause] soit des soucis soit le privé [mm mm]  [pause] soit ceci soit cela donc [pause] c'est vrai quand on est contents d'un quartier et [pause] et des écoles [pause] on a tendance à vouloir y rester aussi" 
+        intervals [379]:
+            xmin = 2790.915 
+            xmax = 2805.274 
+            text = "" 
+        intervals [380]:
+            xmin = 2805.274 
+            xmax = 2807.373 
+            text = "bah je vois pas trop" 
+        intervals [381]:
+            xmin = 2807.373 
+            xmax = 2810.216 
+            text = "" 
+        intervals [382]:
+            xmin = 2810.216 
+            xmax = 2827.82 
+            text = "j'ai pas l'impression moi pas particulièrement non [pause] des problèmes économiques [pause] non je vois pas trop [pause] non [pause] bah en tout cas autour de moi j'ai pas entendu [mm mm] parler  de [pause] de choses ni de fermetures" 
+        intervals [383]:
+            xmin = 2827.82 
+            xmax = 2828.392 
+            text = "de" 
+        intervals [384]:
+            xmin = 2828.392 
+            xmax = 2829.132 
+            text = "non" 
+        intervals [385]:
+            xmin = 2829.132 
+            xmax = 2829.375 
+            text = "ils" 
+        intervals [386]:
+            xmin = 2829.375 
+            xmax = 2835.151 
+            text = "ont juste fermé le Grand Écran [pause] à Italie" 
+        intervals [387]:
+            xmin = 2835.151 
+            xmax = 2836.11 
+            text = "si [pause] euh" 
+        intervals [388]:
+            xmin = 2836.11 
+            xmax = 2839.31 
+            text = "" 
+        intervals [389]:
+            xmin = 2839.31 
+            xmax = 2878.759 
+            text = "bah moi je travaillais pas à Paris jusqu'à y a quatre ans [pause]  [mm mm] et j'ai changé de travail [pause] et un des points [pause] positifs pour moi c'est que justement mon nouveau travail se situait dans le Treizième et pas loin de là où j'habitais et que [mm mm]  [pause] travailler à Paris quand on habite à Paris et qu'on peut [pause] y aller à pied je pense que c'est un confort [pause] énorme [pause]   énorme [pause] peu de transports et [pause] même [pause] pas de transports c'est [mm mm] jepense dans la qualité de vie c'est [pause] non négligeable" 
+        intervals [390]:
+            xmin = 2878.759 
+            xmax = 2883.605 
+            text = "" 
+        intervals [391]:
+            xmin = 2883.605 
+            xmax = 2902.33 
+            text = "ah tout à fait [pause]   tout à fait [pause] surtout que [pause] avant j'y allais en voiture justement travailler parce que je travaillais en banlieue [pause]  [mm mm] et donc j'ai eu droit aux travaux place d'Italie [mm mm] aux travaux avenue des Gobelins [pause] au tramway et ça multipliait les trajets" 
+        intervals [392]:
+            xmin = 2902.33 
+            xmax = 2902.979 
+            text = "" 
+        intervals [393]:
+            xmin = 2902.979 
+            xmax = 2906.394 
+            text = "les embouteillages et tout ça y a des moments où ça devenait vraiment dur quoi" 
+        intervals [394]:
+            xmin = 2906.394 
+            xmax = 2908.092 
+            text = "" 
+        intervals [395]:
+            xmin = 2908.092 
+            xmax = 2911.531 
+            text = "donc [pause] plus d'embouteillages plus de voitures c'est parfait" 
+        intervals [396]:
+            xmin = 2911.531 
+            xmax = 2917.736 
+            text = "" 
+        intervals [397]:
+            xmin = 2917.736 
+            xmax = 2920.687 
+            text = "en général je suis vers dix-huit heures trente dix-n- entre dix-huit heures trente" 
+        intervals [398]:
+            xmin = 2920.687 
+            xmax = 2922.362 
+            text = "et dix-neuf heures trente quoi" 
+        intervals [399]:
+            xmin = 2922.362 
+            xmax = 2926.638 
+            text = "" 
+        intervals [400]:
+            xmin = 2926.638 
+            xmax = 2947.462 
+            text = "eh bien le top départ est à [pause] huit heures quinze [pause]   pour être à huit heures et demie à l'école   [syllabe incompréhensible] enfin huit heures vingt-cinq donc je décolle ici à huit heures quinze   [pause] je repasse [pause] il doit être neuf heures à peu près  neuf heures cinq et [pause] je cours au bureau donc j'arrive vers neuf heures et quart [pause]  [mm mm] neuf heures et demie" 
+        intervals [401]:
+            xmin = 2947.462 
+            xmax = 2948.158 
+            text = "" 
+        intervals [402]:
+            xmin = 2948.158 
+            xmax = 2955.67 
+            text = "selon que [pause] la dépose [pause] de Juliette à la crèche a pris plus ou moins de temps   [pause] donc voilà" 
+        intervals [403]:
+            xmin = 2955.67 
+            xmax = 2969.907 
+            text = "" 
+        intervals [404]:
+            xmin = 2969.907 
+            xmax = 3005.672 
+            text = "on fait au mieux mais c'est vrai que la période dix-neuf heures vingt-et-une heures avec les enfants c'est je pense la  période la plus [pause] complexe chaude active stressante   [pause] euh à savoir que c'est [pause] les douches les devoirs le repas [mm mm]  [pause] le brossage des dents  et cetera et cetera et cetera et donc [pause] donc c'est vrai que c'est la période de la journée un peu [pause] enfin la plus fatigante on va dire   [pause] mais bah du fait que on a trois enfants aussi hein je pense que" 
+        intervals [405]:
+            xmin = 3005.672 
+            xmax = 3006.912 
+            text = "" 
+        intervals [406]:
+            xmin = 3006.912 
+            xmax = 3026.527 
+            text = "pour d'autres ça doit être plus simple mais c'est vrai que [pause] bon c'est les devoirs c'est long [pause]  [mm mm] et puis après y a les douches et puis les enfants sont fatigués donc ils ont pas forcément envie et puis nous aussi on peut être un peu fatigués donc on [pause] c'est compliqué [mm mm] donc euh c'est vrai que c'est une période qui est un peu difficile" 
+        intervals [407]:
+            xmin = 3026.527 
+            xmax = 3031.373 
+            text = "" 
+        intervals [408]:
+            xmin = 3031.373 
+            xmax = 3033.16 
+            text = "ben [pause] c'est [pause]" 
+        intervals [409]:
+            xmin = 3033.16 
+            xmax = 3062.079 
+            text = "c'est quand on peut [pause] donc   [pause] c'est pas forcément le soir [pause] c'est peut-être [pause] plus le week-end   [pause] on essaye de dégager un peu de temps pour soi /s-, ç-/ pou- pour ça ça peut être le soir aussi pour tout ce qui est machine à laver le linge la vaisselle tout ça enfin bon [pause] on essaie d'en faire le soir aussi [pause] et [pause] non non [pause] le soir en rentrant à dix-neuf heures on (n') a pas le temps de s'occuper de la maison" 
+        intervals [410]:
+            xmin = 3062.079 
+            xmax = 3062.847 
+            text = "en fait" 
+        intervals [411]:
+            xmin = 3062.847 
+            xmax = 3063.806 
+            text = "" 
+        intervals [412]:
+            xmin = 3063.806 
+            xmax = 3066.291 
+            text = "c'est les enfants ouais [pause] ouais" 
+        intervals [413]:
+            xmin = 3066.291 
+            xmax = 3066.725 
+            text = "ouais" 
+        intervals [414]:
+            xmin = 3066.725 
+            xmax = 3068.275 
+            text = "" 
+        intervals [415]:
+            xmin = 3068.275 
+            xmax = 3071.631 
+            text = "ouais   [pause] faut trouver le temps pour la maison à un autre moment" 
+        intervals [416]:
+            xmin = 3071.631 
+            xmax = 3077.748 
+            text = "" 
+        intervals [417]:
+            xmin = 3077.748 
+            xmax = 3078.945 
+            text = "le week-end" 
+        intervals [418]:
+            xmin = 3078.945 
+            xmax = 3129.157 
+            text = "est plutôt réservé aux loisirs effectivement parce que les enfants sont [pause] effectivement là donc il faut [pause] aussi les occuper [pause] donc c'est c'est aussi en partie pour les devoirs parce que les devoirs ça prend du temps aussi [mm mm] après on essaie effectivement de sortir [mm mm]  [pause] de sortir et [pause] et et de s'occuper aussi un peu de la maison donc c'est un peu [mm mm] un compromis le week-end quoi  des fois ça va être plus de  la sortie des fois ça va être  plus du   [pause] du ménage enfin quand les enfants vont chez les copains par exemple ça nous laisse du temps pour la maison [mm mm]  [pause] mais le week-end effectivement c'est plus consacré aux sorties donc euh quand il fait beau ça va être plus [pause] René-Le Gall par exemple [pause]   où ils vont retrouver leurs copains [mm mm] faire leur foot et tout ça ça leur plaît [pause] sinon ça peut être sortir de Paris aussi parce que [pause] bah voir du vert ça fait du bien de temps en temps aussi" 
+        intervals [419]:
+            xmin = 3129.157 
+            xmax = 3131.117 
+            text = "" 
+        intervals [420]:
+            xmin = 3131.117 
+            xmax = 3144.901 
+            text = "ça peut être la campagne parce que mes parents ont une petite maison à la campagne [pause] ça peut être aller voir des amis en banlieue qui ont des maisons [pause]  [mm mm] donc qui ont pris le parti euh [pause] d'avoir des week-ends plus au vert mais des transports [rire-] un peu" 
+        intervals [421]:
+            xmin = 3144.901 
+            xmax = 3145.783 
+            text = "[rire-] plus compliqués" 
+        intervals [422]:
+            xmin = 3145.783 
+            xmax = 3146.618 
+            text = "" 
+        intervals [423]:
+            xmin = 3146.618 
+            xmax = 3167.618 
+            text = "donc nous on peut profiter le week-end d'un barbecue et d'un jardin [pause]  [mm mm] euh [pause] puis sinon ça peut être aussi profiter de Paris quand on peut [pause] c'est-à-dire [pause] les spectacles [pause] les parcs [pause] euh ça peut être aussi aller voir un peu les grands-parents aussi qui sont [mm mm]" 
+        intervals [424]:
+            xmin = 3167.618 
+            xmax = 3168.81 
+            text = "à Paris" 
+        intervals [425]:
+            xmin = 3168.81 
+            xmax = 3170.17 
+            text = "à Paris" 
+        intervals [426]:
+            xmin = 3170.17 
+            xmax = 3171.725 
+            text = "" 
+        intervals [427]:
+            xmin = 3171.725 
+            xmax = 3176.428 
+            text = "alors il y en a dans [pause] le Treizième et les autres sont dans le Douzième" 
+        intervals [428]:
+            xmin = 3176.428 
+            xmax = 3177.148 
+            text = "" 
+        intervals [429]:
+            xmin = 3177.148 
+            xmax = 3178.722 
+            text = "donc ça va c'est pas trop loin" 
+        intervals [430]:
+            xmin = 3178.722 
+            xmax = 3179.604 
+            text = "" 
+        intervals [431]:
+            xmin = 3179.604 
+            xmax = 3180.558 
+            text = "non" 
+        intervals [432]:
+            xmin = 3180.558 
+            xmax = 3181.846 
+            text = "" 
+        intervals [433]:
+            xmin = 3181.846 
+            xmax = 3182.347 
+            text = "ouais" 
+        intervals [434]:
+            xmin = 3182.347 
+            xmax = 3207.919 
+            text = "ouais ouais [pause] euh donc euh non le week-end c'est [pause]  [mm mm] on essaie de sortir donc quand on arrive à [pause] à ne pas avoir les enfants ça peut être [pause] faire un peu de shopping [pause]  [mm mm] c'est-à-dire se refaire l'intérieur de la maison la garde-robe enfin [pause]  [mm mm] tout ce qu'on faisait et qu'on fait plus   [pause] et que quand on fait plus ça nous manque et donc [pause] on aime bien aussi [pause] tout ça" 
+        intervals [435]:
+            xmin = 3207.919 
+            xmax = 3212.002 
+            text = "" 
+        intervals [436]:
+            xmin = 3212.002 
+            xmax = 3238.758 
+            text = "alors [pause] dans la mesure de leurs possibilités [pause] c'est-à-dire je pense ça leur fait plaisir [pause] mais le problème de nos grands-parents c'est que ce sont des grands-parents actifs [pause] donc qui travaillent encore [pause] donc qui n'ont pas plus de temps [pause] que nous donc qui sont aussi fatigués le soir et qui ont aussi des choses à faire le week-end [pause] donc évidemment [pause] ils ont du temps   [pause] mais euh [pause]   c'est pas les grands-parents qui n'ont que ça à faire" 
+        intervals [437]:
+            xmin = 3238.758 
+            xmax = 3239.831 
+            text = "entre guillemets quoi" 
+        intervals [438]:
+            xmin = 3239.831 
+            xmax = 3241.19 
+            text = "" 
+        intervals [439]:
+            xmin = 3241.19 
+            xmax = 3242.049 
+            text = "ouais" 
+        intervals [440]:
+            xmin = 3242.049 
+            xmax = 3243.58 
+            text = "" 
+        intervals [441]:
+            xmin = 3243.58 
+            xmax = 3246.656 
+            text = "donc euh c'est vrai que" 
+        intervals [442]:
+            xmin = 3246.656 
+            xmax = 3247.563 
+            text = "le soir" 
+        intervals [443]:
+            xmin = 3247.563 
+            xmax = 3257.011 
+            text = "ils arrivent de temps en temps à nous libérer une soirée [pause] euh le week-end à les prendre de temps en temps mais bon ils ont aussi des choses à faire" 
+        intervals [444]:
+            xmin = 3257.011 
+            xmax = 3259.015 
+            text = "" 
+        intervals [445]:
+            xmin = 3259.015 
+            xmax = 3261.094 
+            text = "ils sont dans la soixantaine [pause] euh" 
+        intervals [446]:
+            xmin = 3261.094 
+            xmax = 3272.451 
+            text = "ils sont un peu plus [pause] je pense qu'ils [pause] y en a qui pourraient être à la retraite mais qui ont continué un petit peu [pause]   y en a qui y sont pas encore tout à fait y en a qui sont en libéral donc euh [mm mm]" 
+        intervals [447]:
+            xmin = 3272.451 
+            xmax = 3274.269 
+            text = "qui continuent à travailler [pause]" 
+        intervals [448]:
+            xmin = 3274.269 
+            xmax = 3280.339 
+            text = "donc euh [pause] je pense qu'ils vont encore continuer à travailler quelques années en fait" 
+        intervals [449]:
+            xmin = 3280.339 
+            xmax = 3283.046 
+            text = "" 
+        intervals [450]:
+            xmin = 3283.046 
+            xmax = 3284.474 
+            text = "on peut avoir ouais" 
+        intervals [451]:
+            xmin = 3284.474 
+            xmax = 3298.954 
+            text = "ça nous arrive oui [pause] donc on a aussi euh [pause] les baby-sitters quand on (n') a pas les grands-parents en général on essaye d'abord les grands-parents et puis [mm mm]  [pause] quand on peut pas c'est la [pause] baby-sitter [mm mm] ou quand on sent qu'ils sont un peu crevés [mm mm]" 
+        intervals [452]:
+            xmin = 3298.954 
+            xmax = 3301.541 
+            text = "" 
+        intervals [453]:
+            xmin = 3301.541 
+            xmax = 3302.718 
+            text = "j'ai un frère" 
+        intervals [454]:
+            xmin = 3302.718 
+            xmax = 3304.224 
+            text = "qui est aussi [rire-] dans le Treizième" 
+        intervals [455]:
+            xmin = 3304.224 
+            xmax = 3306.752 
+            text = "" 
+        intervals [456]:
+            xmin = 3306.752 
+            xmax = 3319.305 
+            text = "euh [pause] qui [pause] qui a deux enfants et qui travaille aussi donc c'est un peu c'est un peu la même [pause] c'est un peu le même truc quoi donc c'est que" 
+        intervals [457]:
+            xmin = 3319.305 
+            xmax = 3321.38 
+            text = "tout le monde bosse donc euh c'est" 
+        intervals [458]:
+            xmin = 3321.38 
+            xmax = 3324.89 
+            text = "c'est on se voit surtout [pause] quand y a des réunions de famille" 
+        intervals [459]:
+            xmin = 3324.89 
+            xmax = 3328.515 
+            text = "" 
+        intervals [460]:
+            xmin = 3328.515 
+            xmax = 3331.101 
+            text = "bah oui" 
+        intervals [461]:
+            xmin = 3331.101 
+            xmax = 3342.266 
+            text = "" 
+        intervals [462]:
+            xmin = 3342.266 
+            xmax = 3342.863 
+            text = "eh bien non" 
+        intervals [463]:
+            xmin = 3342.863 
+            xmax = 3347.351 
+            text = "" 
+        intervals [464]:
+            xmin = 3347.351 
+            xmax = 3353.08 
+            text = "non mais [pause] Maud s'y est mis y a pas longtemps [pause] elle a commencé le tennis [pause]  [mm mm]" 
+        intervals [465]:
+            xmin = 3353.08 
+            xmax = 3355.432 
+            text = "donc euh tout n'est pas perdu [pause]" 
+        intervals [466]:
+            xmin = 3355.432 
+            xmax = 3376.743 
+            text = "euh   [pause] je [pause] enfin en ce qui me concerne le sport c'est [pause] je pense un manque de temps   [pause] et sur le temps libre qui reste le manque de motivation pour ressortir le soir par exemple [mm mm] aller quelque part tout ça   [pause] donc j'ai j'ai pas envie" 
+        intervals [467]:
+            xmin = 3376.743 
+            xmax = 3377.22 
+            text = "" 
+        intervals [468]:
+            xmin = 3377.22 
+            xmax = 3388.816 
+            text = "j'ai pas envie [pause] euh bon ben Maud cette année est plus motivée donc elle fait du tennis un soir par semaine [pause] euh [pause] mais j'ai j'ai eu fait du sport" 
+        intervals [469]:
+            xmin = 3388.816 
+            xmax = 3391.177 
+            text = "" 
+        intervals [470]:
+            xmin = 3391.177 
+            xmax = 3413.839 
+            text = "non j'ai oui j'ai j'en j'en ai fait à un moment je faisais du squash [pause] j'ai fait du tennis [pause] mais bon le tennis c'était en banlieue le squash c'était [pause] pas loin de la banlieue non plus [pause] je trouve que le sport à Paris c'est pas forcément hyper pratique non plus quoi [mm mm] j'ai fait aussi de la salle de sport là du indoor c'est   [pause] pas très agréable donc  j'ai arrêté faut vraiment être motivé quoi [mm mm] pour aller faire ce genre de choses" 
+        intervals [471]:
+            xmin = 3413.839 
+            xmax = 3417.631 
+            text = "" 
+        intervals [472]:
+            xmin = 3417.631 
+            xmax = 3423.34 
+            text = "euh je sais p- [pause] oui ça peut être encore le Treizième ou c'est le Cinquième c'est vers le Jardin des Plantes donc c'est" 
+        intervals [473]:
+            xmin = 3423.34 
+            xmax = 3427.919 
+            text = "géographiquement c'est pas très loin mais" 
+        intervals [474]:
+            xmin = 3427.919 
+            xmax = 3430.595 
+            text = "" 
+        intervals [475]:
+            xmin = 3430.595 
+            xmax = 3431.363 
+            text = "les enfants" 
+        intervals [476]:
+            xmin = 3431.363 
+            xmax = 3433.657 
+            text = "[rire-] font des activités" 
+        intervals [477]:
+            xmin = 3433.657 
+            xmax = 3434.778 
+            text = "" 
+        intervals [478]:
+            xmin = 3434.778 
+            xmax = 3442.509 
+            text = "oui alors nous avons des activités sportives [pause] que sont le [pause] karaté et la capoeira" 
+        intervals [479]:
+            xmin = 3442.509 
+            xmax = 3443.082 
+            text = "" 
+        intervals [480]:
+            xmin = 3443.082 
+            xmax = 3481.648 
+            text = "capoeira [pause] c'est de la danse [pause] euh c'est entre la danse et l'art martial [mm mm]  [pause] brésilien [pause]  [mm mm]  [pause] donc c'est ça qui est aussi intéressant à Paris c'est que tu as une offre [mm mm] assez [pause] moi je trouve sympa parce qu'y a vraiment de tout quoi [mm mm] et c'est [pause] de ce côté-là c'est moi j'apprécie beaucoup ça [pause] tu [pause] donc on a du sport donc c'est c'est vraiment dans le quartier hein la capoeira c'est à Daviel donc c'est [pause] en descendant dans la rue là-bas [pause] le karaté c'est en face dans un petit [pause] gymnase municipal [mm mm] euh on a batterie" 
+        intervals [481]:
+            xmin = 3481.648 
+            xmax = 3482.535 
+            text = "" 
+        intervals [482]:
+            xmin = 3482.535 
+            xmax = 3499.705 
+            text = "donc c'est une école de musique qui est place d'Italie     [pause] euh on avait guitare mais [pause] ça ça s'est arrêté [pause] parce que il voulait plus [pause] et [pause] et c'est tout" 
+        intervals [483]:
+            xmin = 3499.705 
+            xmax = 3502.591 
+            text = "" 
+        intervals [484]:
+            xmin = 3502.591 
+            xmax = 3503.478 
+            text = "les activités" 
+        intervals [485]:
+            xmin = 3503.478 
+            xmax = 3504.241 
+            text = "" 
+        intervals [486]:
+            xmin = 3504.241 
+            xmax = 3531.561 
+            text = "bah au début c'est surtout en fonction de l'âge c'est-à-dire  quand ils sont petits à part l'initiation aux arts martiaux y a pas grand chose [pause]  [mm mm] et puis ça leur permet de se dépenser enfin c'est un peu physique [mm mm] quoi [pause] euh [pause] alors après ça plaît ou ça plaît pas le plus grand ça l- ça lui plaisait mais pas plus que ça donc il a voulu arrêter donc pendant un an il a fait du foot [mm mm]  [pause] il a arrêté le foot et puis il s'est lancé dans la capoeira [mm mm]  [pause] c'est un peu eux qui" 
+        intervals [487]:
+            xmin = 3531.561 
+            xmax = 3532.944 
+            text = "ont choisi aussi quoi enfin bon" 
+        intervals [488]:
+            xmin = 3532.944 
+            xmax = 3537.53 
+            text = "" 
+        intervals [489]:
+            xmin = 3537.53 
+            xmax = 3538.389 
+            text = "non" 
+        intervals [490]:
+            xmin = 3538.389 
+            xmax = 3543.068 
+            text = "non non [pause] non bah en fait le on s'est quand même renseignés un peu sur" 
+        intervals [491]:
+            xmin = 3543.068 
+            xmax = 3543.574 
+            text = "toutes les" 
+        intervals [492]:
+            xmin = 3543.574 
+            xmax = 3580.838 
+            text = "activités qu'y avait dans le quartier [mm mm]  [pause] puis après y a eu en fonction euh [pause] du tarif en fonction [mm mm] des horaires en fonction [mm mm] de ce que les enfants voulaient faire [mm mm]  [pause] donc au final il a il reste pas [pause] tant que ça de choix [mm mm]  [pause] parce que [pause] bah quand tu en as trois il faut jongler un petit peu avec tout ça et [mm mm] donc finalement [pause] bon bah [pause] après si vraiment ils veulent pas ils veulent pas mais [mm mm] au bout du compte sur le le le choix qu'y a il en reste pas tant que ça quoi [mm mm]  [pause] donc c'est quand même eux qui ont un petit peu choisi mais on les a quand même orientés en fonction de [pause] ce qu'on pouvait faire derrière" 
+        intervals [493]:
+            xmin = 3580.838 
+            xmax = 3581.315 
+            text = "" 
+        intervals [494]:
+            xmin = 3581.315 
+            xmax = 3584.454 
+            text = "en termes de logistique" 
+        intervals [495]:
+            xmin = 3584.454 
+            xmax = 3587.149 
+            text = "" 
+        intervals [496]:
+            xmin = 3587.149 
+            xmax = 3588.175 
+            text = "ouais bah sport" 
+        intervals [497]:
+            xmin = 3588.175 
+            xmax = 3598.792 
+            text = "et musique ouais [pause] ouais [mm mm]  [pause] sinon y avait euh [pause] y avait aussi euh [pause] plus un truc genre dessin poterie" 
+        intervals [498]:
+            xmin = 3598.792 
+            xmax = 3599.25 
+            text = "mais" 
+        intervals [499]:
+            xmin = 3599.25 
+            xmax = 3602.114 
+            text = "ça s'est pas fait ça parce que juste les horaires c'était pas possible quoi" 
+        intervals [500]:
+            xmin = 3602.114 
+            xmax = 3605.5 
+            text = "" 
+        intervals [501]:
+            xmin = 3605.5 
+            xmax = 3606.574 
+            text = "c'est en semaine tout" 
+        intervals [502]:
+            xmin = 3606.574 
+            xmax = 3607.294 
+            text = "est en semaine" 
+        intervals [503]:
+            xmin = 3607.294 
+            xmax = 3608.634 
+            text = "parce qu'on essaye d'avoir" 
+        intervals [504]:
+            xmin = 3608.634 
+            xmax = 3611.162 
+            text = "des week-ends [pause] sans rien parce" 
+        intervals [505]:
+            xmin = 3611.162 
+            xmax = 3619.604 
+            text = "qu'on aime bien pouvoir justement partir en week-end [mm mm] et pas être [pause]  [mm mm] scotchés à Paris parce qu'il y a les activités des enfants quoi" 
+        intervals [506]:
+            xmin = 3619.604 
+            xmax = 3621.059 
+            text = "donc tout est la semaine" 
+        intervals [507]:
+            xmin = 3621.059 
+            xmax = 3622.638 
+            text = "" 
+        intervals [508]:
+            xmin = 3622.638 
+            xmax = 3624.169 
+            text = "il y en a le mercredi et le soir" 
+        intervals [509]:
+            xmin = 3624.169 
+            xmax = 3627.512 
+            text = "c'est [pause] justement [pause] ouais" 
+        intervals [510]:
+            xmin = 3627.512 
+            xmax = 3638.387 
+            text = "" 
+        intervals [511]:
+            xmin = 3638.387 
+            xmax = 3639.155 
+            text = "d'animaux familiers" 
+        intervals [512]:
+            xmin = 3639.155 
+            xmax = 3640.257 
+            text = "à la maison" 
+        intervals [513]:
+            xmin = 3640.257 
+            xmax = 3643.672 
+            text = "non [pause] je n'aime pas les animaux familiers personnellement" 
+        intervals [514]:
+            xmin = 3643.672 
+            xmax = 3646.324 
+            text = "" 
+        intervals [515]:
+            xmin = 3646.324 
+            xmax = 3723.503 
+            text = "non non mais moi je [pause] enfin moi je moi je [pause] je suis pas personnellement pour avoir des animaux familiers donc euh [pause] ça me dérange pas particulièrement chez les autres [pause] quoique [pause] quand je vois le nombre de crottes de chien sur les trottoirs des fois [pause] ça me gêne un peu [pause]  [mm mm] euh [pause] mais [pause] je suis pas excédé par ça quoi enfin c'est pas  c'est pas une nuisance que je trouve par- [pause] plus particulièrement importante que les autres [mm mm] enfin c'est [pause] effectivement y a des chiens à part les chiens euh dans la rue on rencontre quand même assez peu de   [pause] d'autres animaux   [pause] euh [pause] bon par contre [pause] Maud [pause] a peur des chiens [pause]   et [pause] donc c'est vrai que dans l'immeuble on (n') apprécie pas les chiens [pause]   ils sont pas bruyants mais ils sont là et notamment nous avons un pitbull au sixième étage   [pause] et donc c'est un chien qui a quand même [pause] une assez mauvaise [pause] réputation  et qui même s'il est très gentil a priori fait peur [mm mm]  [pause] euh [pause] donc c'est [pause] ça peut être un problème" 
+        intervals [516]:
+            xmin = 3723.503 
+            xmax = 3726.179 
+            text = "" 
+        intervals [517]:
+            xmin = 3726.179 
+            xmax = 3726.78 
+            text = "il est" 
+        intervals [518]:
+            xmin = 3726.78 
+            xmax = 3752.198 
+            text = "extrêmement souvent avec une muselière [pause] avec un maître extrêmement poli [pause] mais ça reste quand même un pitbull [pause]  [mm mm] à savoir que tu sais jamais [rire-] s'il va pas te sauter dessus  quoi [pause] et même s'il a une muselière je veux dire si [pause] par hasard il était pas en laisse je pense qu'il [pause] pourrait [pause] très largement bousculer un enfant [mm mm]  [pause]" 
+        intervals [519]:
+            xmin = 3752.198 
+            xmax = 3753.3 
+            text = "et" 
+        intervals [520]:
+            xmin = 3753.3 
+            xmax = 3767.089 
+            text = "je [pause] passerai sur un épisode sanglant [pause] nous avons retrouvé un jour l'immeuble repeint de sang parce que je pense que [pause] y a eu un problème avec le chien [pause] mais [pause] bon" 
+        intervals [521]:
+            xmin = 3767.089 
+            xmax = 3768.763 
+            text = "" 
+        intervals [522]:
+            xmin = 3768.763 
+            xmax = 3794.526 
+            text = "oui [pause] mais je pense que c'était [pause] sciemment qu'il a mordu   [pause] je pense que [pause] y a eu un problème entre le maître et [pause] une personne X et que [pause] il lui a lancé le chien dessus quoi [pause] mais ce ne sont que des suppositions [pause] mais ceci dit [pause] ça ne renforce pas la confiance que tu peux avoir [pause] dans cette petite bête  qui se promène de temps en temps dans l'immeuble" 
+        intervals [523]:
+            xmin = 3794.526 
+            xmax = 3795.075 
+            text = "" 
+        intervals [524]:
+            xmin = 3795.075 
+            xmax = 3799.658 
+            text = "bon après tu as d'autres petits chiens mais bon voilà quoi enfin bon [mm mm] c'est pas [mm mm]" 
+        intervals [525]:
+            xmin = 3799.658 
+            xmax = 3800.755 
+            text = "moi personnellement" 
+        intervals [526]:
+            xmin = 3800.755 
+            xmax = 3809.293 
+            text = "ça me gêne pas trop je sais que Maud et que d'autres gens aiment pas trop ça bon c'est vrai que les déjections canines [mm mm] c'est pas forcément un plaisir [mm mm] quand y en a trop [mm mm]" 
+        intervals [527]:
+            xmin = 3809.293 
+            xmax = 3814.043 
+            text = "" 
+        intervals [528]:
+            xmin = 3814.043 
+            xmax = 3814.568 
+            text = "oh je pense qu'ils" 
+        intervals [529]:
+            xmin = 3814.568 
+            xmax = 3814.973 
+            text = "ont dû" 
+        intervals [530]:
+            xmin = 3814.973 
+            xmax = 3833.598 
+            text = "demander une fois mais comme ça a été net et précis et   [pause] et ferme euh pour l'instant on (n') a eu droit qu'aux poissons rouges et [pause] quand ils sont morts ça a été une grande libération   [pause] parce que [pause] faut s'en occuper quoi [mm mm]  [pause]  [mm mm] et puis si ouais voilà [pause] donc pas d'animaux familiers" 
+        intervals [531]:
+            xmin = 3833.598 
+            xmax = 3837.236 
+            text = "" 
+        intervals [532]:
+            xmin = 3837.236 
+            xmax = 3837.713 
+            text = "ouais" 
+        intervals [533]:
+            xmin = 3837.713 
+            xmax = 3848.802 
+            text = "" 
+        intervals [534]:
+            xmin = 3848.802 
+            xmax = 3851.592 
+            text = "euh" 
+        intervals [535]:
+            xmin = 3851.592 
+            xmax = 3851.931 
+            text = "bah c'est" 
+        intervals [536]:
+            xmin = 3851.931 
+            xmax = 3872.202 
+            text = "d'abord c'est toujours plus facile d'aller dans le quartier donc je pense qu'y a quand même beaucoup le bouche à oreille qui [mm mm] qui qui joue entre entre parents  dans les écoles les crèches et cetera [mm mm]  [pause] euh [pause] on regarde de temps en temps le site de la mairie [pause] le site web [mm mm] où y a des [pause] des informations y a un agenda tout ça [mm mm]  [pause] on reçoit aussi un magazine [pause] de la mairie [mm mm] je pense" 
+        intervals [537]:
+            xmin = 3872.202 
+            xmax = 3873.709 
+            text = "où euh" 
+        intervals [538]:
+            xmin = 3873.709 
+            xmax = 3927.936 
+            text = "où y a des infos [pause] mais je p- je pense quand même que ce qui marche le mieux c'est le bouche à oreille [pause] et euh [pause] dans le Treizième notamment on a [pause] on a [pause] la la Cachette là qui a [mm mm] bah un petit théâtre pour les petits [mm mm] donc [pause] qui est qui est qui est sympa parce que les enfants  quand i- quand ils sont tous petits tu as [pause] enfin tu as pas forcément des spectacles et quand il pleut des fois c'est sympa de les amener [mm mm]  [rire-] au spectacle   [pause] donc euh [pause] c'est vrai qu'on va plus facilement dans le quartier quand même [mm mm]  [pause] euh pour des petits spectacles quoi tout ce qui est [pause] théâtre pour enfants ce genre [mm mm] de choses quoi [pause] et [pause] sinon pour les plus grosses productions tu as pas trop le choix quoi   [pause] enfin ça je pense que c'est la pub  que tu peux voir à droite à gauche et [pause] et voilà" 
+        intervals [539]:
+            xmin = 3927.936 
+            xmax = 3938.958 
+            text = "" 
+        intervals [540]:
+            xmin = 3938.958 
+            xmax = 3939.912 
+            text = "ouais ouais" 
+        intervals [541]:
+            xmin = 3939.912 
+            xmax = 3942.011 
+            text = "" 
+        intervals [542]:
+            xmin = 3942.011 
+            xmax = 3943.995 
+            text = "bah oui on essaie on essayie" 
+        intervals [543]:
+            xmin = 3943.995 
+            xmax = 3949.881 
+            text = "de regarder après y a une question de temps et de priorités parce que on a  les crèches parentales aussi [pause] qui prend du temps  machin" 
+        intervals [544]:
+            xmin = 3949.881 
+            xmax = 3951.507 
+            text = "et cetera" 
+        intervals [545]:
+            xmin = 3951.507 
+            xmax = 3958.614 
+            text = "mais [pause] c'est vrai que suite aux problèmes qu'y a eu au jardin d'enfants qu'ils voulaient fermer à un moment donné" 
+        intervals [546]:
+            xmin = 3958.614 
+            xmax = 3960.646 
+            text = "euh" 
+        intervals [547]:
+            xmin = 3960.646 
+            xmax = 3961.533 
+            text = "" 
+        intervals [548]:
+            xmin = 3961.533 
+            xmax = 3961.867 
+            text = "ouais" 
+        intervals [549]:
+            xmin = 3961.867 
+            xmax = 4025.854 
+            text = "ouais [pause] enfin qu'ils voulaient fermer ça a jamais été très clair mais bon [mm mm]  [pause] on s'est rendu compte [pause]   que en fait il existait plein de choses au niveau de la mairie les conseils de quartier les conseils d'arrondissement [mm mm] ce genre de choses [pause] que pour certains [pause] travaux [pause] restructurations de machin  y avait des des projets que tu pouvais aller v- aller voir à la mairie et cetera [mm mm]  [pause] donc c'est vrai que quand on a le temps on y va [pause] je dis pas qu'on y va souvent mais [mm mm] euh [pause] euh [pause] quand y a eu pour ces problèmes là pour les jardins d'enfants c'est vrai que c'était une période [mm mm] où on essayait d'y aller un peu pour voir ce qu'ils allaient faire du quartier [mm mm] de certaines choses on a p- on a été à certaines réunions on a été voir on a été écouter [pause] euh [pause] René-Le Gall ils voulaient faire pas mal de de de travaux aussi donc c'est des trucs qu'on a regardés pas [pause] pas à fond mais [mm mm] c'est vrai qu'on s'est un peu renseignés on a regardé parce qu'ils avaient fait beaucoup de communication là-dessus aussi donc on [pause] a lu [pause] ce genre de choses [pause] ça nous intéresse parce que c'est quand même la vie du quartier aussi quoi" 
+        intervals [550]:
+            xmin = 4025.854 
+            xmax = 4026.88 
+            text = "" 
+        intervals [551]:
+            xmin = 4026.88 
+            xmax = 4047.083 
+            text = "donc euh [pause] et puis parce que [pause] il est jamais trop tard pour se mobiliser si jamais  on touche à quelque chose [pause]   qu'on pense qu'il faudrait pas qu'on y touche   [pause] donc y a c'est en parlant de changements c'est vrai que [pause] y a eu quand même pas mal de nouveaux immeubles construits maintenant que" 
+        intervals [552]:
+            xmin = 4047.083 
+            xmax = 4047.25 
+            text = "" 
+        intervals [553]:
+            xmin = 4047.25 
+            xmax = 4057.992 
+            text = "j'y pense [pause]   y avait un grand garage Citroën et un grand garage Peugeot [pause] qui ont été [pause] détruits et sur lesquels ils ont fait des immeubles modernes" 
+        intervals [554]:
+            xmin = 4057.992 
+            xmax = 4059.28 
+            text = "" 
+        intervals [555]:
+            xmin = 4059.28 
+            xmax = 4059.666 
+            text = "y a un" 
+        intervals [556]:
+            xmin = 4059.666 
+            xmax = 4060.692 
+            text = "" 
+        intervals [557]:
+            xmin = 4060.692 
+            xmax = 4061.436 
+            text = "pas la Butte-aux-Cailles" 
+        intervals [558]:
+            xmin = 4061.436 
+            xmax = 4114.738 
+            text = "tu en avais un plus vers le boulevard Arago euh [mm mm]  [pause] qui était vers la rue [pause] des Gobelins [mm mm]  [pause] et je sais qu'à un moment donné les gens se sont mobilisés parce que le garage c'était un peu [pause] il était là depuis très longtemps et puis c'était un vieux bâtiment [mm mm] machin et cetera [pause] pas très joli mais vieux bâtiment [pause] bon de toute façon à chaque fois qu'y a quelque chose y a des gens qui sont plus ou moins contents y a des gens qui ont qui [pause] qui tiennent à [pause] garder leur quartier comme il était bref [pause] euh [pause] donc ça s'est quand même quand même construit [pause] malgré le manque de place [pause] mais bon non y a pas eu non plus de grands changements dans le   [pause] mais c'est vrai que bon euh [pause] quand tu discutes avec les gens de la Butte-aux-Cailles   [pause] les vieux [pause]   les vieux [pause] ceux qui ont les petites maisons-là" 
+        intervals [559]:
+            xmin = 4114.738 
+            xmax = 4115.292 
+            text = "" 
+        intervals [560]:
+            xmin = 4115.292 
+            xmax = 4123.281 
+            text = "te racontent y a bah quarante cinquante ans quand ils ont acheté leur maison qu'ils ouvraient leurs volets [pause] et qu'yavait pas cette grande barre d'immeubles-là" 
+        intervals [561]:
+            xmin = 4123.281 
+            xmax = 4124.211 
+            text = "" 
+        intervals [562]:
+            xmin = 4124.211 
+            xmax = 4126.881 
+            text = "bah qu'ils voyaient tout Paris et qu'ils voyaient la tour Eiffel quoi" 
+        intervals [563]:
+            xmin = 4126.881 
+            xmax = 4127.836 
+            text = "" 
+        intervals [564]:
+            xmin = 4127.836 
+            xmax = 4131.966 
+            text = "et puis un jour ils ont vu ce ce gros morceau de béton devant chez eux" 
+        intervals [565]:
+            xmin = 4131.966 
+            xmax = 4133.515 
+            text = "" 
+        intervals [566]:
+            xmin = 4133.515 
+            xmax = 4157.801 
+            text = "donc euh bon [pause] c'est vrai qu'on est [pause] on reste quand même vigilants  à ce qui se fait  parce qu'on (n') a pas non plus envie de [pause]   enfin d'avoir des trucs dans tout le quartier qui pourraient [pause] dégrader la [pause] la qualité de vie quoi [pause]  [mm mm] par exemple s'ils voulaient fermer la piscine de la Butte-aux-Cailles [pause] je pense que je me mob- mobiliserais peut-être pour dire [mm mm] que cette piscine elle est pas mal mais [pause] enfin bon [mm mm]" 
+        intervals [567]:
+            xmin = 4157.801 
+            xmax = 4159.846 
+            text = "" 
+        intervals [568]:
+            xmin = 4159.846 
+            xmax = 4186.474 
+            text = "pareil pour le jardin d'enfants et pareil [pause] enfin bon je crois qu'ils sont pas trop dans enfin [pause] pour l'instant la p- la politique  de la ville  c'est plutôt développer les espaces verts  limiter les tours et ce genre de choses donc c'est c'est p- c'est [pause] je suis pas trop inquiet [pause]  [mm mm] pour l'instant les les changements ça a plutôt été dans le bon sens mais bon [pause]  [mm mm] c'est vrai qu'on on reste toujours [pause] une petite oreille qui traîne quand même [pause] de toute façon dans les quartiers ça va vite hein après les [pause] les gens en parlent c'est [mm mm]" 
+        intervals [569]:
+            xmin = 4186.474 
+            xmax = 4188.095 
+            text = "" 
+        intervals [570]:
+            xmin = 4188.095 
+            xmax = 4190.399 
+            text = "ouais [pause] oui [pause] je pense" 

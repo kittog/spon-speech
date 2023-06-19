@@ -1,0 +1,1890 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 538.431 
+tiers? <exists> 
+size = 5 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Louise Liotard" 
+        xmin = 0 
+        xmax = 538.431 
+        intervals: size = 119 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.804 
+            text = "" 
+        intervals [2]:
+            xmin = 0.804 
+            xmax = 1.608 
+            text = "la cuisine" 
+        intervals [3]:
+            xmin = 1.608 
+            xmax = 9.944 
+            text = "" 
+        intervals [4]:
+            xmin = 9.944 
+            xmax = 17.374 
+            text = "moi j'ai une amie qui y vavous la connaissez elle va à la cuisine elle" 
+        intervals [5]:
+            xmin = 17.374 
+            xmax = 20.425 
+            text = "" 
+        intervals [6]:
+            xmin = 20.425 
+            xmax = 25.549 
+            text = "à non euh en haut là rue Albert Dhalenne  le foyer restaurant" 
+        intervals [7]:
+            xmin = 25.549 
+            xmax = 26.332 
+            text = "" 
+        intervals [8]:
+            xmin = 26.332 
+            xmax = 27.986 
+            text = "voilà juste en bas de chez moi d'ailleurs" 
+        intervals [9]:
+            xmin = 27.986 
+            xmax = 30.339 
+            text = "je pourrais y aller manger hein si je voulais" 
+        intervals [10]:
+            xmin = 30.339 
+            xmax = 35.763 
+            text = "" 
+        intervals [11]:
+            xmin = 35.763 
+            xmax = 43.384 
+            text = "oui oui cours de cuisine cours de cui-" 
+        intervals [12]:
+            xmin = 43.384 
+            xmax = 49.735 
+            text = "" 
+        intervals [13]:
+            xmin = 49.735 
+            xmax = 50.158 
+            text = "ah" 
+        intervals [14]:
+            xmin = 50.158 
+            xmax = 53.192 
+            text = "" 
+        intervals [15]:
+            xmin = 53.192 
+            xmax = 54.275 
+            text = "ah ben j'en ai eu oui" 
+        intervals [16]:
+            xmin = 54.275 
+            xmax = 56.649 
+            text = "" 
+        intervals [17]:
+            xmin = 56.649 
+            xmax = 58.177 
+            text = "ah oui j'ai eu tout ce qu'il y a" 
+        intervals [18]:
+            xmin = 58.177 
+            xmax = 59.789 
+            text = "" 
+        intervals [19]:
+            xmin = 59.789 
+            xmax = 64.003 
+            text = "chien chat poisson tourterelle" 
+        intervals [20]:
+            xmin = 64.003 
+            xmax = 68.882 
+            text = "" 
+        intervals [21]:
+            xmin = 68.882 
+            xmax = 70.261 
+            text = "ah oui" 
+        intervals [22]:
+            xmin = 70.261 
+            xmax = 74.627 
+            text = "" 
+        intervals [23]:
+            xmin = 74.627 
+            xmax = 76.832 
+            text = "ah c'est sur ma terrasse ça" 
+        intervals [24]:
+            xmin = 76.832 
+            xmax = 83.696 
+            text = "" 
+        intervals [25]:
+            xmin = 83.696 
+            xmax = 85.456 
+            text = "j'ai eu une tourterelle pendant vingt ans" 
+        intervals [26]:
+            xmin = 85.456 
+            xmax = 87.237 
+            text = "" 
+        intervals [27]:
+            xmin = 87.237 
+            xmax = 89.417 
+            text = "oh ça valait c'étaitc'était curieux" 
+        intervals [28]:
+            xmin = 89.417 
+            xmax = 90.014 
+            text = "" 
+        intervals [29]:
+            xmin = 90.014 
+            xmax = 100.5 
+            text = "il y a de ces trucs incroyables j'en avais deux j'avais /le, la/ mâle et la femelle et puis euh j'avais deux cages alors en été je les sortais  sur la ter-" 
+        intervals [30]:
+            xmin = 100.5 
+            xmax = 103.196 
+            text = "" 
+        intervals [31]:
+            xmin = 103.196 
+            xmax = 104.427 
+            text = "une elle a ouvert la porte" 
+        intervals [32]:
+            xmin = 104.427 
+            xmax = 105.87 
+            text = "et elle est partie" 
+        intervals [33]:
+            xmin = 105.87 
+            xmax = 108.989 
+            text = "" 
+        intervals [34]:
+            xmin = 108.989 
+            xmax = 113.246 
+            text = "il était dix heures du matin puis vers cinq heures du soir elle est revenue" 
+        intervals [35]:
+            xmin = 113.246 
+            xmax = 114.562 
+            text = "" 
+        intervals [36]:
+            xmin = 114.562 
+            xmax = 123.769 
+            text = "et puis l'autre elle l'appelait elle disait des mamours là oui alors elle s'est rapprochée de la cage  je la mets dans la cage elle a reçu une de ces peignées" 
+        intervals [37]:
+            xmin = 123.769 
+            xmax = 127.835 
+            text = "l'autre avec les deux ailes elle" 
+        intervals [38]:
+            xmin = 127.835 
+            xmax = 129.806 
+            text = "" 
+        intervals [39]:
+            xmin = 129.806 
+            xmax = 134.762 
+            text = "et au bout d'un moment bon elle a dit bon bença va j'ai eu ma dose hein" 
+        intervals [40]:
+            xmin = 134.762 
+            xmax = 135.528 
+            text = "" 
+        intervals [41]:
+            xmin = 135.528 
+            xmax = 137.97 
+            text = "non non elle est restée parce qu'elle a tapé dessus" 
+        intervals [42]:
+            xmin = 137.97 
+            xmax = 140.263 
+            text = "" 
+        intervals [43]:
+            xmin = 140.263 
+            xmax = 151.078 
+            text = "et une autre fois on buvait le champagne et et je s- elle sortait elle était sur la table elle est venue boire du champagne dans mon verre  elle a pas vidé le verre hein elle était là" 
+        intervals [44]:
+            xmin = 151.078 
+            xmax = 153.494 
+            text = "" 
+        intervals [45]:
+            xmin = 153.494 
+            xmax = 155.825 
+            text = "oh la la" 
+        intervals [46]:
+            xmin = 155.825 
+            xmax = 161.605 
+            text = "elle a plus recommencé hein mon Dieu" 
+        intervals [47]:
+            xmin = 161.605 
+            xmax = 162.582 
+            text = "" 
+        intervals [48]:
+            xmin = 162.582 
+            xmax = 168.172 
+            text = "deux goulées là elle était saoûle  elle a plus recommencé" 
+        intervals [49]:
+            xmin = 168.172 
+            xmax = 176.072 
+            text = "" 
+        intervals [50]:
+            xmin = 176.072 
+            xmax = 179.355 
+            text = "ben maintenant on (n') a pas beaucoup de de choix hein" 
+        intervals [51]:
+            xmin = 179.355 
+            xmax = 180.033 
+            text = "" 
+        intervals [52]:
+            xmin = 180.033 
+            xmax = 184.29 
+            text = "je vais souvent là au coin ben c'est pas loin dechez moi ou à Monoprix bien sûr" 
+        intervals [53]:
+            xmin = 184.29 
+            xmax = 188.551 
+            text = "" 
+        intervals [54]:
+            xmin = 188.551 
+            xmax = 191.157 
+            text = "alors on (n') a plus de charcutier on (n')a plus de tripier" 
+        intervals [55]:
+            xmin = 191.157 
+            xmax = 195.1 
+            text = "" 
+        intervals [56]:
+            xmin = 195.1 
+            xmax = 197.897 
+            text = "celui qui a été qui a été agressé" 
+        intervals [57]:
+            xmin = 197.897 
+            xmax = 200.038 
+            text = "" 
+        intervals [58]:
+            xmin = 200.038 
+            xmax = 202.602 
+            text = "oh ben là là il a reçu" 
+        intervals [59]:
+            xmin = 202.602 
+            xmax = 212.466 
+            text = "" 
+        intervals [60]:
+            xmin = 212.466 
+            xmax = 220.996 
+            text = "ben vous savez Saint-Ouen c'est une ville qui est dangereuse j'ai une voisine que je connais depuis desj'avais quatorze ans quand /je l'ai, j'ai/ connue" 
+        intervals [61]:
+            xmin = 220.996 
+            xmax = 221.377 
+            text = "" 
+        intervals [62]:
+            xmin = 221.377 
+            xmax = 224.449 
+            text = "elle avait été tuée de cinquante-deux coups de couteaux" 
+        intervals [63]:
+            xmin = 224.449 
+            xmax = 229.324 
+            text = "" 
+        intervals [64]:
+            xmin = 229.324 
+            xmax = 233.708 
+            text = "par un sale type qui a qui euh l'a enjambé la fenêtre" 
+        intervals [65]:
+            xmin = 233.708 
+            xmax = 234.03 
+            text = "" 
+        intervals [66]:
+            xmin = 234.03 
+            xmax = 235.134 
+            text = "qui l'a volée" 
+        intervals [67]:
+            xmin = 235.134 
+            xmax = 236.535 
+            text = "" 
+        intervals [68]:
+            xmin = 236.535 
+            xmax = 242.907 
+            text = "alors euh sa nièce venait s'occuper d'elle puisqu'elle avait quatre-vingt-seize ans hein" 
+        intervals [69]:
+            xmin = 242.907 
+            xmax = 244.054 
+            text = "alors elle l'a" 
+        intervals [70]:
+            xmin = 244.054 
+            xmax = 247.384 
+            text = "" 
+        intervals [71]:
+            xmin = 247.384 
+            xmax = 249.504 
+            text = "elle descend pour le s'occuper de la tante" 
+        intervals [72]:
+            xmin = 249.504 
+            xmax = 250.122 
+            text = "" 
+        intervals [73]:
+            xmin = 250.122 
+            xmax = 253.152 
+            text = "elle voit la porte entrebailléeelle sortait plus hein" 
+        intervals [74]:
+            xmin = 253.152 
+            xmax = 254.066 
+            text = "" 
+        intervals [75]:
+            xmin = 254.066 
+            xmax = 259.613 
+            text = "alors elle va chercher les voisins puis ils rentrent ils la voient pas mais par contre l'armoire avait été vidée" 
+        intervals [76]:
+            xmin = 259.613 
+            xmax = 261.771 
+            text = "alors elle a été chercher" 
+        intervals [77]:
+            xmin = 261.771 
+            xmax = 267.657 
+            text = "son oncle qui habite dans les puces rue Jules Vallès là lui il voit un bras qui dépassait" 
+        intervals [78]:
+            xmin = 267.657 
+            xmax = 268.613 
+            text = "" 
+        intervals [79]:
+            xmin = 268.613 
+            xmax = 270.373 
+            text = "elle était dans un état incroyable" 
+        intervals [80]:
+            xmin = 270.373 
+            xmax = 273.805 
+            text = "" 
+        intervals [81]:
+            xmin = 273.805 
+            xmax = 276.2 
+            text = "incroyable hein" 
+        intervals [82]:
+            xmin = 276.2 
+            xmax = 287.366 
+            text = "" 
+        intervals [83]:
+            xmin = 287.366 
+            xmax = 288.407 
+            text = "là ils l'ont arrêté le" 
+        intervals [84]:
+            xmin = 288.407 
+            xmax = 296.014 
+            text = "" 
+        intervals [85]:
+            xmin = 296.014 
+            xmax = 296.843 
+            text = "ah oui" 
+        intervals [86]:
+            xmin = 296.843 
+            xmax = 338.779 
+            text = "" 
+        intervals [87]:
+            xmin = 338.779 
+            xmax = 343.607 
+            text = "la seule qui a eu le truc c'est Soniamultiresponsable" 
+        intervals [88]:
+            xmin = 343.607 
+            xmax = 344.056 
+            text = "" 
+        intervals [89]:
+            xmin = 344.056 
+            xmax = 345.668 
+            text = "qui a eu la" 
+        intervals [90]:
+            xmin = 345.668 
+            xmax = 351.681 
+            text = "" 
+        intervals [91]:
+            xmin = 351.681 
+            xmax = 352.51 
+            text = "eh ben dis donc" 
+        intervals [92]:
+            xmin = 352.51 
+            xmax = 361.002 
+            text = "" 
+        intervals [93]:
+            xmin = 361.002 
+            xmax = 365.174 
+            text = "eh ben voilà" 
+        intervals [94]:
+            xmin = 365.174 
+            xmax = 379.645 
+            text = "" 
+        intervals [95]:
+            xmin = 379.645 
+            xmax = 383.521 
+            text = "ah ben oui on lit les les les bou- les livres" 
+        intervals [96]:
+            xmin = 383.521 
+            xmax = 388.793 
+            text = "qu'on nous passe là les journaux qu'on nous passe là oui aujourd'huic'est hier" 
+        intervals [97]:
+            xmin = 388.793 
+            xmax = 392.271 
+            text = "" 
+        intervals [98]:
+            xmin = 392.271 
+            xmax = 394.031 
+            text = "Seine-Saint-Denis Seine-Saint-Denis" 
+        intervals [99]:
+            xmin = 394.031 
+            xmax = 396.109 
+            text = "et Saint-Ouen ma ville" 
+        intervals [100]:
+            xmin = 396.109 
+            xmax = 398.187 
+            text = "" 
+        intervals [101]:
+            xmin = 398.187 
+            xmax = 401.746 
+            text = "oui voilà" 
+        intervals [102]:
+            xmin = 401.746 
+            xmax = 410.902 
+            text = "" 
+        intervals [103]:
+            xmin = 410.902 
+            xmax = 413.339 
+            text = "vous êtes ça vous donne un emploi à l'hôpital" 
+        intervals [104]:
+            xmin = 413.339 
+            xmax = 417.486 
+            text = "" 
+        intervals [105]:
+            xmin = 417.486 
+            xmax = 420.071 
+            text = "il a été hospitalisé longtemps" 
+        intervals [106]:
+            xmin = 420.071 
+            xmax = 421.366 
+            text = "" 
+        intervals [107]:
+            xmin = 421.366 
+            xmax = 422.174 
+            text = "neuf ans" 
+        intervals [108]:
+            xmin = 422.174 
+            xmax = 429.583 
+            text = "" 
+        intervals [109]:
+            xmin = 429.583 
+            xmax = 432.634 
+            text = "oh vous auriez" 
+        intervals [110]:
+            xmin = 432.634 
+            xmax = 436.108 
+            text = "" 
+        intervals [111]:
+            xmin = 436.108 
+            xmax = 437.128 
+            text = "/il y avait, aviez/ pas la place" 
+        intervals [112]:
+            xmin = 437.128 
+            xmax = 446.043 
+            text = "" 
+        intervals [113]:
+            xmin = 446.043 
+            xmax = 448.248 
+            text = "de" 
+        intervals [114]:
+            xmin = 448.248 
+            xmax = 456.313 
+            text = "qu'est-ce qu'il avait" 
+        intervals [115]:
+            xmin = 456.313 
+            xmax = 459.872 
+            text = "parce que moi aussi il a été dix ans et demi paralysé mon mari" 
+        intervals [116]:
+            xmin = 459.872 
+            xmax = 480.715 
+            text = "" 
+        intervals [117]:
+            xmin = 480.715 
+            xmax = 482.56 
+            text = "ben moi je l'ai obligé" 
+        intervals [118]:
+            xmin = 482.56 
+            xmax = 486.013 
+            text = "tout le temps à monter l'escalier c'est comme ça que j'ai fait mettre deux rampes" 
+        intervals [119]:
+            xmin = 486.013 
+            xmax = 538.431 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Farah" 
+        xmin = 0 
+        xmax = 538.431 
+        intervals: size = 37 
+        intervals [1]:
+            xmin = 0 
+            xmax = 17.924 
+            text = "" 
+        intervals [2]:
+            xmin = 17.924 
+            xmax = 20.425 
+            text = "où ça à Pasteur ou à" 
+        intervals [3]:
+            xmin = 20.425 
+            xmax = 25.549 
+            text = "" 
+        intervals [4]:
+            xmin = 25.549 
+            xmax = 26.332 
+            text = "ah" 
+        intervals [5]:
+            xmin = 26.332 
+            xmax = 27.986 
+            text = "" 
+        intervals [6]:
+            xmin = 27.986 
+            xmax = 30.339 
+            text = "ah oui c'est vrai on m'avait dit qu'il y avait euh" 
+        intervals [7]:
+            xmin = 30.339 
+            xmax = 33.474 
+            text = "oui on m'avait dit qu'il y avait un cours de cuisine oui oui" 
+        intervals [8]:
+            xmin = 33.474 
+            xmax = 35.763 
+            text = "elle était photographiée même sur le" 
+        intervals [9]:
+            xmin = 35.763 
+            xmax = 101.245 
+            text = "" 
+        intervals [10]:
+            xmin = 101.245 
+            xmax = 103.196 
+            text = "oui oui oui je l'ai vu oui" 
+        intervals [11]:
+            xmin = 103.196 
+            xmax = 104.427 
+            text = "" 
+        intervals [12]:
+            xmin = 104.427 
+            xmax = 105.87 
+            text = "oui parce que moi je le reçois toutes les semaines" 
+        intervals [13]:
+            xmin = 105.87 
+            xmax = 134.762 
+            text = "" 
+        intervals [14]:
+            xmin = 134.762 
+            xmax = 135.528 
+            text = "elle est repartie" 
+        intervals [15]:
+            xmin = 135.528 
+            xmax = 137.97 
+            text = "" 
+        intervals [16]:
+            xmin = 137.97 
+            xmax = 138.947 
+            text = "ah ben oui voilà" 
+        intervals [17]:
+            xmin = 138.947 
+            xmax = 151.078 
+            text = "" 
+        intervals [18]:
+            xmin = 151.078 
+            xmax = 153.494 
+            text = "oh oui moi j'avais une petite chienne qui buvait un enfin" 
+        intervals [19]:
+            xmin = 153.494 
+            xmax = 155.825 
+            text = "petite(s)goutte(s) de champagne comme ça" 
+        intervals [20]:
+            xmin = 155.825 
+            xmax = 192.261 
+            text = "" 
+        intervals [21]:
+            xmin = 192.261 
+            xmax = 195.1 
+            text = "si je crois qu'il en reste un de boucher dans dans tout Saint-Ouen" 
+        intervals [22]:
+            xmin = 195.1 
+            xmax = 197.897 
+            text = "" 
+        intervals [23]:
+            xmin = 197.897 
+            xmax = 200.038 
+            text = "il paraît qu'oui il a été agressé oui j'ai appris ça hier" 
+        intervals [24]:
+            xmin = 200.038 
+            xmax = 244.054 
+            text = "" 
+        intervals [25]:
+            xmin = 244.054 
+            xmax = 246.512 
+            text = "oui on est en on est en prison dans sa maison" 
+        intervals [26]:
+            xmin = 246.512 
+            xmax = 281.984 
+            text = "" 
+        intervals [27]:
+            xmin = 281.984 
+            xmax = 283.156 
+            text = "est-ce que qu'on a vu qui c'était" 
+        intervals [28]:
+            xmin = 283.156 
+            xmax = 286.029 
+            text = "est-ce qu'on a su qui c'était" 
+        intervals [29]:
+            xmin = 286.029 
+            xmax = 324.244 
+            text = "" 
+        intervals [30]:
+            xmin = 324.244 
+            xmax = 326.284 
+            text = "ben ça fera changer les choses" 
+        intervals [31]:
+            xmin = 326.284 
+            xmax = 365.174 
+            text = "" 
+        intervals [32]:
+            xmin = 365.174 
+            xmax = 369.008 
+            text = "comme ça moi je vais chez elle comme ça hein" 
+        intervals [33]:
+            xmin = 369.008 
+            xmax = 437.128 
+            text = "" 
+        intervals [34]:
+            xmin = 437.128 
+            xmax = 440.369 
+            text = "un logement adapté oui" 
+        intervals [35]:
+            xmin = 440.369 
+            xmax = 460.701 
+            text = "" 
+        intervals [36]:
+            xmin = 460.701 
+            xmax = 465.296 
+            text = "mais qu'est-ce que ça avait qu'est-ce que ça va voir qu'est-ce que ça a à voir avec madame Paulette Fost" 
+        intervals [37]:
+            xmin = 465.296 
+            xmax = 538.431 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "Mat Pires (ENQ)" 
+        xmin = 0 
+        xmax = 538.431 
+        intervals: size = 115 
+        intervals [1]:
+            xmin = 0 
+            xmax = 17.374 
+            text = "" 
+        intervals [2]:
+            xmin = 17.374 
+            xmax = 17.924 
+            text = "mm" 
+        intervals [3]:
+            xmin = 17.924 
+            xmax = 51.114 
+            text = "" 
+        intervals [4]:
+            xmin = 51.114 
+            xmax = 53.192 
+            text = "alors est-ce que vous avez des animaux chez vous" 
+        intervals [5]:
+            xmin = 53.192 
+            xmax = 54.275 
+            text = "" 
+        intervals [6]:
+            xmin = 54.275 
+            xmax = 56.649 
+            text = "ouais vous en avez eu d'accord" 
+        intervals [7]:
+            xmin = 56.649 
+            xmax = 58.177 
+            text = "" 
+        intervals [8]:
+            xmin = 58.177 
+            xmax = 59.789 
+            text = "c'est vrai" 
+        intervals [9]:
+            xmin = 59.789 
+            xmax = 64.003 
+            text = "" 
+        intervals [10]:
+            xmin = 64.003 
+            xmax = 66.779 
+            text = "et là là vous en avez plus vous en avez pas de" 
+        intervals [11]:
+            xmin = 66.779 
+            xmax = 68.582 
+            text = "" 
+        intervals [12]:
+            xmin = 68.582 
+            xmax = 68.882 
+            text = "ouais" 
+        intervals [13]:
+            xmin = 68.882 
+            xmax = 76.832 
+            text = "" 
+        intervals [14]:
+            xmin = 76.832 
+            xmax = 79.46 
+            text = "et vous êtes sensibles à la présence des des animaux" 
+        intervals [15]:
+            xmin = 79.46 
+            xmax = 83.696 
+            text = "dans la ville vous aimez bien ouais ouais" 
+        intervals [16]:
+            xmin = 83.696 
+            xmax = 85.456 
+            text = "" 
+        intervals [17]:
+            xmin = 85.456 
+            xmax = 87.237 
+            text = "ah ouais c'est" 
+        intervals [18]:
+            xmin = 87.237 
+            xmax = 89.417 
+            text = "" 
+        intervals [19]:
+            xmin = 89.417 
+            xmax = 90.014 
+            text = "mm" 
+        intervals [20]:
+            xmin = 90.014 
+            xmax = 106.636 
+            text = "" 
+        intervals [21]:
+            xmin = 106.636 
+            xmax = 108.989 
+            text = "ah ouais ah mince" 
+        intervals [22]:
+            xmin = 108.989 
+            xmax = 113.246 
+            text = "comme ça mm" 
+        intervals [23]:
+            xmin = 113.246 
+            xmax = 114.562 
+            text = "mm ah" 
+        intervals [24]:
+            xmin = 114.562 
+            xmax = 123.769 
+            text = "" 
+        intervals [25]:
+            xmin = 123.769 
+            xmax = 127.835 
+            text = "ah ouais" 
+        intervals [26]:
+            xmin = 127.835 
+            xmax = 129.806 
+            text = "ah c'est impressionnant" 
+        intervals [27]:
+            xmin = 129.806 
+            xmax = 134.762 
+            text = "je savais pas qu'ils pouvaient faire ça ouais ouais eh ouais" 
+        intervals [28]:
+            xmin = 134.762 
+            xmax = 135.528 
+            text = "" 
+        intervals [29]:
+            xmin = 135.528 
+            xmax = 137.97 
+            text = "non" 
+        intervals [30]:
+            xmin = 137.97 
+            xmax = 138.947 
+            text = "elle a eu peur" 
+        intervals [31]:
+            xmin = 138.947 
+            xmax = 140.263 
+            text = "elle a eu peur de" 
+        intervals [32]:
+            xmin = 140.263 
+            xmax = 151.078 
+            text = "de perdre l'autre" 
+        intervals [33]:
+            xmin = 151.078 
+            xmax = 155.825 
+            text = "" 
+        intervals [34]:
+            xmin = 155.825 
+            xmax = 161.605 
+            text = "et ça lui a fait quoi vous avez vu des ça lui ça lui a fait quelque chose" 
+        intervals [35]:
+            xmin = 161.605 
+            xmax = 162.307 
+            text = "" 
+        intervals [36]:
+            xmin = 162.307 
+            xmax = 162.582 
+            text = "ouais" 
+        intervals [37]:
+            xmin = 162.582 
+            xmax = 169.107 
+            text = "" 
+        intervals [38]:
+            xmin = 169.107 
+            xmax = 176.072 
+            text = "alors hum pour vos courses hum vous allez toujours au même endroit ou vous avez différents endroits où vous" 
+        intervals [39]:
+            xmin = 176.072 
+            xmax = 179.355 
+            text = "" 
+        intervals [40]:
+            xmin = 179.355 
+            xmax = 180.033 
+            text = "ouais" 
+        intervals [41]:
+            xmin = 180.033 
+            xmax = 184.29 
+            text = "" 
+        intervals [42]:
+            xmin = 184.29 
+            xmax = 185.564 
+            text = "mm d'accord" 
+        intervals [43]:
+            xmin = 185.564 
+            xmax = 191.157 
+            text = "" 
+        intervals [44]:
+            xmin = 191.157 
+            xmax = 192.261 
+            text = "mm" 
+        intervals [45]:
+            xmin = 192.261 
+            xmax = 202.602 
+            text = "" 
+        intervals [46]:
+            xmin = 202.602 
+            xmax = 204.87 
+            text = "dans la rue Gabriel Péri c'est ça ouais mm" 
+        intervals [47]:
+            xmin = 204.87 
+            xmax = 207.35 
+            text = "" 
+        intervals [48]:
+            xmin = 207.35 
+            xmax = 207.862 
+            text = "ah ouais" 
+        intervals [49]:
+            xmin = 207.862 
+            xmax = 209.601 
+            text = "" 
+        intervals [50]:
+            xmin = 209.601 
+            xmax = 211.002 
+            text = "ça alors" 
+        intervals [51]:
+            xmin = 211.002 
+            xmax = 220.996 
+            text = "" 
+        intervals [52]:
+            xmin = 220.996 
+            xmax = 221.377 
+            text = "mm" 
+        intervals [53]:
+            xmin = 221.377 
+            xmax = 224.449 
+            text = "" 
+        intervals [54]:
+            xmin = 224.449 
+            xmax = 229.324 
+            text = "ah bon  et pourquoi vous" 
+        intervals [55]:
+            xmin = 229.324 
+            xmax = 233.708 
+            text = "qu'est-ce que" 
+        intervals [56]:
+            xmin = 233.708 
+            xmax = 234.03 
+            text = "mm" 
+        intervals [57]:
+            xmin = 234.03 
+            xmax = 235.134 
+            text = "" 
+        intervals [58]:
+            xmin = 235.134 
+            xmax = 236.535 
+            text = "ah juste pour euh pour lui piquer" 
+        intervals [59]:
+            xmin = 236.535 
+            xmax = 249.504 
+            text = "" 
+        intervals [60]:
+            xmin = 249.504 
+            xmax = 250.122 
+            text = "mm" 
+        intervals [61]:
+            xmin = 250.122 
+            xmax = 253.152 
+            text = "" 
+        intervals [62]:
+            xmin = 253.152 
+            xmax = 254.066 
+            text = "mm ouais" 
+        intervals [63]:
+            xmin = 254.066 
+            xmax = 259.613 
+            text = "" 
+        intervals [64]:
+            xmin = 259.613 
+            xmax = 261.771 
+            text = "mm mm" 
+        intervals [65]:
+            xmin = 261.771 
+            xmax = 270.373 
+            text = "" 
+        intervals [66]:
+            xmin = 270.373 
+            xmax = 273.805 
+            text = "ah la la mm mm" 
+        intervals [67]:
+            xmin = 273.805 
+            xmax = 276.2 
+            text = "enfin bon c'est vraiment euh" 
+        intervals [68]:
+            xmin = 276.2 
+            xmax = 281.984 
+            text = "" 
+        intervals [69]:
+            xmin = 281.984 
+            xmax = 283.156 
+            text = "et là c'était pareil pour le" 
+        intervals [70]:
+            xmin = 283.156 
+            xmax = 288.407 
+            text = "" 
+        intervals [71]:
+            xmin = 288.407 
+            xmax = 291.352 
+            text = "mais c'était un vol c'était pour euh cambrioler sa maison" 
+        intervals [72]:
+            xmin = 291.352 
+            xmax = 300.786 
+            text = "" 
+        intervals [73]:
+            xmin = 300.786 
+            xmax = 302.673 
+            text = "mm" 
+        intervals [74]:
+            xmin = 302.673 
+            xmax = 304.493 
+            text = "" 
+        intervals [75]:
+            xmin = 304.493 
+            xmax = 305.174 
+            text = "oh la la" 
+        intervals [76]:
+            xmin = 305.174 
+            xmax = 321.13 
+            text = "" 
+        intervals [77]:
+            xmin = 321.13 
+            xmax = 324.244 
+            text = "mm ouais" 
+        intervals [78]:
+            xmin = 324.244 
+            xmax = 326.284 
+            text = "ouais" 
+        intervals [79]:
+            xmin = 326.284 
+            xmax = 327.579 
+            text = "" 
+        intervals [80]:
+            xmin = 327.579 
+            xmax = 328.281 
+            text = "ben c'est" 
+        intervals [81]:
+            xmin = 328.281 
+            xmax = 343.607 
+            text = "" 
+        intervals [82]:
+            xmin = 343.607 
+            xmax = 344.056 
+            text = "ah oui" 
+        intervals [83]:
+            xmin = 344.056 
+            xmax = 351.681 
+            text = "" 
+        intervals [84]:
+            xmin = 351.681 
+            xmax = 352.51 
+            text = "mm" 
+        intervals [85]:
+            xmin = 352.51 
+            xmax = 355.307 
+            text = "" 
+        intervals [86]:
+            xmin = 355.307 
+            xmax = 361.002 
+            text = "alors euh" 
+        intervals [87]:
+            xmin = 361.002 
+            xmax = 365.174 
+            text = "et madame a l'oeil au beurre noir euh" 
+        intervals [88]:
+            xmin = 365.174 
+            xmax = 372.782 
+            text = "" 
+        intervals [89]:
+            xmin = 372.782 
+            xmax = 378.943 
+            text = "alors dernière question donc euh est-ce que vous vous intéressez aux informations euh concernant la ville" 
+        intervals [90]:
+            xmin = 378.943 
+            xmax = 379.645 
+            text = "vous avez dit que" 
+        intervals [91]:
+            xmin = 379.645 
+            xmax = 383.521 
+            text = "vous lisiez le le journal tout ça" 
+        intervals [92]:
+            xmin = 383.521 
+            xmax = 388.793 
+            text = "" 
+        intervals [93]:
+            xmin = 388.793 
+            xmax = 390.892 
+            text = "donc c'est les c'est" 
+        intervals [94]:
+            xmin = 390.892 
+            xmax = 392.271 
+            text = "" 
+        intervals [95]:
+            xmin = 392.271 
+            xmax = 394.031 
+            text = "dans les les journaux de la ville" 
+        intervals [96]:
+            xmin = 394.031 
+            xmax = 401.746 
+            text = "" 
+        intervals [97]:
+            xmin = 401.746 
+            xmax = 402.723 
+            text = "il y a d'autres" 
+        intervals [98]:
+            xmin = 402.723 
+            xmax = 459.872 
+            text = "" 
+        intervals [99]:
+            xmin = 459.872 
+            xmax = 460.701 
+            text = "ah oui" 
+        intervals [100]:
+            xmin = 460.701 
+            xmax = 475.968 
+            text = "" 
+        intervals [101]:
+            xmin = 475.968 
+            xmax = 476.522 
+            text = "mm" 
+        intervals [102]:
+            xmin = 476.522 
+            xmax = 493.401 
+            text = "" 
+        intervals [103]:
+            xmin = 493.401 
+            xmax = 494.971 
+            text = "oh la la" 
+        intervals [104]:
+            xmin = 494.971 
+            xmax = 498.83 
+            text = "" 
+        intervals [105]:
+            xmin = 498.83 
+            xmax = 499.427 
+            text = "ouais" 
+        intervals [106]:
+            xmin = 499.427 
+            xmax = 501.589 
+            text = "" 
+        intervals [107]:
+            xmin = 501.589 
+            xmax = 502.122 
+            text = "d'accord" 
+        intervals [108]:
+            xmin = 502.122 
+            xmax = 508.875 
+            text = "" 
+        intervals [109]:
+            xmin = 508.875 
+            xmax = 509.429 
+            text = "d'accord" 
+        intervals [110]:
+            xmin = 509.429 
+            xmax = 516.16 
+            text = "" 
+        intervals [111]:
+            xmin = 516.16 
+            xmax = 519.508 
+            text = "ah ouais" 
+        intervals [112]:
+            xmin = 519.508 
+            xmax = 523.659 
+            text = "mm bien" 
+        intervals [113]:
+            xmin = 523.659 
+            xmax = 528.868 
+            text = "mm  ouais ouais comme toujours" 
+        intervals [114]:
+            xmin = 528.868 
+            xmax = 533.611 
+            text = "bien bon c'est j'ai terminé le donc le questionnaire donc euh merci beaucoup pour vos" 
+        intervals [115]:
+            xmin = 533.611 
+            xmax = 538.431 
+            text = "témoignages pour vos  vos mémoires et tout ça" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "Jeanne Mallet" 
+        xmin = 0 
+        xmax = 538.431 
+        intervals: size = 130 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.608 
+            text = "" 
+        intervals [2]:
+            xmin = 1.608 
+            xmax = 9.944 
+            text = "il y a de la couture /puisque, parce que/ Noémie elle y allait euh Noémie un moment donné la femme de Georges oui mais elle a abandonné je crois" 
+        intervals [3]:
+            xmin = 9.944 
+            xmax = 33.474 
+            text = "" 
+        intervals [4]:
+            xmin = 33.474 
+            xmax = 35.763 
+            text = "oui oui il y a des cours de cuisine" 
+        intervals [5]:
+            xmin = 35.763 
+            xmax = 54.275 
+            text = "" 
+        intervals [6]:
+            xmin = 54.275 
+            xmax = 56.649 
+            text = "oh on en a eu mais" 
+        intervals [7]:
+            xmin = 56.649 
+            xmax = 64.003 
+            text = "" 
+        intervals [8]:
+            xmin = 64.003 
+            xmax = 66.779 
+            text = "nous c'est pareil hein" 
+        intervals [9]:
+            xmin = 66.779 
+            xmax = 68.582 
+            text = "on (n') a pas" 
+        intervals [10]:
+            xmin = 68.582 
+            xmax = 70.261 
+            text = "" 
+        intervals [11]:
+            xmin = 70.261 
+            xmax = 73.671 
+            text = "ah oui ah oui ouais" 
+        intervals [12]:
+            xmin = 73.671 
+            xmax = 79.46 
+            text = "" 
+        intervals [13]:
+            xmin = 79.46 
+            xmax = 83.696 
+            text = "ah j'adorais les animaux mon Dieu oh oui" 
+        intervals [14]:
+            xmin = 83.696 
+            xmax = 101.245 
+            text = "" 
+        intervals [15]:
+            xmin = 101.245 
+            xmax = 103.196 
+            text = "oui j'avais vu oui" 
+        intervals [16]:
+            xmin = 103.196 
+            xmax = 105.87 
+            text = "" 
+        intervals [17]:
+            xmin = 105.87 
+            xmax = 106.636 
+            text = "ben oui" 
+        intervals [18]:
+            xmin = 106.636 
+            xmax = 127.835 
+            text = "" 
+        intervals [19]:
+            xmin = 127.835 
+            xmax = 129.806 
+            text = "oh la la" 
+        intervals [20]:
+            xmin = 129.806 
+            xmax = 161.605 
+            text = "" 
+        intervals [21]:
+            xmin = 161.605 
+            xmax = 162.307 
+            text = "oh ben oui" 
+        intervals [22]:
+            xmin = 162.307 
+            xmax = 162.582 
+            text = "" 
+        intervals [23]:
+            xmin = 162.582 
+            xmax = 168.172 
+            text = "certainement" 
+        intervals [24]:
+            xmin = 168.172 
+            xmax = 169.107 
+            text = "oh la la la la" 
+        intervals [25]:
+            xmin = 169.107 
+            xmax = 185.564 
+            text = "" 
+        intervals [26]:
+            xmin = 185.564 
+            xmax = 188.551 
+            text = "on (n') a pas le choix en courses hein il y a pas beaucoup de commerçants" 
+        intervals [27]:
+            xmin = 188.551 
+            xmax = 191.157 
+            text = "" 
+        intervals [28]:
+            xmin = 191.157 
+            xmax = 192.261 
+            text = "on (n') a plus de bou- de boucher" 
+        intervals [29]:
+            xmin = 192.261 
+            xmax = 195.1 
+            text = "" 
+        intervals [30]:
+            xmin = 195.1 
+            xmax = 197.897 
+            text = "ben celui qui a été agressé" 
+        intervals [31]:
+            xmin = 197.897 
+            xmax = 200.038 
+            text = "" 
+        intervals [32]:
+            xmin = 200.038 
+            xmax = 202.602 
+            text = "ben il il est toujours à l'hôpital" 
+        intervals [33]:
+            xmin = 202.602 
+            xmax = 204.87 
+            text = "je pense que il doit être toujours à l'hôpital" 
+        intervals [34]:
+            xmin = 204.87 
+            xmax = 207.35 
+            text = "parce que paraît-il qu'il est" 
+        intervals [35]:
+            xmin = 207.35 
+            xmax = 207.862 
+            text = "" 
+        intervals [36]:
+            xmin = 207.862 
+            xmax = 209.601 
+            text = "il est joliment" 
+        intervals [37]:
+            xmin = 209.601 
+            xmax = 211.002 
+            text = "il est vraiment cassé hein" 
+        intervals [38]:
+            xmin = 211.002 
+            xmax = 212.466 
+            text = "on m'a dit euh" 
+        intervals [39]:
+            xmin = 212.466 
+            xmax = 220.996 
+            text = "enfin on m'a dit parce que moi je le connaiss- ah maisje comprends  je comprends que c'est dangereux Saint-Ouen" 
+        intervals [40]:
+            xmin = 220.996 
+            xmax = 221.377 
+            text = "" 
+        intervals [41]:
+            xmin = 221.377 
+            xmax = 224.449 
+            text = "une ville chaude chaude" 
+        intervals [42]:
+            xmin = 224.449 
+            xmax = 229.324 
+            text = "oui oui oui c'est dangereux je l'entendais là" 
+        intervals [43]:
+            xmin = 229.324 
+            xmax = 236.535 
+            text = "" 
+        intervals [44]:
+            xmin = 236.535 
+            xmax = 242.907 
+            text = "pour ça on nous avait passé un papier de fermer même même la journée on est enfermé chez soi on est comme des" 
+        intervals [45]:
+            xmin = 242.907 
+            xmax = 246.512 
+            text = "" 
+        intervals [46]:
+            xmin = 246.512 
+            xmax = 247.384 
+            text = "en prison" 
+        intervals [47]:
+            xmin = 247.384 
+            xmax = 250.122 
+            text = "" 
+        intervals [48]:
+            xmin = 250.122 
+            xmax = 253.152 
+            text = "on est en prison" 
+        intervals [49]:
+            xmin = 253.152 
+            xmax = 267.657 
+            text = "" 
+        intervals [50]:
+            xmin = 267.657 
+            xmax = 268.613 
+            text = "ah la la" 
+        intervals [51]:
+            xmin = 268.613 
+            xmax = 270.373 
+            text = "" 
+        intervals [52]:
+            xmin = 270.373 
+            xmax = 273.805 
+            text = "vous m'en parlez cinquante-deux coups de couteau" 
+        intervals [53]:
+            xmin = 273.805 
+            xmax = 276.2 
+            text = "" 
+        intervals [54]:
+            xmin = 276.2 
+            xmax = 278.341 
+            text = "ah non ben voyez bien le boucher" 
+        intervals [55]:
+            xmin = 278.341 
+            xmax = 281.984 
+            text = "à trois ils se sont mis pour euh sauter sur à trois" 
+        intervals [56]:
+            xmin = 281.984 
+            xmax = 283.156 
+            text = "" 
+        intervals [57]:
+            xmin = 283.156 
+            xmax = 286.029 
+            text = "complètement cassée moi par ç-" 
+        intervals [58]:
+            xmin = 286.029 
+            xmax = 287.366 
+            text = "ben je ne sais pas j'ai" 
+        intervals [59]:
+            xmin = 287.366 
+            xmax = 291.352 
+            text = "" 
+        intervals [60]:
+            xmin = 291.352 
+            xmax = 293.683 
+            text = "ben c'était à son appartement ben il mon- il il" 
+        intervals [61]:
+            xmin = 293.683 
+            xmax = 296.014 
+            text = "il rentrait il rentrait" 
+        intervals [62]:
+            xmin = 296.014 
+            xmax = 296.843 
+            text = "il rentrait" 
+        intervals [63]:
+            xmin = 296.843 
+            xmax = 297.778 
+            text = "" 
+        intervals [64]:
+            xmin = 297.778 
+            xmax = 300.786 
+            text = "donc il peut-être qu'il avait sa caisse avec lui peut-être je sais pas j-" 
+        intervals [65]:
+            xmin = 300.786 
+            xmax = 302.673 
+            text = "je n'en ai pas su plus" 
+        intervals [66]:
+            xmin = 302.673 
+            xmax = 304.493 
+            text = "c'est ma petite boulangère qui me l'a dit là" 
+        intervals [67]:
+            xmin = 304.493 
+            xmax = 305.174 
+            text = "sur la place là" 
+        intervals [68]:
+            xmin = 305.174 
+            xmax = 307.865 
+            text = "qui me l'a expliqué ben elle" 
+        intervals [69]:
+            xmin = 307.865 
+            xmax = 321.13 
+            text = "ben elle me dit vous vous pourriez témoigner parce que ben /j'ai dit, je dis/ comment témoigner je peux pas témoigner j'ai pas vu euh vous me le faites lire elle dit oui mais vous avez été agressée ben j'ai dit oui et pour euh pour la ville pour euh la peur et oui d'accord je peux dire" 
+        intervals [70]:
+            xmin = 321.13 
+            xmax = 324.244 
+            text = "mais qu'est-ce que vous voulez que je dise qu'est-ce ça fera quoi" 
+        intervals [71]:
+            xmin = 324.244 
+            xmax = 326.284 
+            text = "" 
+        intervals [72]:
+            xmin = 326.284 
+            xmax = 327.579 
+            text = "moi trois semaines" 
+        intervals [73]:
+            xmin = 327.579 
+            xmax = 328.281 
+            text = "euh" 
+        intervals [74]:
+            xmin = 328.281 
+            xmax = 338.779 
+            text = "trois mois avant j'ai été agressée juste avant la mort de Paul euh et Dieu sait que ça n'a pas arrangé les choses évidemment parce que j-d'ailleurs si j'ai mal à ma jambe c'est c'est les restes de ça hein" 
+        intervals [75]:
+            xmin = 338.779 
+            xmax = 343.607 
+            text = "espérons que ça et mon doigt j'ai mon doigt esquinté" 
+        intervals [76]:
+            xmin = 343.607 
+            xmax = 345.668 
+            text = "" 
+        intervals [77]:
+            xmin = 345.668 
+            xmax = 351.681 
+            text = "il me fait très mal hein je je tiens pas mal les choses je peux pas ouvrir parce que mon mon doigt est comme mort" 
+        intervals [78]:
+            xmin = 351.681 
+            xmax = 355.307 
+            text = "" 
+        intervals [79]:
+            xmin = 355.307 
+            xmax = 361.002 
+            text = "j'ai vu le médecin et mes huit points de suture dans la tête quand même hein  ah oui quand même hein" 
+        intervals [80]:
+            xmin = 361.002 
+            xmax = 365.174 
+            text = "" 
+        intervals [81]:
+            xmin = 365.174 
+            xmax = 369.008 
+            text = "tandis que moi c'est l'agression parce que" 
+        intervals [82]:
+            xmin = 369.008 
+            xmax = 369.858 
+            text = "" 
+        intervals [83]:
+            xmin = 369.858 
+            xmax = 372.782 
+            text = "moi moi on m'a" 
+        intervals [84]:
+            xmin = 372.782 
+            xmax = 378.943 
+            text = "" 
+        intervals [85]:
+            xmin = 378.943 
+            xmax = 379.645 
+            text = "non" 
+        intervals [86]:
+            xmin = 379.645 
+            xmax = 390.892 
+            text = "" 
+        intervals [87]:
+            xmin = 390.892 
+            xmax = 392.271 
+            text = "oui" 
+        intervals [88]:
+            xmin = 392.271 
+            xmax = 398.187 
+            text = "" 
+        intervals [89]:
+            xmin = 398.187 
+            xmax = 401.746 
+            text = "alors on oui quand même on se tient au courant quand même euh" 
+        intervals [90]:
+            xmin = 401.746 
+            xmax = 402.723 
+            text = "" 
+        intervals [91]:
+            xmin = 402.723 
+            xmax = 404.251 
+            text = "d'ailleurs je l'emporte à l'hôpital et" 
+        intervals [92]:
+            xmin = 404.251 
+            xmax = 409.523 
+            text = "je l- oui ben oui hein oui ouiet après même je le laisse aux malades" 
+        intervals [93]:
+            xmin = 409.523 
+            xmax = 410.902 
+            text = "" 
+        intervals [94]:
+            xmin = 410.902 
+            xmax = 413.339 
+            text = "ça leur faisait de la lecture" 
+        intervals [95]:
+            xmin = 413.339 
+            xmax = 417.486 
+            text = "non /mais, moi/ j'avais mon mari à l'hôpital" 
+        intervals [96]:
+            xmin = 417.486 
+            xmax = 420.071 
+            text = "il vient de décéder il vient de décéder" 
+        intervals [97]:
+            xmin = 420.071 
+            xmax = 421.366 
+            text = "neuf ans" 
+        intervals [98]:
+            xmin = 421.366 
+            xmax = 422.174 
+            text = "" 
+        intervals [99]:
+            xmin = 422.174 
+            xmax = 429.583 
+            text = "neuf ans il avait pas besoin d'être hospitalisé c'est pour ça j'en veux beaucoup à la maire parce que à madame Fost" 
+        intervals [100]:
+            xmin = 429.583 
+            xmax = 432.634 
+            text = "si elle avait fait le si elle avait respecté" 
+        intervals [101]:
+            xmin = 432.634 
+            xmax = 436.108 
+            text = "si elle avait ben oui ben moi je ne pouvais pas dans mon logement euh" 
+        intervals [102]:
+            xmin = 436.108 
+            xmax = 437.128 
+            text = "" 
+        intervals [103]:
+            xmin = 437.128 
+            xmax = 440.369 
+            text = "eh ben voilà il faut un logement adapté" 
+        intervals [104]:
+            xmin = 440.369 
+            xmax = 446.043 
+            text = "et moi je je et j'avais pas eh ben tout ce qu'on m'a proposé c'est des logements qui étaientpires que chez moi" 
+        intervals [105]:
+            xmin = 446.043 
+            xmax = 448.248 
+            text = "d'accord il y avait un ascenseur" 
+        intervals [106]:
+            xmin = 448.248 
+            xmax = 456.313 
+            text = "ben c'est-à-dire que à l'hôpital euh à Bichat ils se sont trompés de diagnosti- j'étais pas là je me suis pas trouvée là et puis voilà" 
+        intervals [107]:
+            xmin = 456.313 
+            xmax = 459.872 
+            text = "qu'est-ce qu'il a dit j'en sais rien" 
+        intervals [108]:
+            xmin = 459.872 
+            xmax = 460.701 
+            text = "il était" 
+        intervals [109]:
+            xmin = 460.701 
+            xmax = 465.296 
+            text = "ils l'ont paralysé alors" 
+        intervals [110]:
+            xmin = 465.296 
+            xmax = 468.072 
+            text = "eh ben parce que madame Fost elle m'a pas donné l'appartement" 
+        intervals [111]:
+            xmin = 468.072 
+            xmax = 475.968 
+            text = "que la d- la docteur faisait les certificats euh en précisant bien euh les portes au pour un fauteuil roulant au cas où" 
+        intervals [112]:
+            xmin = 475.968 
+            xmax = 476.522 
+            text = "" 
+        intervals [113]:
+            xmin = 476.522 
+            xmax = 480.715 
+            text = "bon parce que il a pas été en fauteuil roulant tout le temps hein" 
+        intervals [114]:
+            xmin = 480.715 
+            xmax = 482.56 
+            text = "après après" 
+        intervals [115]:
+            xmin = 482.56 
+            xmax = 486.013 
+            text = "" 
+        intervals [116]:
+            xmin = 486.013 
+            xmax = 493.401 
+            text = "mauvais diagnostic euh donc un mauvais traitement  il s'est retrouvé en rhumatologie alors que c'était en cardiolo-" 
+        intervals [117]:
+            xmin = 493.401 
+            xmax = 494.971 
+            text = "que c'était en neurologie" 
+        intervals [118]:
+            xmin = 494.971 
+            xmax = 496.393 
+            text = "qu'il fallait se retrouver" 
+        intervals [119]:
+            xmin = 496.393 
+            xmax = 498.83 
+            text = "il y avait pas de neurologie à à Bichat" 
+        intervals [120]:
+            xmin = 498.83 
+            xmax = 499.427 
+            text = "" 
+        intervals [121]:
+            xmin = 499.427 
+            xmax = 501.589 
+            text = "fallait le transporter à" 
+        intervals [122]:
+            xmin = 501.589 
+            xmax = 502.122 
+            text = "" 
+        intervals [123]:
+            xmin = 502.122 
+            xmax = 508.875 
+            text = "à soit à Beaujon ou à comment où il était suivi à oh Lariboisière" 
+        intervals [124]:
+            xmin = 508.875 
+            xmax = 509.429 
+            text = "" 
+        intervals [125]:
+            xmin = 509.429 
+            xmax = 516.16 
+            text = "il était suivi par le professeurdonc euh il y a rien eu de tout ça tout ça parce que j'étais pas là ce jour-là enfin j'était là" 
+        intervals [126]:
+            xmin = 516.16 
+            xmax = 519.508 
+            text = "mais j'étais pas présente à l'hôpital ça se serait pas passé comme ça" 
+        intervals [127]:
+            xmin = 519.508 
+            xmax = 523.659 
+            text = "et ils l'ont gardé parce que la retraite était intéressante" 
+        intervals [128]:
+            xmin = 523.659 
+            xmax = 528.868 
+            text = "pour une question de pognon voilà toujours /une question, les questions/ de pognon" 
+        intervals [129]:
+            xmin = 528.868 
+            xmax = 533.611 
+            text = "" 
+        intervals [130]:
+            xmin = 533.611 
+            xmax = 538.431 
+            text = "ben je vous en prie euh" 
+    item [5]:
+        class = "IntervalTier" 
+        name = "Anne" 
+        xmin = 0 
+        xmax = 538.431 
+        intervals: size = 62 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.608 
+            text = "" 
+        intervals [2]:
+            xmin = 1.608 
+            xmax = 9.944 
+            text = "la cuisine la couture" 
+        intervals [3]:
+            xmin = 9.944 
+            xmax = 17.374 
+            text = "ah oui ah la coutureoui oui oui" 
+        intervals [4]:
+            xmin = 17.374 
+            xmax = 17.924 
+            text = "" 
+        intervals [5]:
+            xmin = 17.924 
+            xmax = 20.425 
+            text = "oui /, parce que là/" 
+        intervals [6]:
+            xmin = 20.425 
+            xmax = 30.339 
+            text = "" 
+        intervals [7]:
+            xmin = 30.339 
+            xmax = 33.474 
+            text = "si il y a cours de cuisine le mercredi oui oui oui le mercredi" 
+        intervals [8]:
+            xmin = 33.474 
+            xmax = 35.763 
+            text = "" 
+        intervals [9]:
+            xmin = 35.763 
+            xmax = 43.384 
+            text = "journal ouais elle me dit je pensais pas que j'étais si grosse elle avait été photographiée de très près" 
+        intervals [10]:
+            xmin = 43.384 
+            xmax = 49.735 
+            text = "oui elle est oui je crois que je l'ai là ben oui c'est ce que je disais je j'ai pasà la mairie il y en a plus de journaux" 
+        intervals [11]:
+            xmin = 49.735 
+            xmax = 50.158 
+            text = "" 
+        intervals [12]:
+            xmin = 50.158 
+            xmax = 51.114 
+            text = "non" 
+        intervals [13]:
+            xmin = 51.114 
+            xmax = 66.779 
+            text = "" 
+        intervals [14]:
+            xmin = 66.779 
+            xmax = 68.582 
+            text = "vous avez vu /, qu'on vous aidait/ euh dans le journal" 
+        intervals [15]:
+            xmin = 68.582 
+            xmax = 68.882 
+            text = "" 
+        intervals [16]:
+            xmin = 68.882 
+            xmax = 70.261 
+            text = "c'est le" 
+        intervals [17]:
+            xmin = 70.261 
+            xmax = 73.671 
+            text = "j'ai que celui-là alors je peux pas le m'en défaire" 
+        intervals [18]:
+            xmin = 73.671 
+            xmax = 74.627 
+            text = "" 
+        intervals [19]:
+            xmin = 74.627 
+            xmax = 76.832 
+            text = "oui" 
+        intervals [20]:
+            xmin = 76.832 
+            xmax = 100.5 
+            text = "" 
+        intervals [21]:
+            xmin = 100.5 
+            xmax = 101.245 
+            text = "ah elle a dû le voir" 
+        intervals [22]:
+            xmin = 101.245 
+            xmax = 105.87 
+            text = "" 
+        intervals [23]:
+            xmin = 105.87 
+            xmax = 106.636 
+            text = "oui elle a dû le voir" 
+        intervals [24]:
+            xmin = 106.636 
+            xmax = 108.989 
+            text = "mais là j'en ai pas d'autre parce que j'ai" 
+        intervals [25]:
+            xmin = 108.989 
+            xmax = 138.947 
+            text = "" 
+        intervals [26]:
+            xmin = 138.947 
+            xmax = 140.263 
+            text = "ah ben oui bien sûr" 
+        intervals [27]:
+            xmin = 140.263 
+            xmax = 204.87 
+            text = "" 
+        intervals [28]:
+            xmin = 204.87 
+            xmax = 207.35 
+            text = "oui oui ouibien" 
+        intervals [29]:
+            xmin = 207.35 
+            xmax = 207.862 
+            text = "il est bien" 
+        intervals [30]:
+            xmin = 207.862 
+            xmax = 209.601 
+            text = "bien bien amoché hein oui oui" 
+        intervals [31]:
+            xmin = 209.601 
+            xmax = 211.002 
+            text = "" 
+        intervals [32]:
+            xmin = 211.002 
+            xmax = 212.466 
+            text = "oui il est bien abîmé" 
+        intervals [33]:
+            xmin = 212.466 
+            xmax = 278.341 
+            text = "" 
+        intervals [34]:
+            xmin = 278.341 
+            xmax = 281.984 
+            text = "ah oui" 
+        intervals [35]:
+            xmin = 281.984 
+            xmax = 293.683 
+            text = "" 
+        intervals [36]:
+            xmin = 293.683 
+            xmax = 296.014 
+            text = "il rentrait chez lui il rentrait" 
+        intervals [37]:
+            xmin = 296.014 
+            xmax = 296.843 
+            text = "" 
+        intervals [38]:
+            xmin = 296.843 
+            xmax = 297.778 
+            text = "ouais" 
+        intervals [39]:
+            xmin = 297.778 
+            xmax = 305.174 
+            text = "" 
+        intervals [40]:
+            xmin = 305.174 
+            xmax = 307.865 
+            text = "oui oui oui oui c'est vrai c'est vrai" 
+        intervals [41]:
+            xmin = 307.865 
+            xmax = 344.056 
+            text = "" 
+        intervals [42]:
+            xmin = 344.056 
+            xmax = 345.668 
+            text = "ah ben c'est avec sa canne" 
+        intervals [43]:
+            xmin = 345.668 
+            xmax = 352.51 
+            text = "" 
+        intervals [44]:
+            xmin = 352.51 
+            xmax = 355.307 
+            text = "c'est avec sa canne" 
+        intervals [45]:
+            xmin = 355.307 
+            xmax = 369.008 
+            text = "" 
+        intervals [46]:
+            xmin = 369.008 
+            xmax = 369.858 
+            text = "elle est tombée chez elle" 
+        intervals [47]:
+            xmin = 369.858 
+            xmax = 383.521 
+            text = "" 
+        intervals [48]:
+            xmin = 383.521 
+            xmax = 388.793 
+            text = "les journaux on lit les journaux" 
+        intervals [49]:
+            xmin = 388.793 
+            xmax = 394.031 
+            text = "" 
+        intervals [50]:
+            xmin = 394.031 
+            xmax = 396.109 
+            text = "oui Seine-Saint-Denis c'est en train de passer là" 
+        intervals [51]:
+            xmin = 396.109 
+            xmax = 404.251 
+            text = "" 
+        intervals [52]:
+            xmin = 404.251 
+            xmax = 409.523 
+            text = "oui ben oui bien sûr hein" 
+        intervals [53]:
+            xmin = 409.523 
+            xmax = 410.902 
+            text = "oui oh oui ça fait de la lecture hein" 
+        intervals [54]:
+            xmin = 410.902 
+            xmax = 413.339 
+            text = "" 
+        intervals [55]:
+            xmin = 413.339 
+            xmax = 417.486 
+            text = "mais non elle avait son" 
+        intervals [56]:
+            xmin = 417.486 
+            xmax = 436.108 
+            text = "" 
+        intervals [57]:
+            xmin = 436.108 
+            xmax = 437.128 
+            text = "ah oui" 
+        intervals [58]:
+            xmin = 437.128 
+            xmax = 465.296 
+            text = "" 
+        intervals [59]:
+            xmin = 465.296 
+            xmax = 468.072 
+            text = "parce qu'elle /, logeait/ les gens" 
+        intervals [60]:
+            xmin = 468.072 
+            xmax = 486.013 
+            text = "" 
+        intervals [61]:
+            xmin = 486.013 
+            xmax = 493.401 
+            text = "mais c'est bien ça" 
+        intervals [62]:
+            xmin = 493.401 
+            xmax = 538.431 
+            text = "" 
