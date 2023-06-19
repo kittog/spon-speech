@@ -1,14 +1,18 @@
 import glob
 import re
 from praatio import textgrid
-
+from pathlib import Path
+import os
 # file list
-path = "../TextGrid/"
+print(os.getcwd())
+path = "../cfpp/TextGrid/"
 gridFiles = glob.glob(path + "*.TextGrid")
+print(gridFiles)
 
 # soundFiles = glob.glob(path)
 
-for grid in gridFiles[:2]:
+for grid in gridFiles:
+    filename = Path(grid).stem
     tg = textgrid.openTextgrid(grid, False)
     # create new textgrid
     newtg = textgrid.Textgrid()
@@ -42,7 +46,7 @@ for grid in gridFiles[:2]:
         newtg.addTier(newTier)
     # save new textgrid
     newtg.save("TextGrid-clean/" + grid[len(path):],
-                format="short_textgrid", includeBlankSpaces=True)
+                format="long_textgrid", includeBlankSpaces=True)
 
 enq = []
 for grid in gridFiles:
