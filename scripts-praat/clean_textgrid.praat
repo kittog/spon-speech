@@ -1,7 +1,9 @@
 clearinfo
 
 folder$ = "/home/lena/Documents/LPP/TextGrid"
-fileNames$# = fileNames$# (folder$ +"/*.TextGrid")
+sounds$ = "/home/lena/Documents/cfpp/mp3"
+textFiles = fileNames$# (folder$ +"/*.TextGrid")
+soundFiles = fileNames$# (sounds$ + "/*.mp3")
 
 # loop through .TextGrid files
 for ifile to size (fileNames$#)
