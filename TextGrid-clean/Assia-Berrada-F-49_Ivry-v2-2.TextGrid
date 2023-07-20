@@ -1,288 +1,218 @@
 File type = "ooTextFile"
 Object class = "TextGrid"
 
-xmin = 0 
-xmax = 300 
-tiers? <exists> 
-size = 2 
-item []: 
-    item [1]:
-        class = "IntervalTier" 
-        name = "Florence Lefeuvre (ENQ)" 
-        xmin = 0 
-        xmax = 300 
-        intervals: size = 33 
-        intervals [1]:
-            xmin = 0 
-            xmax = 4.41 
-            text = "voilà bon ben écoutez [mm mm] je sais plus ce que je voulais vous dire euh [mm mm] enfin" 
-        intervals [2]:
-            xmin = 4.41 
-            xmax = 6.425 
-            text = "j'ai vu [pause] oui oui ça fait rien" 
-        intervals [3]:
-            xmin = 6.425 
-            xmax = 10.975 
-            text = "donc ça c'était votre déplacement type dans la journée [mm mm]  [pause] ah oui vous l- le déjeuner voilà" 
-        intervals [4]:
-            xmin = 10.975 
-            xmax = 12.573 
-            text = "le déjeuner" 
-        intervals [5]:
-            xmin = 12.573 
-            xmax = 13.903 
-            text = "" 
-        intervals [6]:
-            xmin = 13.903 
-            xmax = 15.122 
-            text = "pour déjeuner" 
-        intervals [7]:
-            xmin = 15.122 
-            xmax = 18.937 
-            text = "" 
-        intervals [8]:
-            xmin = 18.937 
-            xmax = 21.604 
-            text = "et vous [pause] vous apportez quelque chose" 
-        intervals [9]:
-            xmin = 21.604 
-            xmax = 29.127 
-            text = "" 
-        intervals [10]:
-            xmin = 29.127 
-            xmax = 30.896 
-            text = "ah oui vous faites à manger en fait" 
-        intervals [11]:
-            xmin = 30.896 
-            xmax = 36.477 
-            text = "" 
-        intervals [12]:
-            xmin = 36.477 
-            xmax = 37.939 
-            text = "[mm mm] un casse-croûte" 
-        intervals [13]:
-            xmin = 37.939 
-            xmax = 39.049 
-            text = "" 
-        intervals [14]:
-            xmin = 39.049 
-            xmax = 40.409 
-            text = "d'accord donc ça dépend" 
-        intervals [15]:
-            xmin = 40.409 
-            xmax = 45.511 
-            text = "il y a pas de cantine ou comme ça [pause] non [pause] enfin vous pouvez euh quand même faire comme ça" 
-        intervals [16]:
-            xmin = 45.511 
-            xmax = 46.905 
-            text = "bon ben merci beaucoup" 
-        intervals [17]:
-            xmin = 46.905 
-            xmax = 47.306 
-            text = "" 
-        intervals [18]:
-            xmin = 47.306 
-            xmax = 48.504 
-            text = "est-ce que y a v-" 
-        intervals [19]:
-            xmin = 48.504 
-            xmax = 52.766 
-            text = "y a autre chose euh que vous voyez à [pause] à dire sur votre quartier ou" 
-        intervals [20]:
-            xmin = 52.766 
-            xmax = 54.44 
-            text = "ou euh" 
-        intervals [21]:
-            xmin = 54.44 
-            xmax = 65.105 
-            text = "" 
-        intervals [22]:
-            xmin = 65.105 
-            xmax = 68.279 
-            text = "d'accord y a c'est un appartement qui fait trois pièces y a" 
-        intervals [23]:
-            xmin = 68.279 
-            xmax = 70.584 
-            text = "" 
-        intervals [24]:
-            xmin = 70.584 
-            xmax = 71.679 
-            text = "ah oui c'est grand ça" 
-        intervals [25]:
-            xmin = 71.679 
-            xmax = 73.091 
-            text = "" 
-        intervals [26]:
-            xmin = 73.091 
-            xmax = 75.018 
-            text = "oui oui oui oui" 
-        intervals [27]:
-            xmin = 75.018 
-            xmax = 82.337 
-            text = "" 
-        intervals [28]:
-            xmin = 82.337 
-            xmax = 85.185 
-            text = "d'accord [pause] ben c'est super" 
-        intervals [29]:
-            xmin = 85.185 
-            xmax = 85.879 
-            text = "" 
-        intervals [30]:
-            xmin = 85.879 
-            xmax = 87.256 
-            text = "bon [pause] eh ben très bien" 
-        intervals [31]:
-            xmin = 87.256 
-            xmax = 88.675 
-            text = "on va on va" 
-        intervals [32]:
-            xmin = 88.675 
-            xmax = 90.566 
-            text = "arrêter là sur cette note positive" 
-        intervals [33]:
-            xmin = 90.566 
-            xmax = 300 
-            text = "" 
-    item [2]:
-        class = "IntervalTier" 
-        name = "Assia Berrada" 
-        xmin = 0 
-        xmax = 300 
-        intervals: size = 34 
-        intervals [1]:
-            xmin = 0 
-            xmax = 4.41 
-            text = "" 
-        intervals [2]:
-            xmin = 4.41 
-            xmax = 6.425 
-            text = "excusez moi pour le téléphone ouais" 
-        intervals [3]:
-            xmin = 6.425 
-            xmax = 10.975 
-            text = "" 
-        intervals [4]:
-            xmin = 10.975 
-            xmax = 12.573 
-            text = "ah oui ben oui on a une heure" 
-        intervals [5]:
-            xmin = 12.573 
-            xmax = 13.903 
-            text = "à [pause] pour euh" 
-        intervals [6]:
-            xmin = 13.903 
-            xmax = 15.122 
-            text = "la pause oui" 
-        intervals [7]:
-            xmin = 15.122 
-            xmax = 18.937 
-            text = "bon voilà [pause] on peut sortir on peut y aller au restaurant" 
-        intervals [8]:
-            xmin = 18.937 
-            xmax = 21.604 
-            text = "on peut manger [pause] à la mai- [pause] moi j'apporte" 
-        intervals [9]:
-            xmin = 21.604 
-            xmax = 29.127 
-            text = "avec moi de temps en temps et à manger ou sinon je fais à manger à la là-bas où je travaille   [pause] j'ai une petiteplaque j'ai un frigo j'ai un micro-ondes" 
-        intervals [10]:
-            xmin = 29.127 
-            xmax = 30.896 
-            text = "et euh voilà oui je" 
-        intervals [11]:
-            xmin = 30.896 
-            xmax = 36.477 
-            text = "peux je peux faire quelque chose léger quoi [pause] voilà sinon je je peux apporter avec moi aussi" 
-        intervals [12]:
-            xmin = 36.477 
-            xmax = 37.939 
-            text = "voilà [mm mm]" 
-        intervals [13]:
-            xmin = 37.939 
-            xmax = 39.049 
-            text = "voilà [mm mm]" 
-        intervals [14]:
-            xmin = 39.049 
-            xmax = 40.409 
-            text = "" 
-        intervals [15]:
-            xmin = 40.409 
-            xmax = 45.511 
-            text = "voilà [pause] ah non non y a pasde cantine non non [pause] y a pas de cantine [pause] voilà" 
-        intervals [16]:
-            xmin = 45.511 
-            xmax = 46.905 
-            text = "" 
-        intervals [17]:
-            xmin = 46.905 
-            xmax = 47.306 
-            text = "de rien" 
-        intervals [18]:
-            xmin = 47.306 
-            xmax = 48.504 
-            text = "ça y est" 
-        intervals [19]:
-            xmin = 48.504 
-            xmax = 52.766 
-            text = "" 
-        intervals [20]:
-            xmin = 52.766 
-            xmax = 54.44 
-            text = "euh non y a rien à dire" 
-        intervals [21]:
-            xmin = 54.44 
-            xmax = 65.105 
-            text = "euh comme je viens de vous dire que [pause] j'ai de la chance d'avoir euh cet appartement dans cet endroit [pause] euh la vérité je suis très très bien [pause] voilà" 
-        intervals [22]:
-            xmin = 65.105 
-            xmax = 68.279 
-            text = "" 
-        intervals [23]:
-            xmin = 68.279 
-            xmax = 70.584 
-            text = "euh soixante-sept mètres carrés quand même hein" 
-        intervals [24]:
-            xmin = 70.584 
-            xmax = 71.679 
-            text = "hein [pause] oui" 
-        intervals [25]:
-            xmin = 71.679 
-            xmax = 73.091 
-            text = "c'est un grand séjour" 
-        intervals [26]:
-            xmin = 73.091 
-            xmax = 75.018 
-            text = "plus grand que ça" 
-        intervals [27]:
-            xmin = 75.018 
-            xmax = 82.337 
-            text = "et deux pièces plus euh la salle de bains les toilettes c'est normal et la cuisine [pause] et je suis au plein soleil [pause] la lumière toute la journée" 
-        intervals [28]:
-            xmin = 82.337 
-            xmax = 85.185 
-            text = "voilà je suis très très bien [pause] y a rien à dire" 
-        intervals [29]:
-            xmin = 85.185 
-            xmax = 85.879 
-            text = "voilà" 
-        intervals [30]:
-            xmin = 85.879 
-            xmax = 87.256 
-            text = "" 
-        intervals [31]:
-            xmin = 87.256 
-            xmax = 88.675 
-            text = "voilà [pause] on a fini alors" 
-        intervals [32]:
-            xmin = 88.675 
-            xmax = 90.566 
-            text = "" 
-        intervals [33]:
-            xmin = 90.566 
-            xmax = 92.648 
-            text = "+ [rire en fond] d'accord allez arrêtez" 
-        intervals [34]:
-            xmin = 92.648 
-            xmax = 300 
-            text = "" 
+0.0
+300.0
+<exists>
+2
+"IntervalTier"
+"Florence Lefeuvre (ENQ)"
+0.0
+300.0
+33
+0.0
+4.41
+"voilà bon ben écoutez [mm mm] je sais plus ce que je voulais vous dire euh [mm mm] enfin"
+4.41
+6.425
+"j'ai vu  oui oui ça fait rien"
+6.425
+10.975
+"donc ça c'était votre déplacement type dans la journée [mm mm]   ah oui vous l- le déjeuner voilà"
+10.975
+12.573
+"le déjeuner"
+12.573
+13.903
+""
+13.903
+15.122
+"pour déjeuner [?]"
+15.122
+18.937
+""
+18.937
+21.604
+"et vous  vous apportez quelque chose [?]"
+21.604
+29.127
+""
+29.127
+30.896
+"ah oui vous faites à manger en fait"
+30.896
+36.477
+""
+36.477
+37.939
+"[mm mm] un casse-croûte"
+37.939
+39.049
+""
+39.049
+40.409
+"d'accord donc ça dépend"
+40.409
+45.511
+"il y a pas de cantine ou comme ça  non  enfin vous pouvez euh quand même faire comme ça"
+45.511
+46.905
+"bon ben merci beaucoup"
+46.905
+47.306
+""
+47.306
+48.504
+"est-ce que y a v-"
+48.504
+52.766
+"y a autre chose euh que vous voyez à  à dire sur votre quartier ou"
+52.766
+54.44
+"ou euh"
+54.44
+65.105
+""
+65.105
+68.279
+"d'accord y a c'est un appartement qui fait trois pièces y a"
+68.279
+70.584
+""
+70.584
+71.679
+"ah oui c'est grand ça"
+71.679
+73.091
+""
+73.091
+75.018
+"oui oui oui oui"
+75.018
+82.337
+""
+82.337
+85.185
+"d'accord  ben c'est super"
+85.185
+85.879
+""
+85.879
+87.256
+"bon  eh ben très bien"
+87.256
+88.675
+"on va on va"
+88.675
+90.566
+"arrêter là sur cette note positive"
+90.566
+300.0
+""
+"IntervalTier"
+"Assia Berrada"
+0.0
+300.0
+34
+0.0
+4.41
+""
+4.41
+6.425
+"excusez moi pour le téléphone ouais"
+6.425
+10.975
+""
+10.975
+12.573
+"ah oui ben oui on a une heure"
+12.573
+13.903
+"à  pour euh"
+13.903
+15.122
+"la pause oui"
+15.122
+18.937
+"bon voilà  on peut sortir on peut y aller au restaurant"
+18.937
+21.604
+"on peut manger  à la mai-  moi j'apporte"
+21.604
+29.127
+"avec moi de temps en temps et à manger ou sinon je fais à manger à la là-bas où je travaille    j'ai une petiteplaque j'ai un frigo j'ai un micro-ondes"
+29.127
+30.896
+"et euh voilà oui je"
+30.896
+36.477
+"peux je peux faire quelque chose léger quoi  voilà sinon je je peux apporter avec moi aussi"
+36.477
+37.939
+"voilà [mm mm]"
+37.939
+39.049
+"voilà [mm mm]"
+39.049
+40.409
+""
+40.409
+45.511
+"voilà  ah non non y a pasde cantine non non  y a pas de cantine  voilà"
+45.511
+46.905
+""
+46.905
+47.306
+"de rien"
+47.306
+48.504
+"ça y est [?]"
+48.504
+52.766
+""
+52.766
+54.44
+"euh non y a rien à dire"
+54.44
+65.105
+"euh comme je viens de vous dire que  j'ai de la chance d'avoir euh cet appartement dans cet endroit  euh la vérité je suis très très bien  voilà"
+65.105
+68.279
+""
+68.279
+70.584
+"euh soixante-sept mètres carrés quand même hein"
+70.584
+71.679
+"hein  oui"
+71.679
+73.091
+"c'est un grand séjour"
+73.091
+75.018
+"plus grand que ça"
+75.018
+82.337
+"et deux pièces plus euh la salle de bains les toilettes c'est normal et la cuisine  et je suis au plein soleil  la lumière toute la journée"
+82.337
+85.185
+"voilà je suis très très bien  y a rien à dire"
+85.185
+85.879
+"voilà"
+85.879
+87.256
+""
+87.256
+88.675
+"voilà  on a fini alors [?]"
+88.675
+90.566
+""
+90.566
+92.648
+" [rire en fond] d'accord allez arrêtez"
+92.648
+300.0
+""
