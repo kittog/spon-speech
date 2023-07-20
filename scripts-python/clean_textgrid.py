@@ -1,59 +1,55 @@
-import glob
+#!/bin/python3
+# -*- coding: utf-8 -*-
+
+import tgt
 import re
-from praatio import textgrid
+import glob
 from pathlib import Path
-import os
-# file list
-print(os.getcwd())
-path = "../cfpp/TextGrid/"
-gridFiles = glob.glob(path + "*.TextGrid")
-print(gridFiles)
+import argparse
 
-# soundFiles = glob.glob(path)
 
-for grid in gridFiles:
-    filename = Path(grid).stem
-    tg = textgrid.openTextgrid(grid, False)
-    # create new textgrid
-    newtg = textgrid.Textgrid()
-    tiers = tg.tierNames
-    for itier in range(len(tiers)):
-        tier = tg.getTier(tiers[itier])
-        # labelList = [entry.label for entry in tier.entries]
-        newEntries = []
-        # range(len(tier.entries))
-        for ientry in range(len(tier.entries)):
-            entry = tier.entries[ientry]
-            label = entry.label
+def clean_tier(tier):
+    for ann in tier.annotations:
+        label = ann.text
+        # didascalies
+        clean_label = re.sub("\[\w+\]", "", label)
+        # pauses
+        clean_label = re.sub("\++", "", clean_label)
+        # mmm
+        clean_label = re.sub("(m+h+)", "hm", clean_label)
+        # clitiques
+        clean_label = re.sub("c['] ", "ce", clean_label)
+        clean_label = re.sub("j['] ", "je", clean_label)
+        clean_label = re.sub("t['] ", "tu", clean_label)
 
-            # didascalies
-            cleanLabel = re.sub("(\[|\{)[^pause]\w*(\}|\])", "", label)
-            # speech
-            # cleanLabel = re.sub()
-            # mmm
-            cleanLabel = re.sub("(m+h+)", "euh", cleanLabel)
-            # clitiques
-            cleanLabel = re.sub("c['] ", "ce", cleanLabel)
-            cleanLabel = re.sub("j['] ", "je", cleanLabel)
-            cleanLabel = re.sub("t['] ", "tu", cleanLabel)
+        ann.text = clean_label
 
-            # create new entry
-            newEntry = (entry.start, entry.end, cleanLabel)
-            newEntries.append(newEntry)
 
-        # copy tier, replace entries
-        newTier = tier.new(entries=newEntries)
-        newtg.addTier(newTier)
-    # save new textgrid
-    newtg.save("TextGrid-clean/" + grid[len(path):],
-                format="long_textgrid", includeBlankSpaces=True)
+def parse_args():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('folder', type=str)  # path_to_folder
+    parser.add_argument('output_folder', type=str, default="../TextGrid-clean")
+    args = parser.parse_args()
 
-enq = []
-for grid in gridFiles:
-    tg = textgrid.openTextgrid(grid, False)
-    tiers = tg.tierNames
-    for i in range(len(tiers)):
-        if "ENQ" in tiers[i]:
-            #print(grid + ": " + tiers[i])
-            enq.append(tiers[i])
-#print(len(enq) == len(gridFiles))
+    # process arg
+    tg_files = glob.glob(args.folder + "/*.TextGrid")
+    return args
+
+
+def main():
+    args = parse_args()
+    tg_files = glob.glob(args.folder + "/*.TextGrid")
+
+    for grid in tg_files:
+        filename = Path(grid).stem
+        tg = tgt.io.read_textgrid(grid)
+        tiers = tg.tiers
+        for i in range(len(tiers)):
+            tier = tiers[i]
+            clean_tier(tier)
+
+        tgt.io.write_to_file(tg, f"{args.output_folder}/{filename}.TextGrid")
+
+
+if __name__ == '__main__':
+    main()
