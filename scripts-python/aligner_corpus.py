@@ -2,27 +2,40 @@
 # -*- coding: utf-8 -*-
 
 import argparse
-import glob
 import os
 from pathlib import Path
 from pydub import AudioSegment
 import tgt
 
-def create_textgrid():
-    pass
 
-def create_wave(wave, interval, filename, tier.name):
+def create_textgrid(interval, filename, tier_name):
+    tg_part = tgt.TextGrid()
+    tier_part = tgt.IntervalTier(name=tier_name,
+                                 start_time=interval.start_time,
+                                 end_time=interval.end_time,
+                                 objects=[interval])
+    tg_part.add_tier(tier_part)
+    tgt.write_to_file(tg_part,
+                      f"../aligned/aligner-corpus/{tier_name}/{filename}.TextGrid")
+
+
+def create_wave(wave, interval, filename, tier_name):
     start = interval.start_time
     end = interval.end_time
     new_wave = wave[start*1000:end*1000]
     new_wave.export(
-        f"../aligned/aligner-corpus/{tier.name}/{filename}",
+        f"../aligned/aligner-corpus/{tier_name}/{filename}.wav",
         format="wav"
     )
 
 # spe. webmaus
-def create_txt():
-    pass
+
+
+def create_txt(interval, filename, tier_name):
+    text = interval.text  # label
+    with open(f"../aligned/aligner-corpus/{tier_name}/{filename}.text", "w") as f:
+        f.write(text)
+
 
 def create_output_folder(tg):
     # output folder path
@@ -64,6 +77,7 @@ def main():
             # create wave
             create_wave(wav, intr, filename, tier.name)
             # create txt
+            # create_txt(intr, filename, tier.name)
 
 
 if __name__ == '__main__':
