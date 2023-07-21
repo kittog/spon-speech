@@ -1,6 +1,7 @@
 #!/bin/python3
 # -*- coding: utf-8 -*-
 
+import os
 import tgt
 import re
 import glob
@@ -28,18 +29,19 @@ def clean_tier(tier):
 def parse_args():
     parser = argparse.ArgumentParser()
     parser.add_argument('folder', type=str)  # path_to_folder
-    parser.add_argument('output_folder', type=str, default="../TextGrid-clean")
+    parser.add_argument('output_folder', type=str)
     args = parser.parse_args()
-
-    # process arg
-    tg_files = glob.glob(args.folder + "/*.TextGrid")
     return args
 
 
 def main():
+    print(os.getcwd())
     args = parse_args()
+    print(args)
+    print(args.folder)
+    print(args.folder + "/*.TextGrid")
     tg_files = glob.glob(args.folder + "/*.TextGrid")
-
+    print(tg_files)
     for grid in tg_files:
         filename = Path(grid).stem
         tg = tgt.io.read_textgrid(grid)
