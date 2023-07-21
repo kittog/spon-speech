@@ -29,8 +29,6 @@ def create_wave(wave, interval, filename, tier_name):
     )
 
 # spe. webmaus
-
-
 def create_txt(interval, filename, tier_name):
     text = interval.text  # label
     with open(f"../aligned/aligner-corpus/{tier_name}/{filename}.text", "w") as f:
