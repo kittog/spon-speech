@@ -3,6 +3,7 @@
 
 import argparse
 import os
+from praatio import textgrid
 from pathlib import Path
 from pydub import AudioSegment
 import tgt
@@ -17,6 +18,11 @@ def create_textgrid(interval, filename, tier_name):
     tg_part.add_tier(tier_part)
     tgt.write_to_file(tg_part,
                       f"../aligned/aligner-corpus/{tier_name}/{filename}.TextGrid")
+    tg_part = textgrid.openTextgrid(f"../aligned/aligner-corpus/{tier_name}/{filename}.TextGrid", 
+                                    includeEmptyIntervals=False)
+    tg_part.save(f"../aligned/aligner-corpus/{tier_name}/{filename}.TextGrid",
+                 format="long_textgrid", 
+                 includeBlankSpaces=True)
 
 
 def create_wave(wave, interval, filename, tier_name):
@@ -31,7 +37,7 @@ def create_wave(wave, interval, filename, tier_name):
 # spe. webmaus
 def create_txt(interval, filename, tier_name):
     text = interval.text  # label
-    with open(f"../aligned/aligner-corpus/{tier_name}/{filename}.text", "w") as f:
+    with open(f"../aligned/aligner-corpus/{tier_name}/{filename}.txt", "w") as f:
         f.write(text)
 
 
@@ -57,6 +63,9 @@ def main():
     # process args
     args = parse_args()
     # open files
+    # binary file (praat)
+    tg = textgrid.openTextgrid(args.textgrid, includeEmptyIntervals=False)
+    tg.save(args.textgrid, format="long_textgrid", includeBlankSpaces=True)
     tg = tgt.io.read_textgrid(args.textgrid)
     wav = AudioSegment.from_file(args.wave)
     # create output folder
