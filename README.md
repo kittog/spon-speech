@@ -4,12 +4,19 @@ Travail réalisé dans le cadre de mon stage au Laboratoire de Phonétique et Ph
 > 
 > **Sujet** : *Analyse sociolinguistique des corpus ESLO et CFPP pour des catégories socio-professionnelles, niveau d'étude, etc*
 > 
-> **Dates stage** : 15 mai au 13 juillet 2023
+> **Dates stage** : 15 mai au 31 juillet 2023
 
-#### Guide
-- `scripts-praat` et `scripts-python` : tout est dans le titre ;
-- `TextGrid-corpus` : corpus TexGrid post conversion des fichiers .trs (Transcriber).
+### Guide
+- `scripts-praat` et `scripts-python` : dossiers contenants respectivement les scripts praat et python.
+    - `scripts-praat`
+        - `clean_textgrid.praat` : nettoyage des fichiers TextGrid (avec regex),
+        - `pause_segmentation.praat` : script à terminer si possible ; l'idée était d'automatiser la recherche d'intervalles de parole trop longs sur un TextGrid, afin de pouvoir les segmenter. Finalement, réaliser le processus manuellement n'est pas plus mal.
+    - `scripts-python`
+        - `clean_textgrid.py` : nettoyage des TextGrid (regex) ;
+        - `aligner_corpus_praatio.py` : génère corpus de fichiers .wav et .TextGrid (ou .txt) à partir d'un couple de fichiers .wav et .TextGrid donné pour l'alignement automatique. Génération des TextGrid avec le module `praatio` ;
+        - `aligner_corpus.py` : génération des TextGrid avec `textgridtools` ;
+        - `open_smile_test.ipynb` : notebook d'exploration du module openSMILE (extraction de features, graphique avec seaborn) ;
+        - `overlaps.py` : supprimer les chevauchements dans un fichier TextGrid.
 
-Des pistes qui furent finalement mise de côté :
-- `save_conversation_tiers_as_text_file.praat` : [Lennes](https://lennes.github.io/spect/howto/conversation_transcript.html)
-- `trs_to_tg.pl` : [LingTools at the University of Oregon](http://lingtools.uoregon.edu/tools/trans_to_praat.php)
+- `TextGrid-corpus` : corpus TextGrid post conversion des fichiers .trs (Transcriber).
+- `TextGrid-clean` : corpus TextGrid après "nettoyage", segmentation des tours de parole, sans la tier ENQ.
