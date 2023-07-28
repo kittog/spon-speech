@@ -6,7 +6,7 @@ Deux scripts implémentés pour traiter cette tâche : `clean_textgrid.py` et `c
 
 ### Différents motifs repérés et modifications envisagées :
 - **pauses** : \[pause\], {pause} ou alors + (pause "courte"), +++ (pause "longue")
-    - on coupe la transcription au niveau de la pause ? (pause => \n)
+    - on coupe la transcription au niveau de la pause (sur praat). Il faut finalement obtenir des intervalles de paroles de durée comprise entre 5 et 15s max.
 - **"didascalies"** : \[rires\], \[pff\], \[hhh\], {rires}...
     - suppression des didascalies
 - **clitiques** : "j'\s" (apostrophe toujours suivie d'un espace)
