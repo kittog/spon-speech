@@ -11,17 +11,14 @@ from pydub import AudioSegment
 import opensmile
 
 def process_df(features):
-    # preprocess df and save to csv
+    # preprocess dataframe and save to csv
     # drop start and end indexes
     features.rest_index(inplace=True, level=['start', 'end'])
     # convert timedelta to seconds
     features['start'] = features['start'].dt.total_seconds()
     features['end'] = features['end'].dt.total_seconds()
-    # extract center formant frequencies
-    centerformantfreqs = ['F1frequency_sma3nz',
-                      'F2frequency_sma3nz', 'F3frequency_sma3nz']
-    formants = features[centerformantfreqs]
-    formants.to_csv('file.csv')
+    # save to csv
+    features.to_csv('file.csv')
 
 def extract_audio_features(filename, start, end):
     # filename : corresponding wav (to textgrid)
@@ -29,7 +26,7 @@ def extract_audio_features(filename, start, end):
     seg = AudioSegment.from_file(filename)
     # extract segment
     phone = seg[start*1000:end*1000]
-    phone_filename = ""
+    phone_filename = "" # TODO create needed arborescence /phones/phoneme/features/.csv
     # save file
     phone.export(phone_filename, format="wav")
     # extract features w opensmile
