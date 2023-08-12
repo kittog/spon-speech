@@ -84,7 +84,7 @@ def main():
             # create wave
             create_wave(wav, intr, filename, tier.name)
             # create txt
-            # create_txt(intr, filename, tier.name)
+            #create_txt(intr, filename, tier.name)
 
 
 if __name__ == '__main__':
