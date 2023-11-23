@@ -1,0 +1,74 @@
+PRÉNOM,NOM,GENRE,ANNÉE DE NAISSANCE,AGE,ARR./VILLE,DIPLÔME,PROFESSION,AUTRES.
+LEA,SAMVARIAN,F,1965,55,2,LICENCE,Chanteuse d'opéra.,Mariée à un chanteur d'opéra anglais. 
+CHRISTOPHE,ANDRÉ,M,1946,61,5,MASTER,Professeur dans une école de commerce.,Marié. retraité
+MARIE-ANNE,ANDRÉ,F,1945,62,5,LICENCE,Professeur de mathématiques. secrétaire.,Marié
+LAURENCE,LEBLOND,F,1964,43,7,LICENCE. ECOLE DE COMMERCE,Responsable marketing,Mère : secrétaire. père : cadre chez Hachette
+STÉPHANIE,ZANOTTI,F,1958,49,8,MASTER,sans profession,Père : ingénieur.
+LUCIE,DA SILVA,F,,22,7,MASTER,Employée de banque,Étude en cours (M1). Mère : gardienne d'immeuble.
+PAULINE,DE BORDES,F,1941,67,7,BAC,Editrice. directrice de galerie...,
+RAPHAËL,LARIVIÈRE,M,,20,7,MÉDECINE,,3ème année de médecine. Père cardiologue et mère infirmière.
+YVETTE,AUDIN,F,1938,70,7,,Édition,
+ROSEMONDE,EHRARD,F,1948,60,7,BAC+4,Assistante. enseignement (école),
+PATRICK,BERNARD,F,1948,60,7,BAC+4,Conseiller municipal,
+ANITA,MUSSO,F,1962,46,11,LICENCE,Auxiliaire de vie,Divorcée. deux enfants. En première année de master.
+MATHILDE,LELONG,F,1920,88,11,CERTIFICAT ETU.. CAP,5 ans d'activité pro.,Retraitée. CAP de couture. Mère de Dominique Orsin.
+DOMINIQUE,ORSING,F,1944,64,11,BAC,Institutrice,Père instituteur.
+BLANCHE,DUCHEMIN,F,1983,25,11,MÉDECINE,Interne en médecine,3ème cycle en médecine en cours.
+REINE,CÉRÊT,F,1948,60,11,DOCTORAT,Responsable d'études,Mère : secrétaire. père : technicien. Mère de Blanche. Mariée.
+JEAN-CLAUDE,DUCHEMIN,M,1948,60,11,DEA,,Mère : sans profession. père : artisan électricien. Père de Blanche. Marié.
+JULIE,TEIXEIRA,F,1991,18,11,PREPA,,Mère : Anita Musso. Père : facteur/chômeur. Soeur : Katia.
+KATIA,TEIXEIRA,F,1994,15,11,LYCÉE,,En classe de seconde. Parents : idem que Julie.
+PIERRE,BEYSSON,M,1948,59,12,BAC+4,Enseignant,Marié ? Compagne : Marie Beysson.
+MARIE,BEYSSON,F,,,12,,Fonctionnaire (préfecture Paris),Avec Pierre Beysson. Née à Toulouse.
+BERNARD,ROSIER,M,1947,60,12,LICENCE,Édition,Marié à Micheline Rosier.
+MICHELINE,ROSIER,F,1954,53,12,,,Marié à Bernard Rosier.
+VALENTINE,TESTANIER,F,1948,60,12,CERTIFICAT ETU.,Agent de service (collège),
+MATHIEU,ROSIER,M,1980,28,12,THÈSE,Enseignant d'hist.-géo. Responsable service éducatif.,Parcours très académique : prépa littéraire. licence. puis maîtrise. Thèse en histoire en cours. Père : éditeur. études d'histoire. mère : professeure de liturgie. études d'hébreu.
+ELISA,RYSNIK,F,1982,26,12,THÈSE,,Licence. maîtrise. deux Master 2. Thèse CIFRE en cours. Mère : ingénieur en info.. études d'électroniques. père : conservateur bibliothèque. études linguistiques et ethnologie.
+GABRIEL,PUJADE,M,1968,40,13,BAC+5,,Mère : sans profession. père : ingénieur commercial. origine vietnamienne.
+CATHERINE,MENARD,F,1975,36,13,DOCTORAT,Chercheuse,Mère : conseillère d'orientation. père : dessinateur
+AUDE,LAMOULIE,F,1977,32,13,BAC+7,Expert-comptable,Mère : sans profession. père : fonctionnaire. Mariée. Soeur de Constance.
+CONSTANCE,LAMOULIE,F,1972,37,13,BTS,Responsable chez Stallergene,Mariée. 2 enfants.  Soeur d'Aude. 
+JAN,KRACHSKI,H,1931,80,13,BEAUX-ARTS,Peintre. artiste,Né à Varsovie. Mère : sans profession. père : fonctionnaire. Marié à Monica Richarska. Enfants. petits-enfants.
+MONICA,RICHARSKA,F,1936,75,13,ÉTUDES SUP.,Restauration tableaux.,Née à Varsovie. Mère : médecin. père : architecte.
+JOSEPHINE,LE COAT,F,1970,47,13,DOCTORAT,Chercheuse.,Mère : assistante de direction. père : ingénieur
+ISABELLE,MENARD,F,1947,68,13,LICENCE,Attachée de presse. conseillère RH,Mère : sans profession/commerciale. père : vétérinaire.
+NICOLE,NOROY,F,1955,53,14,LICENCE,Libraire,Parents : poissoniers.
+,MIRA,F,1922,88,14,BEAUX-ARTS,Artiste. peintre,Mariée. Mère : femme au foyer. père : mathématicien. Née à Belgrade. Serbie. Arrivée en France à ses 28 ans.
+PAUL,MOREL,M,1943,71,15,LICENCE,Cadre de banque,Marié à Amandine Morel. 1 enfant. 2 petits-enfants. Mère : sans profession. père : architecte.
+AMANDINE,MOREL,F,1947,67,15,BAC+1,Navigante Air France,Mariée à Paul Morel. promotion interne. Mère : sans profession. père : entrepeneur de travaux.
+EDOUARD,MERKUS,M,1971,48,14,LICENCE,Journaliste. directeur de communication,Marié. père et mère : médecin.
+MARK,JACOBSON,M,1931,83,16,LICENCE,Chercheur en physique,Divorcé. mère : représentante de commerce.
+JEAN-FREDERIC,SCHMIDT,M,1947,70,17,POLYTECHNIQUE/ENA,Haut fonctionnaire,Marié à Monette Schmidt. trois enfants. 
+MONETTE,SCHMIDT,F,1948,69,17,ORTHOPHONIE,Sans profession. mais formation d'orthophoniste,Mariée.
+PAUL,SIMO,M,1989,20,18,LICENCE,,Étudiant. 1ère année de licence. Mère : vendeuse en boulangerie. père : entrepeneur
+PIERRE-MARIE,SIMO,M,1975,34,18,BAC+5,Ingénieur dans l'automobile,Né au Cameroun. Arrivée en France à 9 ans. Marié. Mère : cuisinière.
+LEES,SIMO,F,1979,30,18,LICENCE,Enseignante,Née au Pays-Bas. Mère : secrétaire. père : ouvrier. Lien de parenté avec Paul et Pierre-Mari.
+AURÉANNE,LHUISSIER,F,1992,28,20,DEA,Animatrice,Mère : animatrice
+PIERRE-FABIEN,BENOÎT,M,1991,29,20,BAC,Technicien son,Parents : médecins
+GARY,COLLARD,M,1985,24,20,MASTER,Vendeur,Mère : comptable. professeure de danse. père : directeur salle de sport. En cours d'études.
+JACQUELINE,PELLETIER,F,1945,65,IVRY,CAP,Collaboratrice d'acheteur. puis travail précaire. chômage.,Beaucoup de précarité (professionnelle). Séparée. 3 enfants. Parents : concierges. parisiens depuis 4 générations
+MONIQUE,CHASLON,F,1960,50,IVRY,ÉTUDES SUP.,Directrice RH,Père : cuisinier. Mariée à Frédéric Chaslon. 1 enfant.
+FRÉDÉRIC,CHASLON,M,1960,50,IVRY,BAC ?,Cadre moyen,Marié à Monique Chaslon. 1 enfant.
+ASSIA,BERRADA,F,1964,49,IVRY,COLLÈGE,Technicien de surface,Née à Oran. Mère : chef de cuisine.
+KILIAN,BELAMY,M,1986,22,IVRY,MASTER,,Mère : assistance commerciale. père : contrôleur de gestion
+LUCAS,HERMANO,M,1987,21,IVRY,BAC+4,,Mère : au foyer (études botanique). père : cadre technico-commercial (formation ingénieur). Prépare diplôme d'ingénieur. A vécu en Argentine jusqu'à l'âge de 4 ans.
+LOUISE,LIOTARD,F,1920,88,SAINT-OUEN,CERTIFICAT ETU.,Télétypiste.,Veuve. Mère : sans profession. père : bûcheron
+JEANE,MALLET,F,1933,75,SAINT-OUEN,,Aide en boutique,Femme au foyer après son mariage.  Mère : grainetier.
+YOUCEF,ZERARI,M,,29,SAINT-OUEN,DESS,Travaux précaires variés.,Né au Maroc. À Saint-Ouen depuis l'âge de 2 ans. Père : agriculteur. ouvrier.
+ABDEL,HACHIM,M,,25,SAINT-OUEN,CAP pâtisserie,Livreur. pâtissier,Mère : femme au foyer. père : gardien d'immeuble. Parents marocains.
+CATHERINE,LECUYER,F,1973,39,SAINT-OUEN,LICENCE,Graphiste,Mère : assistante direction. père : plombier
+JEAN-LUC,ARDOIN,M,1957,62,SAINT-OUEN,LICENCE,Thermicien,Mère : concierge. père : ajusteur
+ANDRE,MORANGE,M,1951,58,MONTREUIL,CERTIFICAT ETU.,Informaticien dans une banque.,Mère : fabrique de bonbons. père : artisan
+MARIE-HÉLÈNE,MATERA,F,1941,67,MONTREUIL,,Secrétaire. sténo-dactylo,Parents immigrés italiens.
+MIREILLE,MASSON,F,1944,64,MONTREUIL,,Fonctionnaire,
+YOUNES,BELKACEM,M,1949,59,MONTREUIL,PRIMAIRE,Peintre en bâtiment. tourneur,Né en Algérie.
+DOMINIQUE,VALIN,F,1971,37,SURESNES,BAC+7,Expert comptable. directrice financière,Mère : professeure d'Allemand. père : cadre chez Renault
+ISABELLE,LEGRAND,F,1977,32,ROSNY,BAC,Employée CAF,Mère : ouvrière. père : garagiste
+ANNE-LIES,SIMO-GROEN,F,1979,30,,DOCTORAT,Vacataire à Nanterre,Mariée à Pierre-Marie Simo. Née aux Pays Bas. arrivée en France à 21 ans.
+GUYLAINE,DUPRAT,F,1986,29,BAGNOLET,BEP,Vente et confection de vêtements,Mère : parisienne. femme au foyer. brevet. père : cadre. baccalauréat
+FLORENCE,LEFEUVRE,F,1967,52,CHELLES,HDR,Professeur université,Père : formation ingénieur. professeur université. mère : licence d'anglais. professeur d'anglais (secondaire)
+MATHIS,LEMONNIER,M,2000,19,CHELLES,BAC,,Neveu de Florence Lefeuvre. Père : cadre à EDF (polytechnique). mère : professeure des écoles (lettres modernes)
+DELPHINE,LEMONNIER,F,2003,16,CHELLES,LYCÉE,,Soeur de Mathis. Nièce de Florence Lefeuvre.
+BÉNÉDICTE,LEFÉBURE,F,1991,30,ERMONT,ÉCOLE D'INGÉNIEUR,Ingénieur,Mère : cadre banque (école commerce). père : cadre à EDF (bac + 4)
+SYLVAIN,LEFÉBURE,M,1994,27,ERMONT,MASTER,Ingénieur,Frère de Bénédicte.
