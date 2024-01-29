@@ -7,7 +7,7 @@ Ce dépôt comprend l'ensemble de mon travail réalisé pour mon mémoire de rec
 
 ### Guide
 - `scripts` : scripts python et praat
-	- `tutorials` : pour les notebooks "tutoriels" que j'ai réalisé (openSMILE)
+	- `tutorials` : pour les notebooks "tutoriels" que j'ai réalisé (openSMILE, whisperai)
 - `notes` : fichiers `.md`
 - `TextGrid-corpus` : fichiers TextGrid du CFPP
 - `cfpp_metadata.csv` : métadonnées du CFPP
