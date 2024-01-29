@@ -24,36 +24,15 @@ def create_wave(wave, entry, filename, tier_name):
         format="wav"
     )
 
-def write_tg(entry, tier, tg, tier_name, filename):
+def create_textgrid(entry, tier, tg, tier_name, filename):
     # create new textgrid file from extracted interval object
     newtg = textgrid.Textgrid()
     duration = entry.end - entry.start
-    new_entries = [Interval(0, duration, entry.label)]
-    #if entry.end == tg.maxTimestamp:
-    #    newEntries = [Interval(tg.minTimestamp, entry.start, ""), entry]
-    #else:
-    #    newEntries = [Interval(tg.minTimestamp, entry.start, ""), entry, Interval(
-    #        entry.end, tg.maxTimestamp, "")]
-    new_tier = tier.new(entries=new_entries)
-    newtg.addTier(new_tier)
+    new_intr = textgrid.IntervalTier(name=tier_name, entries=[('0', duration, entry.label), ],
+                                  minT=0, maxT=duration)
+    newtg.addTier(new_intr)
     newtg.save(f"../aligner-corpus/{tier_name}/{filename}.TextGrid",
                format="long_textgrid", includeBlankSpaces=False)
-
-def create_textgrid(interval, filename, tier_name):
-    tg_part = tgt.TextGrid()
-    tier_part = tgt.IntervalTier(name=tier_name,
-                                 start_time=0,
-                                 # duration
-                                 end_time=(interval.end_time - interval.start_time),
-                                 objects=[interval])
-    tg_part.add_tier(tier_part)
-    tgt.write_to_file(tg_part,
-                      f"../aligner-corpus/{tier_name}/{filename}.TextGrid")
-    tg_part = textgrid.openTextgrid(f"../aligner-corpus/{tier_name}/{filename}.TextGrid",
-                                    includeEmptyIntervals=False)
-    tg_part.save(f"../aligner-corpus/{tier_name}/{filename}.TextGrid",
-                 format="long_textgrid",
-                 includeBlankSpaces=True)
 
 def create_txt(entry, filename, tier_name):
     '''Creates text file with corresponding transcription for Webmaus.'''
@@ -87,7 +66,6 @@ def main():
     tg = textgrid.openTextgrid(tg_file, includeEmptyIntervals=False)
     tg.save(tg_file, format="long_textgrid", includeBlankSpaces=True)
     # open files
-    # tg = tgt.io.read_textgrid(tg_file)
     tg = textgrid.openTextgrid(tg_file, False)
     wav = AudioSegment.from_file(wav_file)
     # create output folder
@@ -101,16 +79,12 @@ def main():
         for ientry in range(len(tier.entries)):
             entry = tier.entries[ientry]
             filename = f'''{speaker}_{round(entry.start,3)}_{round(entry.end,3)}'''
-            print(filename)
-            print(entry.start, entry.end)
-            # filename = f"{speaker}_{round(intr.start_time, 3)}_{round(intr.end_time, 3)}"
-                # create wave file
+            # create wave file
             create_wave(wav, entry, filename, tier.name)
-                # create txt file
+            # create txt file
             create_txt(entry, filename, tier.name)
             # create TextGrid
-            # create_textgrid(intr, filename, tier.name)
-            write_tg(entry, tier, tg, tiers[itier], filename)
+            create_textgrid(entry, tier, tg, tiers[itier], filename)
 
 
 if __name__ == "__main__":
