@@ -16,13 +16,12 @@ from pathlib import Path
 
 def create_wave(wave, entry, filename, tier_name):
     '''Extracts audio portion corresponding to selected interval.'''
-    start = entry.start
-    end = entry.end
-    new_wave = wave[start*1000:end*1000]
+    new_wave = wave[entry.start*1000:entry.end*1000]
     new_wave.export(
         f"../aligner-corpus/{tier_name}/{filename}.wav",
         format="wav"
-    )
+    )    
+
 
 def create_textgrid(entry, tier, tg, tier_name, filename):
     # create new textgrid file from extracted interval object
@@ -67,7 +66,8 @@ def main():
     tg.save(tg_file, format="long_textgrid", includeBlankSpaces=True)
     # open files
     tg = textgrid.openTextgrid(tg_file, False)
-    wav = AudioSegment.from_file(wav_file)
+    # wav = AudioSegment.from_file(wav_file)
+    wav = ffmpeg.input(wav_file)
     # create output folder
     create_output_folder(tg)
     # segment into files
